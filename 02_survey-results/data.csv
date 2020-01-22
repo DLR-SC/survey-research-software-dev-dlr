@@ -1,0 +1,774 @@
+,Please select your age.,What is the highest level of education you have attained?,In which discipline is your highest academic qualification?,In which institute do you work?,Do you write code as part of your job?,Who uses the code that you write?,How many years of software development experience do you have?,What programming language do you use at work? Please select all that apply.,Please rate every answer on a scale from 1 to 10. The sum of all 4 answers must be 10.,"In an average month, how much time do you spend on software development?","In an average month, how much time do you spend on research?","In an average month, how much time do you spend on management?","In an average month, how much time do you spend on other activities?","In an average month, how much time would you like to spend on software development?","In an average month, how much time would you like to spend on research?","In an average month, how much time would you like to spend on management?","In an average month, how much time would you like to spend on other activities?",Which version control tools do you use for software development? Please select all that apply.,Are you documenting your software?,"What kind of documentation do you write? Please rate every answer with “never”, “sometimes”, or “regularly”.",Developer guide,Code comments,Guide for new contributors,User manual,Release notes,Installation notes,README,Are you testing your software?,"How do you test your software? Please rate every answer with “never”, “sometimes”, or “regularly”.",Automated,semi-automated,manually,"When do you test your software? Please rate every answer with “never”, “sometimes”, or “regularly”.",Before I publish results based on it,Before I give it to someone else,During development,Did you ever reference or acknowledge software in a publication?,How do you reference software in a publication? Please select all that apply.,Do you care for making your software citable?
+0,35 - 44,Master degree,Computer Science,Institute Space 17,Yes,2,15.0,Python,,2.0,2.0,4.0,2.0,4.0,3.0,1.0,1.0,Subversion;#Git,Yes,,2.0,3.0,2.0,2.0,2.0,3.0,3.0,Yes,,2.0,3.0,3.0,,3.0,3.0,3.0,Yes,Name;#Link;#DOI,Yes
+1,25 - 34,Master degree,Computer Science,Institute Space 17,Yes,4,10.0,Java;#Python,,1.0,1.0,5.0,3.0,3.0,3.0,3.0,1.0,Subversion;#Git,Yes,,2.0,3.0,2.0,2.0,1.0,2.0,3.0,Yes,,2.0,2.0,2.0,,3.0,3.0,2.0,Yes,Name;#Link,Yes
+2,35 - 44,Doctorate,Physics,Institute Energy 4,Yes,2,8.0,Java;#Python;#JavaScript;#SQL,,6.0,2.0,1.0,1.0,4.0,5.0,0.0,1.0,Subversion,Yes,,2.0,3.0,1.0,2.0,1.0,3.0,2.0,Yes,,3.0,3.0,2.0,,2.0,3.0,3.0,Yes,Name;#DOI,Yes
+3,35 - 44,Other,Other,Institute Space 17,Yes,3,29.0,Java;#C++,,1.0,2.0,4.0,3.0,4.0,6.0,0.0,0.0,Subversion;#Git,Yes,,2.0,3.0,2.0,2.0,3.0,2.0,2.0,Yes,,3.0,2.0,2.0,,3.0,3.0,3.0,No,,Yes
+4,35 - 44,Master degree,Mathematics,Institute Space 12,Yes,2,25.0,C++;#Perl,,4.0,1.0,3.0,2.0,5.0,1.0,3.0,1.0,Subversion;#Git,Yes,,2.0,3.0,2.0,3.0,2.0,2.0,3.0,Yes,,2.0,2.0,2.0,,2.0,2.0,2.0,No,Link;#DOI,Yes
+5,25 - 34,Master degree,Computer Science,Institute Space 12,Yes,4,15.0,Python;#JavaScript,,6.0,2.0,1.0,1.0,8.0,1.0,0.0,1.0,Git,Yes,,2.0,3.0,2.0,2.0,2.0,2.0,3.0,Yes,,2.0,2.0,,,3.0,3.0,3.0,Yes,Name;#Link;#DOI;#Other,Yes
+6,25 - 34,Master degree,Mechanical Engineering,Institute Aeronautics 5,Yes,0 - Mostly me,3.0,C;#Python;#C++;#MATLAB,,3.0,2.0,2.0,3.0,3.0,4.0,2.0,1.0,Subversion,Yes,,2.0,3.0,1.0,3.0,2.0,3.0,2.0,Yes,,3.0,3.0,2.0,,3.0,3.0,3.0,No,,No
+7,25 - 34,Master degree,Computer Science,Institute Aeronautics 2,Yes,3,7.0,Java;#C#;#SQL;#MATLAB,,3.0,2.0,2.0,3.0,3.0,3.0,2.0,2.0,"Other DVCS (e.g. Bazaar, BitKeeper, GNU arch, Mercurial, Monotone)",Yes,,1.0,2.0,2.0,1.0,3.0,3.0,1.0,Yes,,3.0,3.0,3.0,,3.0,3.0,3.0,No,,No
+8,25 - 34,Master degree,Aeronautical & Manufacturing Engineering,Institute Space 17,Yes,5 - Mostly other people,6.0,Python;#C++,,7.0,1.0,0.0,2.0,5.0,4.0,1.0,0.0,Git,Yes,,2.0,3.0,2.0,2.0,1.0,1.0,2.0,Yes,,1.0,2.0,2.0,,2.0,1.0,3.0,No,Other,Yes
+9,18 - 24,Undergraduate degree,Mathematics,Institute Space 17,Yes,2,3.0,C;#Python;#C++;#MATLAB;#Fortran,,5.0,3.0,1.0,1.0,5.0,3.0,1.0,1.0,Git,Yes,,1.0,3.0,1.0,1.0,1.0,2.0,2.0,Yes,,1.0,2.0,3.0,,3.0,3.0,2.0,Yes,Name;#Link,Yes
+10,25 - 34,Master degree,Computer Science,Institute Space 17,Yes,2,4.0,Java;#Python,,3.0,5.0,1.0,1.0,2.0,6.0,1.0,1.0,Git,Yes,,2.0,3.0,2.0,1.0,1.0,3.0,3.0,No,,1.0,1.0,2.0,,2.0,2.0,1.0,No,Name;#DOI,Yes
+11,25 - 34,Doctorate,Computer Science,Institute Aeronautics 4,Yes,1,10.0,Java;#C++;#C#;#Other,,4.0,3.0,2.0,1.0,4.0,4.0,1.0,1.0,Subversion;#Git,Yes,,2.0,3.0,1.0,1.0,1.0,1.0,2.0,Yes,,1.0,2.0,3.0,,3.0,3.0,2.0,Yes,Name;#Link,Yes
+12,25 - 34,Master degree,Electrical & Electronic Engineering,Institute Space 17,Yes,4,2.0,C;#Python;#C++;#SQL,,9.0,1.0,0.0,0.0,7.0,3.0,0.0,0.0,Git,Yes,,1.0,3.0,2.0,2.0,1.0,1.0,2.0,Yes,,2.0,2.0,3.0,,3.0,2.0,3.0,Yes,Name;#Link,Yes
+13,25 - 34,Master degree,Computer Science,Institute Space 12,Yes,1,5.0,Python;#C++;#MATLAB,,4.0,4.0,1.0,1.0,3.0,5.0,1.0,1.0,Git,Yes,,2.0,3.0,1.0,1.0,1.0,2.0,3.0,Yes,,1.0,2.0,3.0,,3.0,3.0,2.0,Yes,Name;#Link,Yes
+14,25 - 34,Master degree,Computer Science,Institute Transport 1,Yes,1,10.0,Java;#C;#Python;#C++;#JavaScript;#SQL;#R,,2.0,2.0,3.0,3.0,4.0,3.0,1.0,2.0,Subversion;#Git,Yes,,1.0,3.0,1.0,3.0,2.0,2.0,2.0,Yes,,1.0,2.0,3.0,,3.0,2.0,3.0,Yes,Name;#Link,Yes
+15,25 - 34,Undergraduate degree,Computer Science,Institute Transport 3,Yes,2,5.0,Java;#C;#Python;#C++;#JavaScript,,4.0,2.0,1.0,3.0,4.0,3.0,1.0,2.0,Subversion;#Git,Yes,,1.0,3.0,1.0,2.0,1.0,2.0,2.0,Yes,,1.0,1.0,3.0,,2.0,3.0,3.0,No,,Yes
+16,35 - 44,Doctorate,Physics,Institute Space 16,Yes,5 - Mostly other people,10.0,Java;#Python;#Visual Basic .NET;#C#;#SQL,,4.0,1.0,4.0,2.0,6.0,2.0,1.0,1.0,Git,Yes,,2.0,3.0,2.0,2.0,3.0,3.0,3.0,Yes,,3.0,2.0,2.0,,3.0,3.0,3.0,No,,No
+17,25 - 34,Master degree,Computer Science,Institute Space 16,Yes,5 - Mostly other people,10.0,Python;#Rust;#Other,,7.0,1.0,1.0,1.0,8.0,1.0,,1.0,Git,Yes,,2.0,3.0,1.0,2.0,3.0,3.0,3.0,Yes,,3.0,2.0,2.0,,3.0,3.0,3.0,No,,No
+18,45 - 54,Doctorate,Computer Science,Institute Transport 1,Yes,5 - Mostly other people,34.0,Python;#C++;#R;#Lisp,,5.0,0.0,3.0,2.0,7.0,3.0,0.0,0.0,Subversion;#Git,Yes,,2.0,3.0,1.0,3.0,3.0,3.0,3.0,Yes,,1.0,1.0,3.0,,1.0,2.0,3.0,Yes,Name;#Link,No
+19,35 - 44,Doctorate,Mathematics,Institute Space 17,Yes,4,18.0,C;#Python;#C++;#Fortran,,6.0,3.0,1.0,,5.0,5.0,,,Git,Yes,,2.0,3.0,1.0,2.0,1.0,1.0,2.0,Yes,,3.0,2.0,2.0,,3.0,3.0,3.0,Yes,Name;#Link,No
+20,25 - 34,Master degree,Computer Science,Institute Space 17,Yes,3,5.0,Java;#C;#Python;#C++,,3.0,2.0,5.0,,4.0,3.0,3.0,,Git,Yes,,1.0,3.0,1.0,2.0,1.0,2.0,3.0,Yes,,3.0,3.0,1.0,,3.0,3.0,3.0,No,,No
+21,25 - 34,Master degree,Computer Science,Institute Space 12,Yes,3,4.0,C;#C++;#SQL;#Other,,5.0,3.0,1.0,1.0,5.0,5.0,0.0,0.0,Git,Yes,,1.0,3.0,1.0,1.0,1.0,2.0,2.0,Yes,,3.0,3.0,3.0,,1.0,1.0,3.0,Yes,Name;#Link,No
+22,55 or older,Doctorate,Mathematics,Institute Aeronautics 8,Yes,5 - Mostly other people,42.0,C,,8.0,0.0,0.0,2.0,7.0,1.0,0.0,2.0,CVS,Yes,,2.0,3.0,2.0,3.0,3.0,1.0,1.0,Yes,,,2.0,3.0,,,3.0,3.0,Yes,Name,No
+23,25 - 34,Undergraduate degree,Computer Science,Institute Aeronautics 4,Yes,2,5.0,Java;#Python;#C#;#JavaScript,,3.0,2.0,4.0,1.0,5.0,3.0,1.0,1.0,Git,Yes,,1.0,3.0,1.0,2.0,1.0,2.0,3.0,Yes,,2.0,2.0,3.0,,3.0,3.0,3.0,No,,No
+24,35 - 44,Master degree,Communication & Media Studies,Institute Aeronautics 11,Yes,2,10.0,Python;#Other,,7.0,2.0,5.0,3.0,9.0,1.0,2.0,2.0,Subversion;#Git;#Other,Yes,,1.0,3.0,1.0,1.0,2.0,2.0,3.0,Yes,,2.0,2.0,2.0,,2.0,2.0,3.0,No,,No
+25,25 - 34,Master degree,Mechanical Engineering,Institute Aeronautics 5,Yes,1,4.0,Python,,3.0,3.0,2.0,2.0,5.0,5.0,0.0,0.0,Subversion,Yes,,1.0,3.0,1.0,1.0,1.0,2.0,2.0,Yes,,1.0,1.0,3.0,,2.0,2.0,3.0,Yes,Name;#Link;#Other,Yes
+26,25 - 34,Doctorate,Mathematics,Institute Space 1,Yes,1,20.0,Java;#Python;#JavaScript,,4.0,4.0,1.0,1.0,4.0,4.0,1.0,3.0,Git,Yes,,1.0,3.0,1.0,1.0,1.0,1.0,3.0,Yes,,3.0,1.0,1.0,,1.0,1.0,3.0,No,,Yes
+27,25 - 34,Master degree,Other,Institute Transport 1,Yes,3,6.0,C;#Python;#C++;#JavaScript,,3.0,2.0,5.0,,4.0,5.0,1.0,,Subversion;#Git,Yes,,2.0,3.0,2.0,2.0,3.0,2.0,2.0,Yes,,1.0,2.0,3.0,,2.0,2.0,3.0,No,,Yes
+28,35 - 44,Master degree,Electrical & Electronic Engineering,Institute Aeronautics 6,Yes,3,15.0,C;#C++,,4.0,3.0,2.0,1.0,5.0,4.0,,1.0,Subversion,Yes,,1.0,3.0,1.0,2.0,1.0,2.0,3.0,Yes,,3.0,2.0,2.0,,3.0,3.0,2.0,Yes,Name;#DOI,Yes
+29,25 - 34,Master degree,Aeronautical & Manufacturing Engineering,Institute Space 10,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+30,25 - 34,Master degree,Aeronautical & Manufacturing Engineering,Institute Space 16,Yes,2,10.0,Python;#C++;#Fortran,,6.0,2.0,1.0,1.0,7.0,3.0,,,Git,Yes,,2.0,3.0,1.0,2.0,1.0,2.0,2.0,Yes,,3.0,1.0,3.0,,2.0,2.0,3.0,No,Name,No
+31,35 - 44,Master degree,Aeronautical & Manufacturing Engineering,Institute Aeronautics 5,Yes,1,9.0,Python;#Visual Basic,,5.0,1.0,1.0,3.0,5.0,3.0,1.0,1.0,Subversion,Yes,,1.0,2.0,1.0,2.0,1.0,2.0,2.0,Yes,,2.0,2.0,2.0,,2.0,2.0,3.0,No,,No
+32,35 - 44,Master degree,Mathematics,Institute Space 16,Yes,5 - Mostly other people,9.0,C#;#Other,,4.0,0.0,3.0,3.0,5.0,0.0,2.0,3.0,Git,Yes,,2.0,3.0,2.0,2.0,3.0,2.0,1.0,Yes,,3.0,3.0,3.0,,3.0,3.0,3.0,Yes,Name,No
+33,35 - 44,Doctorate,Aeronautical & Manufacturing Engineering,Institute Aeronautics 3,Yes,1,4.0,C;#C++;#C#;#Fortran,,1.0,2.0,5.0,2.0,2.0,4.0,2.0,2.0,Subversion,Yes,,1.0,3.0,1.0,2.0,1.0,1.0,2.0,Yes,,1.0,1.0,3.0,,1.0,1.0,3.0,No,,No
+34,55 or older,Doctorate,Physics,Institute Aeronautics 3,Yes,4,30.0,C;#Python;#C++,,5.0,1.0,2.0,2.0,3.0,4.0,1.0,2.0,Subversion;#Git,Yes,,2.0,3.0,2.0,2.0,2.0,3.0,2.0,Yes,,3.0,3.0,3.0,,3.0,3.0,3.0,Yes,Name,No
+35,25 - 34,Master degree,Aeronautical & Manufacturing Engineering,Institute Aeronautics 3,Yes,5 - Mostly other people,25.0,C;#Python,,7.0,3.0,0.0,0.0,4.0,6.0,0.0,0.0,Subversion,Yes,,2.0,3.0,1.0,2.0,1.0,1.0,1.0,Yes,,2.0,2.0,2.0,,3.0,2.0,3.0,No,Name;#DOI,No
+36,25 - 34,Undergraduate degree,Computer Science,Institute Aeronautics 3,Yes,5 - Mostly other people,5.0,C;#Python;#C++,,7.0,0.0,3.0,0.0,6.0,0.0,4.0,0.0,Subversion;#Git,Yes,,3.0,3.0,2.0,3.0,1.0,2.0,2.0,Yes,,3.0,2.0,2.0,,3.0,3.0,3.0,No,,No
+37,35 - 44,Master degree,Computer Science,Institute Aeronautics 3,Yes,5 - Mostly other people,20.0,C;#Python;#C++,,3.0,3.0,1.0,1.0,4.0,5.0,0.0,1.0,Subversion;#Git,Yes,,2.0,3.0,1.0,3.0,2.0,2.0,2.0,Yes,,3.0,3.0,2.0,,3.0,3.0,3.0,Yes,Name;#DOI;#Other,Yes
+38,25 - 34,Master degree,Mechanical Engineering,Institute Aeronautics 3,Yes,2,3.0,C;#Python;#C++;#MATLAB,,4.0,2.0,2.0,2.0,3.0,4.0,1.0,2.0,Subversion;#Git,Yes,,2.0,2.0,1.0,3.0,3.0,2.0,1.0,Yes,,3.0,2.0,2.0,,3.0,3.0,3.0,Yes,Name;#Other,No
+39,35 - 44,Master degree,Mechanical Engineering,Institute Aeronautics 3,Yes,1,10.0,Python;#C++;#Fortran;#Other,,2.0,4.0,1.0,3.0,4.0,4.0,0.0,2.0,Subversion,Yes,,2.0,3.0,1.0,2.0,1.0,1.0,2.0,Yes,,1.0,2.0,3.0,,3.0,2.0,2.0,Yes,Name;#DOI,No
+40,35 - 44,Doctorate,Mechanical Engineering,Institute Aeronautics 3,Yes,5 - Mostly other people,15.0,C;#Python;#C++;#MATLAB;#Fortran,,7.0,2.0,0.0,1.0,6.0,3.0,0.0,1.0,Subversion;#Git,Yes,,2.0,2.0,2.0,3.0,3.0,3.0,3.0,Yes,,3.0,3.0,2.0,,3.0,3.0,3.0,Yes,Name;#Other,Yes
+41,25 - 34,Master degree,Mathematics,Institute Aeronautics 3,Yes,3,15.0,C;#Python;#C++,,2.0,5.0,1.0,2.0,3.0,7.0,0.0,0.0,Subversion;#Git,Yes,,3.0,3.0,2.0,3.0,3.0,2.0,2.0,Yes,,3.0,3.0,3.0,,3.0,3.0,3.0,Yes,Name;#Link,No
+42,45 - 54,Doctorate,Chemical Engineering,Institute Aeronautics 1,Yes,5 - Mostly other people,26.0,C;#Fortran,,2.0,7.0,1.0,,0.0,10.0,0.0,,Subversion,Yes,,2.0,3.0,1.0,3.0,2.0,1.0,2.0,Yes,,3.0,2.0,2.0,,3.0,3.0,3.0,Yes,Name;#Other,No
+43,45 - 54,Doctorate,Mechanical Engineering,Institute Aeronautics 1,Yes,2,23.0,C;#Python;#C++;#Visual Basic;#Fortran,,2.0,3.0,4.0,1.0,3.0,4.0,2.0,1.0,Subversion;#CVS,No,,1.0,2.0,1.0,2.0,1.0,2.0,2.0,Yes,,1.0,2.0,3.0,,2.0,3.0,3.0,Yes,Name;#Other,No
+44,25 - 34,Master degree,Aeronautical & Manufacturing Engineering,Institute Aeronautics 1,Yes,0 - Mostly me,1.0,Python,,2.0,5.0,1.0,2.0,4.0,4.0,1.0,1.0,None,Yes,,1.0,1.0,1.0,1.0,1.0,1.0,2.0,Yes,,1.0,1.0,3.0,,1.0,2.0,3.0,No,,No
+45,35 - 44,Master degree,Mathematics,Institute Space 16,Yes,5 - Mostly other people,12.0,C#;#Other,,7.0,2.0,0.0,1.0,7.0,3.0,0.0,0.0,Git,Yes,,2.0,3.0,1.0,3.0,3.0,1.0,2.0,Yes,,3.0,1.0,2.0,,1.0,1.0,3.0,Yes,Name;#Link,Yes
+46,45 - 54,Doctorate,Aeronautical & Manufacturing Engineering,Institute Aeronautics 1,Yes,3,20.0,C;#Python;#Fortran,,1.0,1.0,8.0,0.0,1.0,2.0,7.0,0.0,Subversion,Yes,,1.0,3.0,1.0,3.0,2.0,1.0,3.0,Yes,,1.0,1.0,3.0,,2.0,2.0,3.0,Yes,Name,No
+47,55 or older,Master degree,Aeronautical & Manufacturing Engineering,Institute Aeronautics 1,Yes,5 - Mostly other people,28.0,Fortran,,4.0,2.0,2.0,2.0,4.0,4.0,1.0,1.0,Subversion;#Other,Yes,,2.0,3.0,1.0,3.0,2.0,2.0,3.0,Yes,,1.0,2.0,3.0,,3.0,3.0,3.0,Yes,Name,Yes
+48,25 - 34,Doctorate,Aeronautical & Manufacturing Engineering,Institute Aeronautics 1,Yes,0 - Mostly me,8.0,Python;#Fortran,,2.0,3.0,1.0,4.0,2.0,4.0,2.0,2.0,Subversion;#None,Yes,,2.0,3.0,1.0,2.0,1.0,2.0,2.0,Yes,,1.0,2.0,3.0,,3.0,2.0,3.0,Yes,Name;#Other,No
+49,35 - 44,Other,Other,Institute Aeronautics 1,Yes,0 - Mostly me,10.0,Other,,1.0,4.0,3.0,2.0,1.0,5.0,3.0,1.0,None,No,,1.0,2.0,1.0,1.0,1.0,1.0,1.0,Yes,,1.0,1.0,3.0,,1.0,1.0,3.0,No,Name,No
+50,35 - 44,Doctorate,Mechanical Engineering,Institute Aeronautics 1,Yes,2,25.0,C;#Python;#C++;#Fortran;#Other,,3.0,6.0,1.0,3.0,3.0,8.0,1.0,2.0,Git;#CVS,Yes,,1.0,3.0,1.0,1.0,2.0,2.0,2.0,Yes,,1.0,2.0,3.0,,3.0,2.0,3.0,Yes,Name,No
+51,25 - 34,Master degree,Aeronautical & Manufacturing Engineering,Institute Aeronautics 1,Yes,1,15.0,Python;#Visual Basic,,3.0,5.0,1.0,1.0,4.0,3.0,2.0,1.0,None,Yes,,2.0,3.0,1.0,2.0,2.0,1.0,3.0,Yes,,1.0,2.0,3.0,,3.0,3.0,3.0,Yes,Name;#Other,No
+52,35 - 44,Other,Aeronautical & Manufacturing Engineering,Institute Aeronautics 1,Yes,5 - Mostly other people,7.0,C;#Python;#C++;#Fortran,,8.0,1.0,0.0,1.0,1.0,9.0,0.0,0.0,Subversion;#Git,Yes,,2.0,3.0,1.0,2.0,2.0,2.0,2.0,Yes,,3.0,3.0,1.0,,3.0,2.0,3.0,Yes,Name;#Link;#Other,No
+53,25 - 34,Master degree,Aeronautical & Manufacturing Engineering,Institute Aeronautics 1,Yes,1,3.0,Python;#Fortran,,6.0,6.0,1.0,4.0,3.0,8.0,0.0,3.0,Subversion;#Git,Yes,,1.0,3.0,1.0,2.0,1.0,2.0,2.0,Yes,,1.0,1.0,3.0,,3.0,3.0,3.0,Yes,Name;#DOI,No
+54,35 - 44,Master degree,Mechanical Engineering,Institute Aeronautics 1,Yes,3,10.0,C;#Python;#C++;#Fortran,,3.0,2.0,0.0,5.0,4.0,4.0,,2.0,Subversion;#None,Yes,,2.0,2.0,1.0,2.0,2.0,1.0,2.0,Yes,,1.0,2.0,3.0,,3.0,2.0,3.0,No,,No
+55,25 - 34,Master degree,Civil Engineering,Institute Aeronautics 1,Yes,1,2.0,Python,,2.0,5.0,2.0,1.0,1.0,5.0,2.0,2.0,Other,No,,1.0,2.0,1.0,1.0,1.0,1.0,1.0,Yes,,1.0,2.0,2.0,,2.0,2.0,2.0,No,,No
+56,45 - 54,Master degree,Aeronautical & Manufacturing Engineering,Institute Aeronautics 1,Yes,4,20.0,C;#Python;#C++,,5.0,2.0,1.0,2.0,5.0,2.0,1.0,2.0,Subversion;#Git,Yes,,2.0,3.0,2.0,2.0,2.0,2.0,2.0,Yes,,3.0,2.0,3.0,,3.0,3.0,3.0,Yes,Name;#Link,No
+57,35 - 44,Doctorate,Physics,Institute Aeronautics 3,Yes,5 - Mostly other people,10.0,C;#Python;#C++,,4.0,2.0,3.0,1.0,3.0,4.0,2.0,1.0,Subversion;#Git,Yes,,2.0,3.0,1.0,2.0,2.0,2.0,2.0,Yes,,3.0,2.0,3.0,,3.0,3.0,3.0,Yes,Name,Yes
+58,35 - 44,Doctorate,Aeronautical & Manufacturing Engineering,Institute Aeronautics 3,Yes,5 - Mostly other people,20.0,C;#Python,,2.0,1.0,4.0,3.0,3.0,5.0,2.0,0.0,Subversion,Yes,,2.0,3.0,1.0,2.0,3.0,2.0,2.0,Yes,,3.0,3.0,2.0,,3.0,3.0,3.0,Yes,Name,Yes
+59,25 - 34,Master degree,Aeronautical & Manufacturing Engineering,Institute Aeronautics 3,Yes,4,10.0,Python;#C++;#MATLAB;#Fortran,,6.0,2.0,1.0,1.0,4.0,4.0,0.0,2.0,Subversion,Yes,,3.0,3.0,2.0,2.0,2.0,2.0,2.0,Yes,,3.0,3.0,3.0,,3.0,3.0,3.0,Yes,Name,Yes
+60,35 - 44,Master degree,Aeronautical & Manufacturing Engineering,Institute Space 12,Yes,2,9.0,Python;#C++,,2.0,2.0,4.0,2.0,4.0,4.0,1.0,1.0,Git,Yes,,2.0,3.0,1.0,1.0,1.0,2.0,2.0,Yes,,1.0,2.0,3.0,,2.0,3.0,3.0,Yes,Name;#Link;#DOI,No
+61,35 - 44,Master degree,Aeronautical & Manufacturing Engineering,Institute Aeronautics 1,Yes,5 - Mostly other people,15.0,C;#Python;#C++;#Fortran,,5.0,2.0,3.0,,5.0,4.0,1.0,,Subversion;#Git,Yes,,,2.0,,2.0,,,2.0,Yes,,2.0,2.0,2.0,,2.0,3.0,2.0,Yes,Name;#Other,Yes
+62,25 - 34,Master degree,Mathematics,Institute Aeronautics 5,Yes,2,4.0,Java;#C++;#MATLAB,,3.0,1.0,5.0,1.0,2.0,5.0,1.0,2.0,Subversion,Yes,,2.0,3.0,1.0,2.0,1.0,3.0,3.0,Yes,,1.0,1.0,3.0,,2.0,2.0,3.0,No,,Yes
+63,25 - 34,Master degree,Aeronautical & Manufacturing Engineering,Institute Aeronautics 1,Yes,1,1.0,Python,,5.0,4.0,0.0,1.0,4.0,5.0,0.0,1.0,Git,No,,1.0,1.0,1.0,1.0,1.0,1.0,1.0,Yes,,1.0,2.0,3.0,,2.0,2.0,2.0,Yes,Name;#DOI,No
+64,35 - 44,Master degree,Aeronautical & Manufacturing Engineering,Institute Aeronautics 1,Yes,4,10.0,C;#Python;#C++;#Fortran,,4.0,3.0,1.0,2.0,4.0,5.0,0.0,1.0,Subversion;#Git,Yes,,2.0,3.0,2.0,3.0,3.0,3.0,3.0,Yes,,,3.0,2.0,,3.0,3.0,3.0,Yes,Name;#Link,No
+65,25 - 34,Master degree,Aeronautical & Manufacturing Engineering,Institute Aeronautics 1,Yes,2,2.0,Python,,2.0,4.0,2.0,2.0,3.0,6.0,1.0,1.0,Subversion;#Git,Yes,,1.0,3.0,1.0,3.0,2.0,2.0,2.0,Yes,,3.0,2.0,3.0,,3.0,3.0,3.0,Yes,Name;#Link;#Other,Yes
+66,25 - 34,Undergraduate degree,Computer Science,Institute Space 17,Yes,4,16.0,C;#Python;#MATLAB;#Assembly language;#Fortran;#Other,,6.0,1.0,1.0,2.0,5.0,3.0,0.0,2.0,Subversion;#Git,Yes,,2.0,3.0,1.0,2.0,2.0,3.0,3.0,Yes,,2.0,2.0,3.0,,2.0,2.0,3.0,Yes,Name;#Link;#Other,Yes
+67,25 - 34,Master degree,Computer Science,Institute Space 12,Yes,4,11.0,C;#Python;#C++,,5.0,3.0,1.0,1.0,4.0,4.0,1.0,1.0,Git,Yes,,2.0,3.0,2.0,2.0,3.0,3.0,3.0,Yes,,3.0,3.0,2.0,,3.0,3.0,3.0,Yes,Name;#Link,Yes
+68,25 - 34,Undergraduate degree,Physics,Institute Space 17,Yes,0 - Mostly me,4.0,C;#Python;#C++;#MATLAB,,6.0,9.0,1.0,3.0,9.0,9.0,3.0,1.0,Git,No,,1.0,3.0,1.0,1.0,1.0,1.0,3.0,Yes,,1.0,1.0,3.0,,2.0,1.0,3.0,Yes,Name;#DOI,No
+69,35 - 44,Master degree,Computer Science,Institute Space 1,Yes,0 - Mostly me,20.0,Python,,4.0,5.0,1.0,0.0,5.0,5.0,0.0,0.0,Git,Yes,,,3.0,,,,,,Yes,,2.0,2.0,3.0,,3.0,3.0,3.0,Yes,Name;#DOI,Yes
+70,,Doctorate,Aeronautical & Manufacturing Engineering,Institute Aeronautics 1,Yes,2,,C;#Python;#C++,,4.0,3.0,1.0,2.0,3.0,4.0,2.0,1.0,Subversion;#Git,Yes,,1.0,3.0,2.0,2.0,2.0,2.0,1.0,Yes,,3.0,2.0,2.0,,3.0,3.0,3.0,Yes,Name;#Other,Yes
+71,45 - 54,Master degree,Mechanical Engineering,Institute Aeronautics 1,Yes,2,19.0,C;#Python;#C++,,5.0,4.0,0.0,1.0,3.0,4.0,2.0,1.0,Subversion;#Git,Yes,,2.0,3.0,2.0,2.0,3.0,1.0,2.0,Yes,,3.0,1.0,3.0,,2.0,3.0,3.0,Yes,DOI,Yes
+72,35 - 44,Doctorate,Mechanical Engineering,Institute Aeronautics 1,Yes,3,10.0,C;#Python,,3.0,3.0,2.0,2.0,4.0,4.0,0.0,2.0,Subversion,Yes,,1.0,3.0,1.0,2.0,2.0,2.0,2.0,Yes,,2.0,2.0,3.0,,3.0,3.0,3.0,Yes,Name,No
+73,25 - 34,Master degree,Aeronautical & Manufacturing Engineering,Institute Aeronautics 1,Yes,5 - Mostly other people,2.0,C,,5.0,5.0,0.0,0.0,5.0,5.0,0.0,0.0,Subversion;#Git,Yes,,3.0,3.0,1.0,3.0,1.0,1.0,2.0,Yes,,3.0,3.0,2.0,,3.0,3.0,3.0,Yes,Name,Yes
+74,25 - 34,Master degree,Aeronautical & Manufacturing Engineering,Institute Aeronautics 1,Yes,4,4.0,C;#Python;#C++;#Visual Basic .NET;#Fortran,,5.0,3.0,1.0,1.0,2.0,6.0,1.0,1.0,Subversion;#Git,Yes,,1.0,3.0,2.0,2.0,2.0,2.0,2.0,Yes,,2.0,3.0,3.0,,3.0,3.0,3.0,Yes,Name;#Link,Yes
+75,25 - 34,Doctorate,Mathematics,Institute Space 17,Yes,5 - Mostly other people,5.0,C;#Python;#C++,,4.0,1.0,3.0,3.0,5.0,3.0,1.0,2.0,Subversion;#Git,Yes,,2.0,3.0,1.0,2.0,2.0,2.0,3.0,Yes,,3.0,3.0,,,3.0,3.0,3.0,Yes,Name;#Link;#DOI;#Other,No
+76,25 - 34,Doctorate,Mathematics,Institute Space 17,Yes,3,5.0,C;#Python;#C++;#Fortran,,5.0,3.0,0.0,2.0,5.0,5.0,0.0,0.0,Git,Yes,,3.0,3.0,2.0,3.0,1.0,1.0,1.0,Yes,,3.0,2.0,2.0,,3.0,3.0,3.0,Yes,Name;#Link;#DOI,No
+77,35 - 44,Master degree,Computer Science,Institute Space 15,Yes,5 - Mostly other people,15.0,Java;#Python;#JavaScript;#SQL;#Other,,5.0,1.0,1.0,3.0,7.0,1.0,1.0,1.0,Subversion;#Git,Yes,,2.0,3.0,1.0,2.0,2.0,1.0,3.0,Yes,,3.0,3.0,2.0,,3.0,3.0,3.0,Yes,Name;#Link,Yes
+78,25 - 34,Master degree,Computer Science,Institute Space 18,Yes,3,2.0,C;#Python;#C++;#SQL;#R;#Other,,3.0,1.0,3.0,3.0,6.0,2.0,1.0,1.0,Subversion;#Git,Yes,,3.0,3.0,2.0,3.0,2.0,2.0,3.0,Yes,,3.0,3.0,2.0,,3.0,3.0,3.0,No,,No
+79,18 - 24,Undergraduate degree,Computer Science,Institute Energy 3,Yes,3,5.0,Java;#C;#Python;#C++;#SQL;#MATLAB,,4.0,2.0,3.0,1.0,6.0,2.0,1.0,1.0,Subversion;#Git,Yes,,3.0,3.0,2.0,3.0,3.0,3.0,3.0,Yes,,3.0,2.0,3.0,,3.0,3.0,3.0,Yes,Name;#Link,No
+80,45 - 54,Doctorate,Physics,Institute Space 6,Yes,4,27.0,C;#C++;#SQL;#MATLAB;#Perl;#Other,,2.0,1.0,0.0,7.0,3.0,4.0,0.0,3.0,CVS;#Other,Yes,,2.0,3.0,2.0,3.0,3.0,2.0,2.0,Yes,,1.0,2.0,3.0,,3.0,3.0,3.0,No,,No
+81,35 - 44,Doctorate,Physics,Institute Aeronautics 12,Yes,0 - Mostly me,2.0,Python,,2.0,4.0,2.0,2.0,2.0,4.0,2.0,2.0,None,Yes,,1.0,3.0,2.0,1.0,2.0,1.0,1.0,Yes,,3.0,3.0,3.0,,3.0,3.0,3.0,Yes,Name,No
+82,18 - 24,Undergraduate degree,Computer Science,Institute Aeronautics 2,Yes,5 - Mostly other people,3.0,C#;#MATLAB,,8.0,0.0,0.0,2.0,10.0,0.0,0.0,0.0,"Other DVCS (e.g. Bazaar, BitKeeper, GNU arch, Mercurial, Monotone)",Yes,,3.0,3.0,1.0,1.0,1.0,1.0,2.0,Yes,,3.0,2.0,2.0,,2.0,3.0,2.0,No,,No
+83,25 - 34,Master degree,Economics,Institute Transport 1,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes,Name;#Link,
+84,35 - 44,Undergraduate degree,Geography & Environmental Sciences,Institute Transport 3,Yes,0 - Mostly me,1.0,Java;#Python;#SQL;#R,,6.0,2.0,0.0,2.0,8.0,2.0,0.0,0.0,Subversion,Yes,,3.0,3.0,3.0,2.0,,1.0,2.0,Yes,,2.0,2.0,3.0,,3.0,2.0,3.0,Yes,Link;#DOI;#Other,No
+85,45 - 54,Master degree,Physics,Institute Space 15,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes,Name,
+86,45 - 54,Doctorate,Physics,,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes,Name;#Link,
+87,35 - 44,Doctorate,Geography & Environmental Sciences,Institute Space 18,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes,Other,
+88,35 - 44,Doctorate,Other,Institute Space 16,Yes,2,20.0,C;#C++;#PHP;#MATLAB;#Perl;#Fortran,,1.0,7.0,0.0,2.0,0.0,10.0,0.0,0.0,Subversion;#CVS,Yes,,1.0,3.0,1.0,1.0,1.0,1.0,3.0,Yes,,1.0,1.0,3.0,,1.0,1.0,3.0,Yes,Name;#Link;#DOI,No
+89,45 - 54,Master degree,Physics,Institute Energy 4,Yes,1,28.0,C;#Perl;#Fortran,,1.0,1.0,8.0,1.0,2.0,6.0,1.0,1.0,Subversion,Yes,,1.0,3.0,1.0,2.0,1.0,1.0,2.0,Yes,,1.0,1.0,3.0,,1.0,1.0,3.0,No,,No
+90,55 or older,Doctorate,Civil Engineering,Institute Aeronautics 3,Yes,3,20.0,Python;#C++,,1.0,2.0,6.0,1.0,1.0,5.0,3.0,1.0,Subversion,Yes,,2.0,3.0,1.0,2.0,2.0,1.0,3.0,Yes,,1.0,2.0,3.0,,3.0,3.0,3.0,Yes,Name,No
+91,45 - 54,,Mathematics,Institute Space 7,Yes,3,30.0,C;#Python;#C++;#JavaScript,,3.0,4.0,2.0,1.0,3.0,4.0,2.0,1.0,Subversion,Yes,,2.0,3.0,1.0,2.0,2.0,3.0,3.0,Yes,,2.0,2.0,3.0,,3.0,3.0,3.0,Yes,Name;#Link,No
+92,35 - 44,Doctorate,Computer Science,,Yes,2,15.0,Java;#C;#Python;#MATLAB;#Other,,3.0,1.0,3.0,3.0,4.0,2.0,2.0,2.0,Git,Yes,,1.0,3.0,1.0,1.0,1.0,1.0,2.0,Yes,,1.0,2.0,3.0,,2.0,3.0,3.0,No,,No
+93,25 - 34,Master degree,Computer Science,,Yes,3,2.0,C;#Python,,,,,,,,,,Other,Yes,,1.0,3.0,1.0,3.0,1.0,1.0,3.0,Yes,,1.0,1.0,3.0,,3.0,3.0,3.0,No,,Yes
+94,25 - 34,Doctorate,Physics,Institute Space 8,Yes,1,12.0,Java;#C;#Python;#C++,,2.0,4.0,2.0,2.0,2.0,4.0,2.0,2.0,Git,Yes,,1.0,3.0,1.0,1.0,1.0,2.0,2.0,Yes,,1.0,1.0,3.0,,3.0,3.0,3.0,Yes,Name;#Link,No
+95,35 - 44,Doctorate,Computer Science,Institute Transport 1,Yes,4,20.0,Python;#C++,,6.0,1.0,1.0,2.0,5.0,3.0,1.0,1.0,Subversion;#Git,Yes,,2.0,3.0,2.0,3.0,3.0,2.0,2.0,Yes,,3.0,1.0,3.0,,3.0,3.0,3.0,Yes,Name;#Link,Yes
+96,25 - 34,Master degree,Computer Science,Institute Aeronautics 2,Yes,3,6.0,Python;#MATLAB,,4.0,4.0,1.0,1.0,5.0,5.0,,,"Other DVCS (e.g. Bazaar, BitKeeper, GNU arch, Mercurial, Monotone)",Yes,,2.0,3.0,2.0,3.0,3.0,2.0,2.0,Yes,,3.0,2.0,3.0,,3.0,3.0,3.0,No,,No
+97,35 - 44,Doctorate,Astronomy,Institute Space 9,Yes,1,14.0,C;#Python;#C++;#PHP;#SQL;#MATLAB,,1.0,1.0,7.0,1.0,1.0,7.0,1.0,1.0,None,No,,1.0,3.0,1.0,1.0,1.0,1.0,2.0,Yes,,3.0,3.0,3.0,,3.0,3.0,3.0,Yes,Name;#DOI,Yes
+98,35 - 44,Master degree,Mechanical Engineering,Institute Transport 2,Yes,3,15.0,MATLAB;#Visual Basic;#Other,,2.0,2.0,5.0,1.0,4.0,4.0,1.0,1.0,Subversion,Yes,,,3.0,,2.0,2.0,2.0,2.0,Yes,,2.0,3.0,3.0,,3.0,3.0,3.0,No,,No
+99,35 - 44,Master degree,Electrical & Electronic Engineering,Institute Space 4,Yes,1,7.0,Python;#MATLAB,,2.0,2.0,4.0,2.0,2.0,5.0,2.0,1.0,Subversion,No,,1.0,3.0,1.0,2.0,2.0,1.0,2.0,Yes,,1.0,1.0,3.0,,3.0,3.0,3.0,No,,No
+100,25 - 34,Master degree,Mechanical Engineering,Institute Aeronautics 1,Yes,1,3.0,C;#Python;#Other,,3.0,6.0,0.0,1.0,3.0,7.0,0.0,0.0,Subversion;#Git,Yes,,1.0,3.0,1.0,1.0,1.0,2.0,2.0,Yes,,1.0,2.0,3.0,,3.0,3.0,2.0,No,,No
+101,35 - 44,Master degree,Aeronautical & Manufacturing Engineering,Institute Space 16,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes,Name;#Link,
+102,45 - 54,Master degree,Medicine,Institute Space 2,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes,Name,
+103,35 - 44,Doctorate,Astronomy,Institute Space 16,Yes,0 - Mostly me,12.0,Python;#Perl,,7.0,1.0,1.0,1.0,4.0,4.0,1.0,1.0,Git,Yes,,1.0,3.0,1.0,3.0,2.0,2.0,1.0,Yes,,1.0,1.0,3.0,,3.0,3.0,3.0,Yes,Name;#Other,No
+104,25 - 34,Master degree,Mechanical Engineering,Other,Yes,4,1.0,Python;#MATLAB;#Visual Basic,,4.0,2.0,3.0,1.0,4.0,5.0,2.0,0.0,Subversion,No,,1.0,3.0,2.0,2.0,1.0,1.0,1.0,Yes,,1.0,1.0,3.0,,3.0,3.0,3.0,Yes,Link,No
+105,45 - 54,Master degree,Economics,Institute Energy 4,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+106,25 - 34,Master degree,Mechanical Engineering,Institute Aeronautics 1,Yes,0 - Mostly me,3.0,Python;#Visual Basic,,3.0,5.0,1.0,1.0,3.0,5.0,1.0,1.0,Other,Yes,,1.0,3.0,1.0,1.0,1.0,1.0,1.0,Yes,,1.0,2.0,2.0,,3.0,3.0,3.0,No,DOI,No
+107,45 - 54,Doctorate,Electrical & Electronic Engineering,Institute Space 2,Yes,0 - Mostly me,22.0,C;#Python;#Assembly language;#Visual Basic,,3.0,5.0,2.0,0.0,3.0,5.0,2.0,0.0,Subversion,Yes,,,3.0,,,2.0,,2.0,Yes,,3.0,3.0,3.0,,3.0,3.0,3.0,No,,No
+108,35 - 44,Doctorate,Aeronautical & Manufacturing Engineering,Institute Aeronautics 1,Yes,1,10.0,Python;#Visual Basic .NET,,6.0,3.0,1.0,0.0,2.0,8.0,0.0,0.0,Subversion,Yes,,1.0,3.0,1.0,2.0,1.0,2.0,1.0,Yes,,1.0,1.0,3.0,,1.0,1.0,3.0,Yes,Name,No
+109,35 - 44,Doctorate,Sociology,Other 1,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+110,45 - 54,Master degree,Electrical & Electronic Engineering,Institute Space 12,Yes,3,30.0,C;#Python;#C++;#Assembly language,,5.0,3.0,1.0,1.0,3.0,4.0,1.0,2.0,Git,Yes,,1.0,3.0,2.0,2.0,3.0,1.0,2.0,Yes,,1.0,2.0,3.0,,3.0,3.0,3.0,No,Name,No
+111,45 - 54,Master degree,Computer Science,,Yes,5 - Mostly other people,19.0,Java;#SQL,,9.0,,,1.0,9.0,,,1.0,"Subversion;#Other central VCS (e.g. DARCS, SourceSafe)",Yes,,2.0,3.0,1.0,3.0,3.0,3.0,2.0,Yes,,3.0,2.0,3.0,,3.0,3.0,3.0,No,,No
+112,25 - 34,Master degree,Computer Science,Institute Space 17,Yes,3,6.0,Java;#Python,,3.0,3.0,2.0,2.0,5.0,4.0,0.0,1.0,Git,Yes,,3.0,3.0,2.0,2.0,2.0,3.0,2.0,Yes,,3.0,1.0,2.0,,1.0,3.0,3.0,Yes,Name;#Link;#Other,No
+113,25 - 34,Master degree,General Engineering,Institute Aeronautics 3,Yes,1,2.0,Python;#Other,,4.0,4.0,1.0,1.0,3.0,5.0,0.0,1.0,Subversion,Yes,,2.0,3.0,1.0,2.0,1.0,1.0,1.0,Yes,,1.0,2.0,3.0,,2.0,2.0,3.0,No,,No
+114,25 - 34,Master degree,Mechanical Engineering,Institute Energy 4,Yes,2,2.0,C++;#Other,,4.0,8.0,2.0,3.0,6.0,6.0,1.0,1.0,Git,Yes,,1.0,3.0,1.0,2.0,1.0,1.0,2.0,Yes,,1.0,1.0,3.0,,3.0,3.0,3.0,No,,No
+115,25 - 34,Doctorate,Computer Science,Other,Yes,2,10.0,Java;#Python;#C++;#C#;#Rust,,2.0,1.0,3.0,4.0,5.0,4.0,1.0,,Git,Yes,,2.0,3.0,1.0,1.0,2.0,2.0,3.0,Yes,,3.0,1.0,2.0,,3.0,3.0,3.0,Yes,Name,Yes
+116,25 - 34,Master degree,Mathematics,Institute Energy 1,Yes,0 - Mostly me,4.0,Java;#Python;#MATLAB,,1.0,4.0,3.0,2.0,2.0,6.0,1.0,1.0,Git,Yes,,1.0,3.0,1.0,1.0,1.0,1.0,3.0,Yes,,2.0,1.0,3.0,,3.0,3.0,2.0,Yes,Name;#DOI,Yes
+117,25 - 34,Doctorate,Mathematics,Institute Space 15,Yes,0 - Mostly me,13.0,MATLAB;#Fortran;#Other,,5.0,4.0,0.0,1.0,5.0,5.0,,,None,Yes,,,3.0,,3.0,,3.0,3.0,Yes,,2.0,2.0,2.0,,3.0,3.0,3.0,Yes,Name,No
+118,35 - 44,Master degree,Aeronautical & Manufacturing Engineering,Institute Space 16,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+119,35 - 44,Master degree,Computer Science,Institute Space 7,Yes,3,15.0,C++,,2.0,1.0,5.0,2.0,3.0,3.0,3.0,1.0,Subversion,Yes,,2.0,2.0,1.0,1.0,1.0,2.0,2.0,Yes,,2.0,2.0,3.0,,3.0,3.0,3.0,Yes,Name;#Link,No
+120,45 - 54,Master degree,Electrical & Electronic Engineering,Institute Space 18,Yes,5 - Mostly other people,25.0,C++;#C#;#SQL,,6.0,0.0,2.0,2.0,6.0,,2.0,2.0,Subversion;#Git,Yes,,2.0,3.0,2.0,3.0,3.0,3.0,3.0,Yes,,2.0,3.0,3.0,,3.0,3.0,3.0,Yes,Name,No
+121,25 - 34,Master degree,Electrical & Electronic Engineering,Institute Space 4,Yes,1,5.0,C;#C++;#MATLAB,,5.0,2.0,1.0,2.0,2.0,7.0,0.0,1.0,Subversion,Yes,,1.0,3.0,1.0,1.0,1.0,1.0,1.0,Yes,,1.0,2.0,3.0,,1.0,2.0,3.0,No,,No
+122,35 - 44,Master degree,Computer Science,Institute Space 18,Yes,2,12.0,Java;#Python;#Other,,6.0,1.0,1.0,2.0,6.0,1.0,1.0,2.0,Git,Yes,,2.0,3.0,2.0,2.0,2.0,2.0,2.0,Yes,,1.0,3.0,3.0,,2.0,2.0,3.0,No,,No
+123,55 or older,Doctorate,Physics,Institute Aeronautics 1,Yes,1,38.0,Visual Basic .NET;#Visual Basic;#Fortran,,2.0,4.0,1.0,3.0,3.0,4.0,1.0,2.0,Other,Yes,,2.0,2.0,3.0,3.0,3.0,3.0,3.0,Yes,,,2.0,3.0,,3.0,3.0,3.0,No,Name,No
+124,45 - 54,Doctorate,Geography & Environmental Sciences,,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes,Name,
+125,25 - 34,Master degree,Mechanical Engineering,Institute Space 13,Yes,1,3.0,C;#Python;#MATLAB,,2.0,3.0,1.0,4.0,4.0,4.0,1.0,1.0,Subversion;#Git,Yes,,1.0,3.0,1.0,1.0,2.0,1.0,2.0,Yes,,1.0,1.0,3.0,,3.0,3.0,3.0,No,,Yes
+126,25 - 34,Master degree,Electrical & Electronic Engineering,Institute Space 3,Yes,0 - Mostly me,14.0,Python;#Other,,5.0,2.0,1.0,2.0,2.0,4.0,2.0,2.0,Subversion;#None,Yes,,2.0,3.0,1.0,2.0,2.0,2.0,2.0,Yes,,1.0,2.0,2.0,,3.0,3.0,3.0,No,Name;#Link,Yes
+127,35 - 44,Doctorate,Biological Sciences,Institute Energy 4,Yes,1,4.0,Java;#Python;#R,,4.0,4.0,1.0,1.0,2.0,8.0,0.0,0.0,Subversion,Yes,,,3.0,,2.0,,,,Yes,,1.0,2.0,2.0,,2.0,2.0,2.0,Yes,Name;#Link;#DOI,No
+128,35 - 44,Doctorate,Physics,Institute Space 8,Yes,1,15.0,C;#C++,,3.0,7.0,,,,10.0,,,Subversion,No,,1.0,2.0,1.0,2.0,2.0,2.0,2.0,Yes,,1.0,1.0,3.0,,3.0,3.0,3.0,No,,Yes
+129,45 - 54,Doctorate,Physics,,Yes,1,24.0,Python;#Visual Basic .NET;#Other,,1.0,3.0,6.0,0.0,2.0,5.0,3.0,,Git,Yes,,1.0,3.0,1.0,2.0,1.0,1.0,3.0,Yes,,1.0,2.0,3.0,,3.0,3.0,3.0,No,Other,No
+130,25 - 34,Master degree,Mechanical Engineering,,Yes,3,2.0,PHP;#JavaScript;#SQL;#Perl;#Fortran,,2.0,1.0,4.0,3.0,2.0,1.0,4.0,3.0,Subversion;#Git,Yes,,2.0,3.0,1.0,1.0,2.0,1.0,2.0,Yes,,1.0,2.0,3.0,,3.0,2.0,3.0,No,Other,No
+131,35 - 44,Master degree,Electrical & Electronic Engineering,Institute Space 3,Yes,3,4.0,Python,,2.0,1.0,4.0,3.0,3.0,3.0,4.0,,Git,Yes,,1.0,3.0,2.0,2.0,2.0,1.0,2.0,Yes,,1.0,2.0,2.0,,2.0,2.0,3.0,No,,No
+132,25 - 34,Doctorate,Electrical & Electronic Engineering,Institute Space 6,Yes,3,7.0,C++;#MATLAB;#Other,,4.0,3.0,1.0,2.0,1.0,5.0,1.0,3.0,CVS,Yes,,1.0,3.0,1.0,1.0,1.0,1.0,1.0,Yes,,1.0,1.0,3.0,,3.0,3.0,2.0,No,,No
+133,45 - 54,Doctorate,Mechanical Engineering,,Yes,4,20.0,Python;#Other,,3.0,2.0,3.0,2.0,4.0,4.0,1.0,1.0,Subversion;#Git,Yes,,2.0,3.0,2.0,2.0,2.0,1.0,2.0,Yes,,1.0,3.0,2.0,,2.0,2.0,3.0,No,Name,No
+134,35 - 44,Master degree,Mathematics,Institute Aeronautics 6,Yes,1,9.0,C;#C++,,1.0,3.0,4.0,2.0,4.0,5.0,0.0,1.0,Subversion,No,,1.0,3.0,1.0,1.0,1.0,1.0,2.0,Yes,,1.0,2.0,3.0,,3.0,3.0,3.0,Yes,Name,No
+135,18 - 24,Other,Other,,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,Other,
+136,35 - 44,Master degree,Aeronautical & Manufacturing Engineering,Institute Aeronautics 1,Yes,0 - Mostly me,5.0,C;#Python;#C++;#Fortran;#Other,,2.0,4.0,3.0,1.0,2.0,6.0,0.0,2.0,Git,No,,1.0,3.0,1.0,1.0,,2.0,3.0,Yes,,1.0,1.0,3.0,,3.0,3.0,3.0,Yes,Name;#Link,No
+137,55 or older,Doctorate,Chemistry,Institute Space 16,Yes,4,25.0,C;#C++;#JavaScript;#Perl;#Other,,8.0,,1.0,1.0,7.0,3.0,,,Git;#CVS,Yes,,3.0,3.0,2.0,2.0,3.0,3.0,2.0,Yes,,2.0,2.0,3.0,,3.0,3.0,3.0,No,Other,Yes
+138,35 - 44,Master degree,Physics,Institute Space 15,Yes,2,19.0,Python;#Fortran;#Other,,7.0,2.0,1.0,,5.0,5.0,0.0,,None,Yes,,1.0,3.0,1.0,2.0,,2.0,2.0,Yes,,3.0,3.0,3.0,,3.0,3.0,3.0,Yes,Name,Yes
+139,18 - 24,Master degree,Computer Science,Institute Space 6,Yes,1,2.0,Python;#Other,,5.0,4.0,0.0,1.0,6.0,3.0,0.0,1.0,None,Yes,,1.0,3.0,1.0,1.0,3.0,3.0,3.0,Yes,,1.0,3.0,3.0,,3.0,3.0,3.0,Yes,Name;#Link,Yes
+140,35 - 44,Doctorate,Mathematics,Institute Space 13,Yes,4,16.0,C;#Python;#MATLAB;#Fortran;#Other,,2.0,3.0,3.0,2.0,8.0,2.0,,,Subversion;#Git,No,,1.0,2.0,1.0,2.0,3.0,3.0,2.0,Yes,,2.0,3.0,3.0,,2.0,2.0,3.0,Yes,Name;#Link;#Other,Yes
+141,35 - 44,Master degree,Geography & Environmental Sciences,Institute Space 18,Yes,4,20.0,Java;#Python;#C++;#JavaScript;#SQL,,5.0,4.0,1.0,,5.0,4.0,1.0,,Git,Yes,,2.0,3.0,3.0,2.0,2.0,3.0,3.0,Yes,,2.0,3.0,2.0,,2.0,3.0,3.0,No,Link,No
+142,35 - 44,Doctorate,Aeronautical & Manufacturing Engineering,Institute Space 10,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes,Name;#Link;#Other,
+143,35 - 44,Doctorate,Chemistry,Institute Aeronautics 8,Yes,0 - Mostly me,13.0,C;#Python;#Fortran;#Other,,1.0,1.0,7.0,1.0,1.0,3.0,4.0,1.0,Subversion;#Git,Yes,,1.0,3.0,1.0,2.0,1.0,3.0,1.0,Yes,,1.0,1.0,3.0,,3.0,3.0,3.0,Yes,Name;#Link,No
+144,25 - 34,Master degree,Electrical & Electronic Engineering,Institute Transport 2,Yes,2,1.0,Python;#MATLAB,,3.0,4.0,2.0,1.0,5.0,4.0,1.0,0.0,None,Yes,,1.0,3.0,1.0,1.0,1.0,1.0,1.0,Yes,,1.0,2.0,2.0,,2.0,2.0,2.0,No,,No
+145,45 - 54,Master degree,Electrical & Electronic Engineering,Institute Energy 4,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+146,25 - 34,Master degree,Electrical & Electronic Engineering,Institute Space 3,Yes,0 - Mostly me,7.0,Python;#Other,,4.0,4.0,2.0,0.0,7.0,2.0,0.0,1.0,None,No,,1.0,3.0,1.0,2.0,1.0,1.0,3.0,Yes,,1.0,1.0,3.0,,3.0,3.0,3.0,Yes,DOI,No
+147,35 - 44,Doctorate,Psychology,Institute Transport 1,Yes,0 - Mostly me,0.0,R,,0.0,4.0,2.0,4.0,,9.0,,1.0,Git;#CVS,Yes,,1.0,3.0,2.0,1.0,1.0,2.0,3.0,Yes,,1.0,1.0,2.0,,3.0,1.0,2.0,No,,No
+148,25 - 34,Master degree,Mechanical Engineering,Institute Aeronautics 3,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,Name,
+149,35 - 44,Doctorate,Computer Science,Institute Aeronautics 8,Yes,3,8.0,Python;#C++,,2.0,,8.0,8.0,8.0,,2.0,4.0,Subversion,Yes,,1.0,3.0,1.0,1.0,1.0,1.0,2.0,Yes,,1.0,1.0,3.0,,1.0,1.0,3.0,No,,No
+150,,Doctorate,Aeronautical & Manufacturing Engineering,Institute Energy 2,Yes,3,20.0,C;#Python;#MATLAB;#Fortran,,2.0,3.0,4.0,1.0,3.0,5.0,1.0,1.0,Subversion,Yes,,2.0,3.0,2.0,2.0,2.0,2.0,3.0,Yes,,2.0,2.0,3.0,,3.0,3.0,3.0,Yes,Name,Yes
+151,35 - 44,Doctorate,Computer Science,Institute Aeronautics 6,Yes,4,25.0,C;#C++,,4.0,3.0,3.0,0.0,4.0,3.0,3.0,0.0,Subversion,Yes,,2.0,3.0,1.0,2.0,2.0,1.0,2.0,Yes,,1.0,2.0,3.0,,2.0,2.0,3.0,Yes,Name,Yes
+152,35 - 44,Doctorate,Computer Science,Institute Space 2,Yes,2,5.0,MATLAB;#R,,2.0,5.0,1.0,2.0,2.0,5.0,1.0,2.0,Subversion,Yes,,1.0,3.0,1.0,2.0,1.0,2.0,1.0,Yes,,1.0,1.0,3.0,,2.0,2.0,3.0,Yes,Name;#Link;#DOI,No
+153,25 - 34,Other,Computer Science,,Yes,0 - Mostly me,20.0,Python;#C++;#SQL;#R;#Other,,4.0,4.0,1.0,1.0,4.0,4.0,1.0,1.0,Git,Yes,,2.0,3.0,1.0,1.0,1.0,2.0,1.0,Yes,,1.0,1.0,3.0,,3.0,3.0,3.0,No,DOI;#Other,No
+154,35 - 44,Doctorate,Aeronautical & Manufacturing Engineering,Institute Energy 2,Yes,2,12.0,C;#Python;#C++;#Fortran,,2.0,2.0,2.0,4.0,4.0,5.0,0.0,1.0,Subversion,Yes,,1.0,3.0,1.0,2.0,1.0,1.0,2.0,Yes,,1.0,1.0,2.0,,2.0,2.0,2.0,Yes,Name;#Other,No
+155,55 or older,Doctorate,Physics,,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+156,35 - 44,Master degree,Computer Science,Institute Aeronautics 6,Yes,2,20.0,Java;#C;#C++;#R;#Other,,4.0,3.0,2.0,1.0,4.0,3.0,2.0,1.0,Subversion;#Git,Yes,,1.0,3.0,2.0,3.0,3.0,2.0,2.0,Yes,,2.0,2.0,3.0,,3.0,3.0,3.0,Yes,Name;#Link;#Other,No
+157,55 or older,Other,Computer Science,Institute Aeronautics 1,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+158,18 - 24,Undergraduate degree,Computer Science,Institute Aeronautics 6,Yes,3,3.0,Java;#Python;#C++;#C#;#JavaScript;#SQL;#R,,8.0,1.0,0.0,1.0,7.0,2.0,0.0,1.0,Subversion;#Git,Yes,,2.0,3.0,1.0,2.0,1.0,2.0,3.0,Yes,,2.0,2.0,3.0,,1.0,2.0,3.0,No,,No
+159,25 - 34,Undergraduate degree,Other,,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+160,25 - 34,Master degree,Mechanical Engineering,Institute Space 3,Yes,2,7.0,Python;#SQL;#Other,,4.0,4.0,0.0,2.0,4.0,5.0,,1.0,Subversion;#Git,Yes,,1.0,3.0,2.0,2.0,2.0,1.0,1.0,Yes,,1.0,2.0,3.0,,3.0,3.0,3.0,No,,No
+161,35 - 44,Doctorate,Chemical Engineering,Institute Aeronautics 14,Yes,2,20.0,Java;#C;#MATLAB,,2.0,2.0,4.0,2.0,2.0,4.0,3.0,1.0,Git,Yes,,2.0,2.0,2.0,2.0,2.0,2.0,2.0,Yes,,1.0,1.0,3.0,,3.0,3.0,3.0,Yes,Name;#Link,No
+162,25 - 34,Undergraduate degree,Computer Science,Institute Transport 1,Yes,2,3.0,Java;#C;#C++,,3.0,1.0,6.0,,6.0,2.0,1.0,1.0,Subversion;#Git,Yes,,1.0,3.0,1.0,2.0,1.0,2.0,2.0,Yes,,1.0,1.0,3.0,,3.0,2.0,3.0,No,Name;#Link,Yes
+163,45 - 54,Doctorate,Aeronautical & Manufacturing Engineering,Institute Aeronautics 1,Yes,1,15.0,C;#C++;#Fortran,,1.0,3.0,6.0,0.0,1.0,5.0,4.0,0.0,Other,Yes,,1.0,3.0,1.0,1.0,1.0,1.0,2.0,Yes,,1.0,3.0,3.0,,3.0,3.0,3.0,Yes,Name;#Link;#Other,No
+164,55 or older,Doctorate,Other,,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+165,35 - 44,Doctorate,Geology,Institute Space 9,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes,Name,
+166,55 or older,Master degree,Physics,Institute Space 9,Yes,1,30.0,C;#Other,,5.0,,3.0,2.0,10.0,,,,Subversion;#Git;#CVS,Yes,,,3.0,,3.0,,,2.0,Yes,,,2.0,3.0,,,3.0,3.0,No,,No
+167,45 - 54,Master degree,Mathematics,Institute Space 17,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes,Link;#DOI,
+168,35 - 44,Doctorate,Geography & Environmental Sciences,Institute Space 6,Yes,1,10.0,C;#Python;#MATLAB;#Other,,3.0,3.0,3.0,1.0,2.0,5.0,2.0,1.0,Subversion;#Git,No,,2.0,3.0,1.0,2.0,2.0,1.0,3.0,Yes,,2.0,1.0,3.0,,3.0,1.0,3.0,Yes,Name;#Link;#DOI,Yes
+169,18 - 24,Undergraduate degree,Computer Science,Institute Transport 1,Yes,3,3.0,Java;#C++;#SQL,,3.0,2.0,2.0,3.0,3.0,2.0,1.0,4.0,Subversion,Yes,,2.0,3.0,1.0,3.0,1.0,2.0,1.0,Yes,,2.0,1.0,2.0,,1.0,1.0,2.0,Yes,Name,Yes
+170,25 - 34,Master degree,Chemical Engineering,Institute Energy 2,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes,Name;#Link,
+171,25 - 34,Master degree,General Engineering,Institute Aeronautics 12,Yes,2,8.0,Python,,2.0,1.0,5.0,2.0,5.0,5.0,0.0,0.0,Subversion,No,,1.0,2.0,1.0,2.0,1.0,2.0,2.0,No,,1.0,1.0,3.0,,2.0,2.0,2.0,Yes,Name;#Other,No
+172,35 - 44,Master degree,Physics,Institute Aeronautics 1,Yes,0 - Mostly me,20.0,C;#Python;#Visual Basic .NET;#Fortran;#Other,,3.0,5.0,1.0,1.0,3.0,5.0,1.0,1.0,None,No,,1.0,2.0,1.0,2.0,1.0,1.0,1.0,Yes,,1.0,1.0,2.0,,3.0,2.0,3.0,Yes,Name,No
+173,55 or older,Doctorate,Geography & Environmental Sciences,Institute Space 8,Yes,2,30.0,Fortran;#Other,,2.0,3.0,4.0,1.0,3.0,4.0,2.0,1.0,None,Yes,,,2.0,,,,,2.0,Yes,,,,3.0,,1.0,2.0,3.0,Yes,Name,No
+174,35 - 44,Doctorate,Aeronautical & Manufacturing Engineering,Institute Space 10,Yes,2,9.0,MATLAB,,1.0,1.0,5.0,3.0,2.0,3.0,3.0,2.0,Subversion,No,,1.0,3.0,2.0,1.0,1.0,1.0,1.0,Yes,,1.0,1.0,3.0,,2.0,2.0,3.0,Yes,Name,No
+175,25 - 34,Master degree,Civil Engineering,Institute Space 18,Yes,2,7.0,MATLAB,,4.0,5.0,0.0,1.0,4.0,5.0,0.0,1.0,None,No,,1.0,3.0,2.0,2.0,1.0,1.0,3.0,Yes,,1.0,2.0,3.0,,3.0,3.0,3.0,Yes,Name,Yes
+176,35 - 44,Master degree,Aeronautical & Manufacturing Engineering,Institute Aeronautics 8,Yes,1,15.0,MATLAB;#Fortran,,2.0,2.0,3.0,3.0,3.0,5.0,1.0,1.0,None,Yes,,1.0,3.0,1.0,1.0,3.0,2.0,2.0,Yes,,3.0,2.0,3.0,,3.0,3.0,3.0,Yes,Name;#Other,Yes
+177,45 - 54,Doctorate,Physics,Institute Energy 4,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+178,35 - 44,Doctorate,Mechanical Engineering,Institute Aeronautics 1,Yes,2,15.0,C;#Python;#C++;#Fortran;#Other,,2.0,3.0,4.0,1.0,2.0,6.0,2.0,,Subversion;#Git,Yes,,1.0,3.0,1.0,1.0,2.0,2.0,2.0,Yes,,1.0,2.0,3.0,,3.0,3.0,3.0,Yes,Name,No
+179,35 - 44,Doctorate,Electrical & Electronic Engineering,Institute Space 15,Yes,3,10.0,Python;#JavaScript;#SQL,,3.0,0.0,1.0,6.0,2.0,,1.0,7.0,Subversion,Yes,,1.0,3.0,1.0,1.0,1.0,3.0,1.0,Yes,,1.0,1.0,3.0,,3.0,3.0,3.0,No,,No
+180,35 - 44,Master degree,Mechanical Engineering,Institute Space 16,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+181,35 - 44,Doctorate,Mathematics,Institute Space 8,Yes,1,20.0,Python;#Fortran;#Other,,4.0,4.0,1.0,1.0,4.0,4.0,1.0,1.0,Git,No,,1.0,2.0,1.0,1.0,1.0,1.0,2.0,Yes,,1.0,1.0,3.0,,3.0,3.0,3.0,No,,Yes
+182,25 - 34,Master degree,Electrical & Electronic Engineering,Institute Space 4,Yes,2,10.0,C;#Python;#C++;#MATLAB;#Other,,5.0,3.0,1.0,1.0,4.0,4.0,1.0,1.0,Git,Yes,,2.0,3.0,2.0,1.0,1.0,1.0,2.0,Yes,,1.0,2.0,3.0,,3.0,3.0,3.0,No,,No
+183,35 - 44,Doctorate,Mechanical Engineering,Institute Aeronautics 5,Yes,3,10.0,C;#Python;#MATLAB;#Fortran,,3.0,4.0,6.0,6.0,7.0,8.0,3.0,3.0,Subversion;#Git,Yes,,2.0,3.0,2.0,2.0,3.0,2.0,3.0,Yes,,2.0,2.0,3.0,,3.0,3.0,2.0,Yes,Name;#Link;#DOI,Yes
+184,55 or older,Doctorate,Physics,Institute Space 16,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes,Name;#Link,
+185,25 - 34,Undergraduate degree,Computer Science,Institute Space 3,Yes,2,8.0,Java;#Python;#JavaScript;#SQL;#Perl,,2.0,1.0,4.0,3.0,7.0,3.0,1.0,1.0,Git,Yes,,3.0,3.0,1.0,2.0,1.0,2.0,3.0,Yes,,3.0,2.0,2.0,,3.0,2.0,3.0,No,,No
+186,25 - 34,Master degree,Sociology,,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+187,35 - 44,Other,Information Management,,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+188,25 - 34,Doctorate,Mathematics,Institute Space 16,Yes,4,5.0,Python;#JavaScript;#Other,,6.0,2.0,2.0,,6.0,2.0,2.0,,Git,Yes,,2.0,3.0,1.0,1.0,3.0,3.0,3.0,Yes,,1.0,,2.0,,2.0,2.0,2.0,Yes,Name;#Link,No
+189,35 - 44,Doctorate,Mechanical Engineering,Institute Aeronautics 14,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,Name,
+190,25 - 34,Master degree,Mathematics,Institute Space 17,Yes,2,4.0,Java;#Python,,4.0,3.0,1.0,2.0,3.0,5.0,1.0,1.0,Git,Yes,,2.0,3.0,2.0,1.0,1.0,1.0,3.0,Yes,,3.0,3.0,3.0,,3.0,3.0,3.0,Yes,Name;#Other,No
+191,55 or older,Doctorate,Mechanical Engineering,Other,Yes,2,30.0,Python;#C++;#Fortran,,2.0,2.0,4.0,2.0,3.0,3.0,2.0,2.0,Subversion,Yes,,2.0,3.0,,3.0,3.0,3.0,3.0,Yes,,3.0,3.0,3.0,,3.0,3.0,3.0,Yes,Name,Yes
+192,25 - 34,Master degree,Computer Science,Institute Space 12,Yes,0 - Mostly me,2.0,Python;#C++,,5.0,6.0,1.0,8.0,5.0,7.0,3.0,8.0,Git,Yes,,2.0,2.0,2.0,2.0,2.0,2.0,3.0,Yes,,2.0,2.0,2.0,,3.0,3.0,2.0,Yes,Name;#DOI,Yes
+193,25 - 34,Doctorate,Physics,Institute Space 16,Yes,1,8.0,Python,,1.0,0.0,2.0,7.0,1.0,2.0,2.0,5.0,Git,Yes,,,,,,,,3.0,Yes,,1.0,1.0,3.0,,1.0,2.0,3.0,No,,Yes
+194,25 - 34,Doctorate,Physics,Institute Space 8,Yes,1,10.0,Python;#Fortran,,7.0,7.0,2.0,2.0,8.0,6.0,2.0,2.0,Git,Yes,,1.0,3.0,2.0,1.0,1.0,2.0,2.0,Yes,,1.0,2.0,3.0,,3.0,3.0,3.0,Yes,Name;#DOI,No
+195,25 - 34,Doctorate,Electrical & Electronic Engineering,Institute Space 3,Yes,3,11.0,Python,,4.0,5.0,1.0,0.0,0.0,10.0,0.0,0.0,Git,Yes,,1.0,3.0,1.0,1.0,1.0,1.0,1.0,Yes,,1.0,1.0,3.0,,3.0,3.0,3.0,No,,No
+196,35 - 44,Doctorate,General Engineering,Institute Aeronautics 2,Yes,3,16.0,MATLAB;#Other,,4.0,4.0,1.0,1.0,4.0,5.0,0.0,1.0,"Git;#Other DVCS (e.g. Bazaar, BitKeeper, GNU arch, Mercurial, Monotone)",Yes,,3.0,3.0,3.0,3.0,1.0,2.0,2.0,Yes,,3.0,1.0,3.0,,3.0,2.0,3.0,No,Name;#Link;#Other,No
+197,25 - 34,general qualification for university entrance,General Engineering,,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,Name;#Link,
+198,45 - 54,Doctorate,Physics,Institute Aeronautics 15,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+199,45 - 54,Master degree,Aeronautical & Manufacturing Engineering,Other,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes,Name;#Link,
+200,25 - 34,Master degree,Chemical Engineering,Institute Energy 4,Yes,0 - Mostly me,1.0,C++;#MATLAB,,4.0,4.0,0.0,2.0,2.0,6.0,,2.0,Subversion;#Git,Yes,,1.0,3.0,1.0,2.0,1.0,1.0,3.0,Yes,,1.0,2.0,3.0,,3.0,3.0,3.0,Yes,Name,Yes
+201,35 - 44,Master degree,Physics,Institute Space 16,Yes,4,12.0,Java;#C;#Python;#C++;#JavaScript;#SQL;#Perl,,5.0,1.0,2.0,2.0,6.0,3.0,0.0,1.0,Git,Yes,,2.0,3.0,2.0,3.0,3.0,3.0,3.0,Yes,,3.0,2.0,2.0,,3.0,3.0,3.0,Yes,Name;#Link,Yes
+202,25 - 34,Master degree,Geology,Institute Space 15,Yes,4,1.0,Python,,5.0,3.0,1.0,1.0,5.0,4.0,1.0,0.0,Git,Yes,,2.0,3.0,2.0,3.0,1.0,2.0,2.0,Yes,,2.0,2.0,3.0,,3.0,3.0,2.0,No,Name;#Link,Yes
+203,25 - 34,Master degree,Electrical & Electronic Engineering,Institute Energy 1,Yes,0 - Mostly me,3.0,MATLAB,,0.0,4.0,3.0,3.0,1.0,3.0,3.0,3.0,None,No,,1.0,1.0,1.0,1.0,1.0,1.0,1.0,No,,1.0,1.0,1.0,,1.0,1.0,1.0,Yes,Link,Yes
+204,25 - 34,general qualification for university entrance,Computer Science,Institute Space 17,Yes,5 - Mostly other people,0.0,Java,,6.0,3.0,0.0,1.0,5.0,3.0,1.0,1.0,Git,Yes,,1.0,3.0,1.0,1.0,1.0,1.0,1.0,Yes,,3.0,2.0,3.0,,1.0,2.0,3.0,No,,No
+205,45 - 54,Doctorate,Politics,,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes,Name;#Other,
+206,25 - 34,Doctorate,Aeronautical & Manufacturing Engineering,Institute Aeronautics 6,Yes,2,12.0,Java;#C++,,1.0,2.0,4.0,3.0,3.0,7.0,0.0,0.0,Subversion;#Git,Yes,,1.0,3.0,1.0,2.0,1.0,1.0,2.0,Yes,,2.0,2.0,3.0,,1.0,2.0,3.0,No,,No
+207,25 - 34,Master degree,Chemical Engineering,Institute Space 10,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,Name,
+208,35 - 44,Doctorate,Aeronautical & Manufacturing Engineering,Institute Space 9,Yes,4,2.0,Python;#Other,,4.0,3.0,1.0,1.0,2.0,4.0,1.0,1.0,Git,Yes,,1.0,3.0,1.0,2.0,2.0,2.0,3.0,Yes,,2.0,2.0,2.0,,2.0,2.0,3.0,Yes,Name;#Link;#DOI,Yes
+209,18 - 24,Master degree,Mechanical Engineering,Institute Energy 3,Yes,2,3.0,Python;#C++;#MATLAB;#Assembly language,,3.0,5.0,,2.0,5.0,4.0,,1.0,Git,Yes,,2.0,2.0,,,,,,Yes,,1.0,3.0,3.0,,2.0,2.0,3.0,No,Name;#Link,Yes
+210,25 - 34,Doctorate,Computer Science,Institute Space 11,Yes,3,15.0,Java;#C;#C++;#Other,,5.0,3.0,2.0,1.0,6.0,4.0,0.0,0.0,Subversion;#Git,Yes,,1.0,3.0,2.0,2.0,1.0,2.0,3.0,Yes,,2.0,2.0,3.0,,2.0,2.0,3.0,Yes,Name;#Link,No
+211,35 - 44,Master degree,Mechanical Engineering,Institute Aeronautics 15,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+212,35 - 44,Doctorate,Physics,Institute Space 6,Yes,2,8.0,Python;#MATLAB,,1.0,1.0,8.0,,3.0,3.0,4.0,,Subversion;#Git,Yes,,1.0,2.0,1.0,2.0,1.0,1.0,2.0,Yes,,2.0,2.0,3.0,,3.0,3.0,2.0,No,Name;#Other,No
+213,25 - 34,Master degree,Computer Science,Institute Space 12,Yes,2,5.0,Python;#C++,,4.0,5.0,1.0,0.0,3.0,6.0,1.0,0.0,Git,Yes,,1.0,3.0,2.0,1.0,2.0,2.0,3.0,Yes,,2.0,3.0,3.0,,3.0,3.0,3.0,Yes,Link,No
+214,25 - 34,Doctorate,Physics,Institute Aeronautics 12,Yes,1,19.0,C;#Python,,3.0,2.0,3.0,2.0,2.0,8.0,0.0,0.0,Subversion,Yes,,1.0,3.0,1.0,1.0,1.0,1.0,1.0,Yes,,,1.0,3.0,,3.0,3.0,3.0,No,,No
+215,25 - 34,Master degree,Aeronautical & Manufacturing Engineering,Institute Aeronautics 11,Yes,4,7.0,Java;#Python;#C#;#Other,,5.0,2.0,2.0,1.0,8.0,2.0,0.0,0.0,Git,Yes,,2.0,3.0,2.0,3.0,2.0,2.0,3.0,Yes,,3.0,2.0,2.0,,3.0,3.0,3.0,Yes,Name;#Link,Yes
+216,25 - 34,Master degree,Electrical & Electronic Engineering,Institute Space 12,Yes,2,3.0,Python;#C++,,3.0,5.0,1.0,1.0,3.0,6.0,0.0,1.0,Subversion;#Git,Yes,,1.0,2.0,2.0,1.0,2.0,3.0,3.0,No,,1.0,2.0,3.0,,,2.0,,Yes,Link,Yes
+217,25 - 34,Master degree,Physics,Institute Space 16,Yes,4,1.0,Java;#PHP;#JavaScript,,2.0,2.0,4.0,2.0,2.0,4.0,2.0,2.0,Git,Yes,,1.0,3.0,1.0,3.0,1.0,1.0,1.0,Yes,,1.0,1.0,3.0,,3.0,3.0,3.0,Yes,Name;#Link;#DOI,Yes
+218,25 - 34,Master degree,Aeronautical & Manufacturing Engineering,Institute Aeronautics 11,Yes,2,13.0,Python;#JavaScript,,7.0,2.0,0.0,1.0,8.0,2.0,,0.0,Git,Yes,,2.0,3.0,1.0,3.0,1.0,1.0,3.0,Yes,,3.0,1.0,3.0,,3.0,2.0,3.0,Yes,Name;#Link,Yes
+219,25 - 34,Master degree,Aeronautical & Manufacturing Engineering,Institute Space 3,Yes,4,1.0,Python;#C#;#JavaScript;#SQL;#Fortran,,,7.0,,3.0,,7.0,,3.0,Git,Yes,,2.0,3.0,,2.0,,2.0,,Yes,,1.0,1.0,3.0,,2.0,2.0,3.0,No,Name,No
+220,45 - 54,Doctorate,Mechanical Engineering,Institute Aeronautics 3,Yes,1,30.0,Python;#Other,,1.0,4.0,3.0,2.0,1.0,7.0,1.0,1.0,Subversion,No,,1.0,3.0,1.0,1.0,2.0,1.0,1.0,Yes,,1.0,1.0,3.0,,2.0,1.0,3.0,Yes,Name,No
+221,45 - 54,Doctorate,Physics,Institute Space 8,Yes,3,18.0,Python;#R;#Fortran,,3.0,3.0,4.0,0.0,5.0,5.0,0.0,0.0,Git,Yes,,1.0,3.0,2.0,,3.0,2.0,2.0,Yes,,1.0,2.0,3.0,,3.0,3.0,3.0,Yes,Name;#Link;#Other,Yes
+222,25 - 34,Master degree,Civil Engineering,Institute Transport 1,Yes,3,3.0,Java;#Python;#SQL;#R,,3.0,4.0,1.0,2.0,4.0,4.0,1.0,1.0,Subversion;#Git,Yes,,1.0,2.0,1.0,2.0,2.0,1.0,3.0,Yes,,2.0,2.0,2.0,,3.0,3.0,3.0,No,,No
+223,,Undergraduate degree,Computer Science,Institute Aeronautics 6,Yes,2,5.0,Java;#C++;#SQL,,5.0,2.0,2.0,1.0,6.0,2.0,1.0,1.0,Subversion;#Git,Yes,,1.0,3.0,2.0,1.0,1.0,2.0,2.0,Yes,,3.0,1.0,3.0,,,3.0,2.0,No,,No
+224,18 - 24,Undergraduate degree,Geography & Environmental Sciences,,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+225,18 - 24,Master degree,Aeronautical & Manufacturing Engineering,Institute Space 10,Yes,0 - Mostly me,3.0,C;#Visual Basic .NET;#MATLAB;#Visual Basic,,3.0,3.0,2.0,2.0,3.0,4.0,1.0,2.0,None,Yes,,,3.0,3.0,,,,3.0,Yes,,3.0,3.0,3.0,,3.0,3.0,3.0,Yes,Link,Yes
+226,45 - 54,Master degree,Computer Science,Institute Space 11,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+227,25 - 34,Master degree,General Engineering,Institute Energy 2,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+228,25 - 34,Master degree,Aeronautical & Manufacturing Engineering,Institute Aeronautics 2,Yes,0 - Mostly me,2.0,Python;#MATLAB;#Other,,4.0,6.0,0.0,,3.0,7.0,,,"Other DVCS (e.g. Bazaar, BitKeeper, GNU arch, Mercurial, Monotone)",Yes,,,2.0,,,,,,Yes,,,,2.0,,1.0,2.0,2.0,No,,Yes
+229,35 - 44,Master degree,Mechanical Engineering,Institute Aeronautics 5,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+230,35 - 44,Doctorate,Mechanical Engineering,Institute Aeronautics 3,Yes,0 - Mostly me,10.0,C;#Python;#C#,,1.0,1.0,7.0,1.0,2.0,6.0,1.0,1.0,Subversion,Yes,,2.0,2.0,1.0,1.0,1.0,1.0,1.0,Yes,,1.0,1.0,2.0,,2.0,2.0,3.0,No,Name,No
+231,45 - 54,Master degree,Civil Engineering,Institute Aeronautics 6,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes,Name;#Link,
+232,35 - 44,Doctorate,Physics,Institute Space 6,Yes,2,10.0,Python;#C++,,5.0,3.0,1.0,1.0,5.0,5.0,0.0,0.0,Subversion;#Git,Yes,,2.0,3.0,2.0,3.0,2.0,1.0,2.0,Yes,,3.0,2.0,2.0,,3.0,2.0,3.0,Yes,Name;#Link,Yes
+233,18 - 24,Undergraduate degree,Aeronautical & Manufacturing Engineering,Institute Aeronautics 1,Yes,0 - Mostly me,1.0,Python;#C++,,9.0,1.0,0.0,0.0,4.0,4.0,1.0,1.0,Subversion;#Git,Yes,,1.0,3.0,2.0,2.0,1.0,2.0,2.0,Yes,,1.0,2.0,3.0,,1.0,2.0,3.0,No,,No
+234,25 - 34,Master degree,Computer Science,Institute Transport 1,Yes,4,7.0,Java;#Python;#JavaScript;#SQL;#Go;#Other,,7.0,0.0,2.0,1.0,8.0,2.0,0.0,1.0,Subversion;#Git,Yes,,1.0,3.0,1.0,1.0,2.0,3.0,3.0,Yes,,3.0,3.0,2.0,,3.0,3.0,3.0,Yes,Name;#Link,Yes
+235,25 - 34,Master degree,Biological Sciences,Institute Transport 1,Yes,1,2.0,Python;#R,,3.0,5.0,2.0,0.0,5.0,5.0,,0.0,Git,No,,1.0,3.0,1.0,1.0,1.0,1.0,1.0,No,,1.0,1.0,3.0,,3.0,2.0,1.0,Yes,Name;#Link,No
+236,25 - 34,Master degree,Mechanical Engineering,Institute Aeronautics 8,Yes,2,5.0,C;#Python;#C++;#MATLAB;#Assembly language;#Fortran,,3.0,4.0,1.0,2.0,3.0,4.0,1.0,2.0,Subversion;#Git,Yes,,3.0,3.0,,2.0,3.0,2.0,3.0,Yes,,2.0,2.0,3.0,,3.0,3.0,3.0,No,Other,No
+237,35 - 44,Doctorate,Other,Institute Space 9,Yes,1,10.0,C;#Python;#C++;#SQL,,2.0,3.0,4.0,1.0,4.0,4.0,1.0,1.0,Git;#None,Yes,,1.0,3.0,1.0,1.0,1.0,1.0,2.0,Yes,,1.0,1.0,3.0,,3.0,3.0,2.0,Yes,Name;#DOI,Yes
+238,55 or older,Other,Physics,Institute Energy 1,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes,Name,
+239,25 - 34,Master degree,Aeronautical & Manufacturing Engineering,Institute Aeronautics 5,Yes,2,6.0,Java;#Python;#MATLAB;#Fortran,,4.0,2.0,2.0,2.0,5.0,4.0,1.0,0.0,Subversion;#Git,Yes,,2.0,3.0,2.0,3.0,2.0,3.0,3.0,Yes,,1.0,2.0,3.0,,3.0,3.0,3.0,Yes,Name;#Link;#DOI,Yes
+240,35 - 44,Doctorate,Mechanical Engineering,Institute Transport 1,Yes,0 - Mostly me,12.0,Java;#Python,,1.0,4.0,3.0,2.0,3.0,4.0,2.0,1.0,None,Yes,,1.0,3.0,1.0,1.0,1.0,1.0,1.0,Yes,,1.0,2.0,3.0,,3.0,3.0,3.0,Yes,Name;#Other,No
+241,25 - 34,Master degree,Mechanical Engineering,Institute Space 13,Yes,1,1.0,MATLAB,,2.0,6.0,1.0,1.0,2.0,6.0,1.0,1.0,Subversion;#Git,No,,1.0,2.0,1.0,1.0,1.0,1.0,1.0,No,,1.0,1.0,3.0,,1.0,1.0,2.0,No,,No
+242,25 - 34,Master degree,Mechanical Engineering,Institute Aeronautics 8,Yes,2,25.0,Python;#MATLAB,,2.0,6.0,2.0,,3.0,7.0,,,Subversion,Yes,,1.0,3.0,1.0,1.0,1.0,1.0,1.0,Yes,,1.0,1.0,3.0,,3.0,3.0,3.0,No,,No
+243,35 - 44,Doctorate,Physics,,Yes,0 - Mostly me,10.0,MATLAB,,1.0,4.0,4.0,1.0,1.0,7.0,1.0,1.0,None,No,,1.0,2.0,1.0,1.0,1.0,1.0,2.0,Yes,,1.0,1.0,3.0,,2.0,,3.0,Yes,Name,No
+244,25 - 34,Master degree,Aeronautical & Manufacturing Engineering,Institute Aeronautics 11,Yes,5 - Mostly other people,4.0,Python,,8.0,2.0,0.0,0.0,8.0,2.0,0.0,0.0,Git,Yes,,1.0,3.0,3.0,3.0,3.0,3.0,3.0,Yes,,,,3.0,,3.0,3.0,3.0,Yes,Name;#Link,Yes
+245,35 - 44,Doctorate,Sociology,,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+246,25 - 34,Master degree,Mechanical Engineering,Institute Space 4,Yes,2,4.0,MATLAB,,5.0,4.0,0.0,1.0,6.0,4.0,0.0,0.0,Git,Yes,,1.0,3.0,1.0,2.0,1.0,1.0,2.0,Yes,,1.0,1.0,3.0,,3.0,3.0,2.0,No,,No
+247,45 - 54,Doctorate,Computer Science,Institute Aeronautics 10,Yes,4,20.0,C;#C++,,5.0,1.0,2.0,2.0,6.0,2.0,0.0,2.0,Subversion;#Git,Yes,,1.0,3.0,1.0,1.0,1.0,3.0,3.0,Yes,,3.0,1.0,2.0,,2.0,1.0,3.0,Yes,Name;#Link,No
+248,25 - 34,Master degree,Geography & Environmental Sciences,Institute Space 15,Yes,3,6.0,Python;#C#;#PHP;#JavaScript;#SQL;#Other,,4.0,2.0,2.0,2.0,6.0,2.0,1.0,1.0,Subversion;#Git,Yes,,2.0,2.0,1.0,2.0,2.0,2.0,2.0,Yes,,1.0,2.0,3.0,,2.0,3.0,3.0,No,,No
+249,25 - 34,Master degree,Electrical & Electronic Engineering,Institute Space 4,Yes,2,4.0,Python;#MATLAB;#Other,,6.0,2.0,1.0,1.0,4.0,4.0,1.0,1.0,Subversion,Yes,,2.0,3.0,2.0,2.0,2.0,2.0,2.0,Yes,,1.0,2.0,3.0,,3.0,3.0,3.0,Yes,Name;#Other,No
+250,18 - 24,Undergraduate degree,Electrical & Electronic Engineering,Institute Aeronautics 8,Yes,4,3.0,MATLAB;#Visual Basic;#Other,,3.0,3.0,3.0,1.0,3.0,4.0,2.0,1.0,None,Yes,,3.0,3.0,3.0,3.0,3.0,2.0,3.0,Yes,,1.0,2.0,3.0,,3.0,3.0,3.0,Yes,Name,Yes
+251,25 - 34,Doctorate,Computer Science,Institute Transport 1,Yes,4,8.0,Java;#Python;#C++;#R,,4.0,2.0,2.0,2.0,2.0,6.0,1.0,1.0,Subversion;#Git,Yes,,2.0,3.0,1.0,3.0,2.0,3.0,2.0,Yes,,3.0,3.0,2.0,,3.0,3.0,2.0,Yes,Name;#Link;#DOI,Yes
+252,25 - 34,Master degree,Physics,Institute Space 15,Yes,2,3.0,C++;#R;#Other,,4.0,3.0,2.0,1.0,5.0,4.0,0.0,1.0,Git,Yes,,2.0,3.0,2.0,2.0,1.0,1.0,3.0,Yes,,1.0,1.0,3.0,,3.0,2.0,3.0,Yes,Name;#DOI;#Other,No
+253,35 - 44,Master degree,Economics,,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes,Name,
+254,25 - 34,Master degree,Geography & Environmental Sciences,Institute Space 8,Yes,2,2.0,Python;#MATLAB;#Fortran;#Other,,6.0,3.0,0.0,1.0,9.0,1.0,0.0,0.0,None,Yes,,1.0,3.0,1.0,1.0,1.0,1.0,2.0,No,,1.0,1.0,1.0,,1.0,1.0,1.0,No,Other,No
+255,25 - 34,Master degree,Aeronautical & Manufacturing Engineering,Institute Aeronautics 8,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes,Name;#Link,
+256,25 - 34,Master degree,Mechanical Engineering,Institute Aeronautics 1,Yes,1,1.0,C;#Python,,3.0,5.0,1.0,1.0,3.0,6.0,1.0,0.0,Git,Yes,,1.0,3.0,1.0,2.0,1.0,1.0,2.0,Yes,,1.0,1.0,3.0,,2.0,2.0,3.0,No,,No
+257,18 - 24,Undergraduate degree,Mechanical Engineering,Institute Aeronautics 2,Yes,1,3.0,MATLAB;#Other,,3.0,5.0,1.0,1.0,5.0,5.0,0.0,,None,Yes,,1.0,3.0,1.0,1.0,1.0,1.0,1.0,Yes,,1.0,1.0,2.0,,2.0,2.0,2.0,No,,No
+258,55 or older,Doctorate,Physics,Institute Transport 1,Yes,1,20.0,C;#Python;#C++;#R,,2.0,3.0,2.0,3.0,2.0,5.0,1.0,2.0,Subversion;#Git,Yes,,1.0,3.0,1.0,1.0,1.0,1.0,2.0,Yes,,1.0,1.0,3.0,,3.0,3.0,3.0,Yes,Link;#DOI,No
+259,25 - 34,Master degree,Mathematics,Other,Yes,1,8.0,Java;#R,,3.0,3.0,1.0,3.0,4.0,4.0,1.0,1.0,Subversion,Yes,,3.0,3.0,2.0,2.0,,1.0,1.0,Yes,,1.0,2.0,3.0,,3.0,3.0,3.0,Yes,Name,Yes
+260,25 - 34,Master degree,Computer Science,Institute Space 12,Yes,3,10.0,C;#Python;#C++;#Other,,5.0,1.0,4.0,,0.0,5.0,5.0,,Subversion;#Git,Yes,,2.0,3.0,,2.0,2.0,1.0,1.0,Yes,,2.0,3.0,2.0,,3.0,2.0,3.0,Yes,Name;#Link;#DOI,No
+261,45 - 54,Master degree,Physics,Institute Space 6,Yes,3,30.0,C;#Python;#PHP;#JavaScript;#SQL;#Perl,,4.0,2.0,3.0,1.0,5.0,4.0,0.0,1.0,"Other DVCS (e.g. Bazaar, BitKeeper, GNU arch, Mercurial, Monotone)",Yes,,2.0,3.0,2.0,2.0,2.0,2.0,3.0,Yes,,2.0,2.0,3.0,,3.0,3.0,3.0,Yes,Name;#Link;#Other,Yes
+262,35 - 44,Doctorate,Other,Institute Space 6,Yes,2,12.0,Python;#C++;#MATLAB,,1.0,2.0,6.0,1.0,2.0,3.0,4.0,1.0,Git,Yes,,3.0,3.0,3.0,2.0,2.0,2.0,2.0,Yes,,1.0,1.0,3.0,,3.0,3.0,3.0,Yes,Name;#Link,Yes
+263,45 - 54,Master degree,Aeronautical & Manufacturing Engineering,Institute Aeronautics 6,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,Name,
+264,35 - 44,Master degree,Mechanical Engineering,Institute Space 5,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,Name;#Link,
+265,55 or older,Undergraduate degree,Electrical & Electronic Engineering,Institute Space 15,Yes,2,30.0,Java;#C;#Python;#C++;#SQL,,5.0,1.0,3.0,1.0,7.0,1.0,1.0,1.0,Subversion;#Git,Yes,,2.0,2.0,2.0,2.0,2.0,2.0,2.0,Yes,,2.0,3.0,2.0,,3.0,3.0,3.0,Yes,Name,No
+266,45 - 54,Master degree,Other,,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+267,25 - 34,Master degree,Computer Science,Institute Space 16,Yes,3,10.0,Java;#C;#Python;#C#;#Other,,2.0,3.0,1.0,5.0,3.0,4.0,1.0,2.0,Subversion;#Git,Yes,,1.0,3.0,1.0,2.0,2.0,3.0,3.0,Yes,,1.0,2.0,3.0,,1.0,1.0,3.0,Yes,Name;#Link;#DOI,No
+268,25 - 34,Doctorate,General Engineering,Institute Space 13,Yes,3,6.0,Python;#C++;#MATLAB;#Assembly language;#Fortran;#Other,,3.0,1.0,5.0,1.0,2.0,6.0,1.0,1.0,Git,Yes,,1.0,3.0,2.0,2.0,3.0,3.0,3.0,Yes,,1.0,2.0,3.0,,3.0,2.0,3.0,Yes,Name;#Link;#DOI,Yes
+269,35 - 44,Master degree,Electrical & Electronic Engineering,Institute Space 7,Yes,0 - Mostly me,10.0,C;#Python;#C++;#PHP;#MATLAB,,1.0,4.0,3.0,2.0,2.0,4.0,3.0,1.0,Subversion,Yes,,1.0,3.0,2.0,2.0,3.0,1.0,2.0,Yes,,1.0,2.0,3.0,,3.0,3.0,3.0,No,,No
+270,25 - 34,Master degree,Physics,Institute Space 8,Yes,2,5.0,Python;#Other,,4.0,4.0,0.0,2.0,4.0,3.0,1.0,2.0,Subversion;#Git,Yes,,3.0,3.0,3.0,3.0,2.0,3.0,2.0,Yes,,2.0,2.0,3.0,,3.0,3.0,3.0,Yes,Name;#Link;#DOI,Yes
+271,35 - 44,Doctorate,Aeronautical & Manufacturing Engineering,Institute Energy 2,Yes,2,6.0,Python;#MATLAB,,2.0,3.0,3.0,2.0,3.0,3.0,3.0,1.0,None,Yes,,1.0,3.0,2.0,1.0,1.0,1.0,3.0,Yes,,1.0,2.0,3.0,,3.0,2.0,3.0,Yes,Name;#Link;#DOI;#Other,No
+272,25 - 34,Master degree,Mechanical Engineering,Institute Energy 4,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+273,,,Aeronautical & Manufacturing Engineering,Other,Yes,2,2.0,Python;#MATLAB,,3.0,3.0,2.0,2.0,3.0,3.0,2.0,2.0,None,No,,1.0,2.0,1.0,1.0,2.0,1.0,1.0,No,,1.0,1.0,2.0,,2.0,2.0,2.0,Yes,Name,Yes
+274,18 - 24,Undergraduate degree,Other,Institute Energy 4,Yes,1,2.0,MATLAB,,5.0,3.0,1.0,1.0,3.0,2.0,1.0,4.0,None,Yes,,1.0,3.0,1.0,1.0,1.0,1.0,1.0,Yes,,2.0,2.0,3.0,,3.0,3.0,3.0,Yes,Name;#Other,No
+275,35 - 44,Doctorate,Electrical & Electronic Engineering,Institute Space 9,Yes,3,20.0,C;#Python;#C++;#Other,,4.0,3.0,2.0,1.0,4.0,3.0,1.0,2.0,Subversion,No,,1.0,3.0,2.0,2.0,2.0,1.0,1.0,Yes,,1.0,2.0,3.0,,3.0,3.0,3.0,Yes,Name;#Link;#DOI;#Other,No
+276,25 - 34,Master degree,Geography & Environmental Sciences,Institute Space 15,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+277,25 - 34,Undergraduate degree,Other,Institute Energy 4,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+278,25 - 34,Doctorate,Physics,Institute Space 6,Yes,3,12.0,C++,,2.0,3.0,3.0,2.0,6.0,2.0,1.0,1.0,Subversion,Yes,,1.0,3.0,1.0,2.0,2.0,2.0,2.0,Yes,,1.0,1.0,3.0,,3.0,3.0,3.0,No,Name,No
+279,25 - 34,Master degree,Computer Science,Institute Space 1,Yes,2,5.0,Python;#JavaScript,,4.0,3.0,2.0,1.0,4.0,6.0,0.0,0.0,Git,Yes,,2.0,3.0,1.0,1.0,1.0,3.0,3.0,Yes,,1.0,2.0,3.0,,2.0,3.0,3.0,Yes,Name;#Link,No
+280,35 - 44,Doctorate,Psychology,,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes,Name,
+281,25 - 34,Master degree,Electrical & Electronic Engineering,Institute Space 13,Yes,1,5.0,C;#C++;#MATLAB;#Other,,4.0,3.0,1.0,2.0,5.0,4.0,0.0,1.0,Git,Yes,,2.0,3.0,2.0,2.0,1.0,1.0,3.0,Yes,,1.0,1.0,3.0,,3.0,3.0,3.0,No,Name;#Link,No
+282,35 - 44,Master degree,Mathematics,Institute Aeronautics 12,Yes,2,3.0,R;#Other,,3.0,4.0,1.0,2.0,4.0,4.0,1.0,1.0,Subversion,Yes,,2.0,3.0,1.0,2.0,1.0,1.0,2.0,Yes,,1.0,2.0,3.0,,3.0,2.0,3.0,Yes,Name;#DOI,No
+283,25 - 34,Undergraduate degree,Sociology,Institute Space 17,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,Name;#Link;#DOI,
+284,25 - 34,Master degree,Aeronautical & Manufacturing Engineering,Institute Aeronautics 3,Yes,2,4.0,C;#Python;#C++;#MATLAB;#Fortran,,2.0,3.0,3.0,2.0,2.0,6.0,1.0,1.0,Subversion,Yes,,2.0,3.0,1.0,2.0,2.0,1.0,2.0,Yes,,3.0,2.0,2.0,,3.0,3.0,3.0,Yes,Name,Yes
+285,35 - 44,Undergraduate degree,Electrical & Electronic Engineering,Institute Space 9,Yes,2,3.0,Java;#Python;#R;#Other,,2.0,0.0,0.0,8.0,5.0,0.0,0.0,5.0,None,Yes,,,3.0,,,,,,Yes,,,,3.0,,,3.0,3.0,No,Other,No
+286,25 - 34,Master degree,General Engineering,Institute Energy 2,Yes,2,3.0,MATLAB;#Fortran,,4.0,5.0,0.0,1.0,4.0,6.0,0.0,0.0,Subversion,Yes,,2.0,3.0,3.0,2.0,2.0,3.0,1.0,Yes,,1.0,2.0,3.0,,1.0,2.0,3.0,No,,No
+287,35 - 44,Master degree,Economics,Other,Yes,0 - Mostly me,5.0,Java,,1.0,3.0,6.0,,,,,,Subversion,Yes,,1.0,3.0,1.0,3.0,2.0,2.0,2.0,Yes,,1.0,2.0,3.0,,3.0,3.0,2.0,Yes,Name,Yes
+288,55 or older,Master degree,Computer Science,Institute Space 12,Yes,4,30.0,Java;#C#,,4.0,2.0,2.0,2.0,8.0,2.0,,,Git;#CVS,Yes,,,3.0,,,2.0,,2.0,Yes,,,,3.0,,3.0,3.0,3.0,Yes,Name,No
+289,25 - 34,Master degree,Aeronautical & Manufacturing Engineering,Institute Space 10,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+290,35 - 44,Undergraduate degree,Computer Science,Institute Energy 3,Yes,3,15.0,Java;#Python;#C#;#MATLAB;#Other,,7.0,2.0,1.0,0.0,6.0,3.0,1.0,,Git,Yes,,2.0,3.0,2.0,2.0,2.0,2.0,2.0,Yes,,3.0,2.0,3.0,,3.0,3.0,3.0,No,,No
+291,45 - 54,Doctorate,Mechanical Engineering,Institute Energy 3,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes,Other,
+292,35 - 44,Doctorate,Mechanical Engineering,,Yes,2,19.0,Fortran;#Other,,2.0,6.0,1.0,1.0,2.0,8.0,,,None,Yes,,,3.0,,2.0,1.0,1.0,2.0,Yes,,1.0,2.0,3.0,,3.0,3.0,3.0,Yes,Name;#Other,No
+293,35 - 44,Master degree,General Engineering,Institute Space 15,Yes,1,15.0,Java;#C;#Python;#C++;#PHP;#JavaScript;#SQL;#Perl,,1.0,1.0,3.0,5.0,3.0,3.0,2.0,2.0,Git,Yes,,1.0,3.0,1.0,1.0,1.0,1.0,2.0,Yes,,1.0,1.0,3.0,,3.0,3.0,3.0,Yes,Name,No
+294,35 - 44,Doctorate,Physics,Institute Space 5,Yes,1,14.0,Python;#C++;#MATLAB,,4.0,3.0,2.0,1.0,4.0,5.0,0.0,1.0,"Git;#Other DVCS (e.g. Bazaar, BitKeeper, GNU arch, Mercurial, Monotone)",Yes,,1.0,3.0,2.0,1.0,1.0,1.0,2.0,Yes,,1.0,2.0,3.0,,3.0,2.0,3.0,Yes,Name;#Link;#DOI,Yes
+295,25 - 34,Master degree,Mechanical Engineering,Institute Aeronautics 1,Yes,0 - Mostly me,18.0,Python;#MATLAB,,3.0,2.0,2.0,3.0,1.0,5.0,1.0,3.0,None,Yes,,1.0,2.0,1.0,1.0,1.0,1.0,1.0,Yes,,1.0,1.0,3.0,,2.0,3.0,3.0,No,,No
+296,35 - 44,Other,Other,,Yes,0 - Mostly me,10.0,Fortran;#Other,,1.0,,,9.0,1.0,,,9.0,Other;#None,No,,,,,,,,2.0,Yes,,,,3.0,,,,3.0,No,Other,No
+297,25 - 34,Master degree,Aeronautical & Manufacturing Engineering,Institute Energy 2,Yes,2,3.0,C;#Python;#C++,,3.0,4.0,1.0,2.0,5.0,4.0,0.0,1.0,Subversion,No,,1.0,3.0,2.0,1.0,1.0,3.0,2.0,Yes,,1.0,2.0,2.0,,2.0,3.0,2.0,Yes,Name;#DOI,No
+298,25 - 34,Master degree,Computer Science,Other,Yes,1,11.0,Java;#Python;#C++;#SQL;#Rust,,3.0,2.0,2.0,3.0,5.0,3.0,1.0,1.0,Git,Yes,,1.0,2.0,1.0,2.0,1.0,3.0,3.0,Yes,,1.0,2.0,3.0,,3.0,2.0,3.0,Yes,Name;#DOI,Yes
+299,45 - 54,Master degree,Geography & Environmental Sciences,Institute Transport 3,Yes,0 - Mostly me,16.0,R;#Other,,1.0,5.0,1.0,3.0,1.0,6.0,0.0,3.0,None,Yes,,1.0,3.0,1.0,1.0,1.0,1.0,2.0,Yes,,1.0,1.0,3.0,,3.0,3.0,3.0,Yes,Name,No
+300,25 - 34,Master degree,Other,Other,Yes,2,4.0,Python;#MATLAB;#R,,6.0,7.0,5.0,2.0,6.0,7.0,5.0,4.0,None,Yes,,1.0,3.0,2.0,1.0,2.0,1.0,1.0,Yes,,,3.0,2.0,,3.0,3.0,3.0,No,Name,Yes
+301,35 - 44,Master degree,Computer Science,Institute Aeronautics 8,Yes,5 - Mostly other people,16.0,C;#C++;#C#;#SQL;#MATLAB,,6.0,1.0,2.0,1.0,2.0,4.0,4.0,0.0,Subversion;#Git,Yes,,3.0,3.0,2.0,3.0,3.0,2.0,2.0,Yes,,1.0,2.0,3.0,,3.0,3.0,3.0,Yes,Name;#Link,Yes
+302,35 - 44,Doctorate,Physics,Institute Space 18,Yes,1,9.0,Python;#C++,,5.0,5.0,0.0,0.0,0.0,10.0,0.0,0.0,Subversion,Yes,,1.0,3.0,1.0,1.0,1.0,2.0,2.0,Yes,,1.0,1.0,3.0,,3.0,3.0,2.0,Yes,Name;#Link,No
+303,25 - 34,general qualification for university entrance,Electrical & Electronic Engineering,Institute Space 16,Yes,3,6.0,Java;#SQL,,6.0,1.0,1.0,2.0,6.0,1.0,1.0,2.0,Subversion,Yes,,1.0,2.0,2.0,3.0,2.0,2.0,1.0,Yes,,1.0,1.0,3.0,,3.0,3.0,3.0,No,,No
+304,35 - 44,Doctorate,Electrical & Electronic Engineering,Institute Aeronautics 8,Yes,1,9.0,MATLAB;#Other,,0.0,3.0,2.0,5.0,1.0,5.0,2.0,2.0,None,Yes,,1.0,3.0,2.0,2.0,2.0,1.0,1.0,Yes,,1.0,2.0,3.0,,3.0,2.0,3.0,No,,No
+305,25 - 34,Master degree,Physics,Other,Yes,0 - Mostly me,3.0,Java;#Python;#C#;#SQL,,4.0,5.0,0.0,1.0,3.0,7.0,0.0,0.0,None,Yes,,1.0,3.0,1.0,1.0,1.0,1.0,1.0,Yes,,1.0,1.0,3.0,,3.0,,2.0,Yes,Name;#Link;#DOI,No
+306,25 - 34,Doctorate,Physics,Institute Energy 2,Yes,1,5.0,C++,,4.0,1.0,2.0,3.0,1.0,7.0,,2.0,Other,No,,,,,,,,,Yes,,1.0,2.0,3.0,,3.0,3.0,3.0,No,,No
+307,35 - 44,Doctorate,Mathematics,Institute Space 5,Yes,3,20.0,C;#Python;#PHP,,3.0,2.0,2.0,3.0,4.0,6.0,0.0,0.0,"Git;#Other DVCS (e.g. Bazaar, BitKeeper, GNU arch, Mercurial, Monotone)",Yes,,2.0,3.0,1.0,3.0,2.0,3.0,3.0,Yes,,3.0,2.0,3.0,,3.0,3.0,3.0,Yes,Name;#Link;#DOI;#Other,Yes
+308,45 - 54,Doctorate,Aeronautical & Manufacturing Engineering,Institute Space 10,Yes,2,22.0,C++;#MATLAB;#Visual Basic,,1.0,4.0,3.0,1.0,2.0,8.0,,,None,Yes,,,3.0,,2.0,,,,Yes,,1.0,2.0,3.0,,3.0,3.0,3.0,Yes,Name,No
+309,18 - 24,Undergraduate degree,Computer Science,Institute Aeronautics 8,Yes,3,3.0,C++,,6.0,3.0,0.0,1.0,6.0,3.0,0.0,1.0,Subversion,Yes,,2.0,3.0,2.0,1.0,1.0,2.0,1.0,Yes,,1.0,2.0,3.0,,2.0,2.0,3.0,No,,No
+310,25 - 34,Master degree,,,Yes,2,3.0,Python;#C++,,7.0,1.0,1.0,1.0,6.0,4.0,0.0,0.0,Subversion,Yes,,2.0,3.0,1.0,2.0,3.0,2.0,3.0,Yes,,1.0,2.0,3.0,,2.0,2.0,3.0,Yes,Name;#Link,Yes
+311,55 or older,Master degree,Other,Institute Aeronautics 6,Yes,0 - Mostly me,2.0,Python,,1.0,4.0,3.0,2.0,3.0,3.0,2.0,2.0,None,No,,,2.0,,,,,2.0,Yes,,,,3.0,,,,3.0,Yes,Name,No
+312,35 - 44,Master degree,Economics,Institute Aeronautics 5,Yes,5 - Mostly other people,15.0,Java;#JavaScript,,1.0,,9.0,,8.0,,2.0,,Subversion,Yes,,1.0,3.0,1.0,2.0,1.0,2.0,1.0,Yes,,2.0,2.0,3.0,,1.0,2.0,3.0,No,,No
+313,25 - 34,Master degree,Civil Engineering,Institute Space 6,Yes,1,3.0,Python;#MATLAB;#Other,,2.0,6.0,0.0,2.0,2.0,4.0,2.0,2.0,None,No,,1.0,3.0,1.0,3.0,1.0,1.0,2.0,Yes,,2.0,2.0,3.0,,3.0,2.0,3.0,Yes,Name;#DOI,No
+314,35 - 44,Doctorate,Aeronautical & Manufacturing Engineering,Institute Energy 2,Yes,4,8.0,Python;#Fortran;#Other,,2.0,3.0,5.0,,4.0,4.0,2.0,,Subversion;#Git,Yes,,2.0,3.0,1.0,2.0,2.0,3.0,2.0,Yes,,1.0,2.0,3.0,,3.0,3.0,2.0,Yes,Name;#Link,Yes
+315,25 - 34,Master degree,Computer Science,Institute Transport 1,Yes,2,4.0,Python,,3.0,4.0,2.0,1.0,4.0,4.0,1.0,1.0,None,Yes,,1.0,3.0,2.0,2.0,2.0,1.0,2.0,Yes,,1.0,1.0,3.0,,2.0,2.0,3.0,No,Name;#Link;#Other,Yes
+316,35 - 44,Doctorate,Aeronautical & Manufacturing Engineering,Institute Aeronautics 8,Yes,3,15.0,C;#Python;#C++;#MATLAB,,1.0,2.0,6.0,3.0,3.0,6.0,1.0,2.0,Subversion,Yes,,2.0,3.0,2.0,1.0,1.0,1.0,1.0,Yes,,2.0,3.0,3.0,,3.0,2.0,3.0,Yes,Name,No
+317,35 - 44,Master degree,Aeronautical & Manufacturing Engineering,Institute Aeronautics 8,Yes,2,20.0,C;#Python;#C#;#MATLAB;#Visual Basic,,2.0,3.0,4.0,1.0,3.0,5.0,1.0,1.0,None,Yes,,1.0,3.0,1.0,1.0,1.0,2.0,2.0,Yes,,1.0,1.0,3.0,,2.0,3.0,3.0,No,,No
+318,45 - 54,Undergraduate degree,,,Yes,3,20.0,Java;#C;#C++,,3.0,3.0,1.0,3.0,3.0,3.0,1.0,3.0,Subversion;#Git,Yes,,2.0,3.0,2.0,2.0,2.0,2.0,2.0,Yes,,3.0,3.0,3.0,,3.0,3.0,3.0,Yes,Other,No
+319,35 - 44,Undergraduate degree,Other,Institute Space 6,Yes,0 - Mostly me,3.0,Python,,2.0,4.0,3.0,5.0,4.0,4.0,1.0,1.0,None,Yes,,1.0,3.0,1.0,1.0,1.0,1.0,1.0,No,,1.0,1.0,2.0,,1.0,1.0,1.0,No,Name;#Other,No
+320,18 - 24,,Mechanical Engineering,Institute Space 2,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+321,25 - 34,Doctorate,Aeronautical & Manufacturing Engineering,Institute Aeronautics 1,Yes,3,8.0,C;#Python,,6.0,2.0,1.0,1.0,4.0,4.0,1.0,1.0,Subversion;#Git,Yes,,1.0,3.0,1.0,1.0,1.0,1.0,2.0,Yes,,1.0,1.0,3.0,,3.0,3.0,3.0,No,,No
+322,25 - 34,Master degree,Physics,Institute Aeronautics 1,Yes,3,8.0,C;#Python,,4.0,4.0,0.0,2.0,3.0,7.0,0.0,0.0,Subversion;#Git,Yes,,1.0,2.0,1.0,2.0,1.0,2.0,2.0,Yes,,2.0,3.0,3.0,,3.0,2.0,3.0,Yes,Name;#Link,No
+323,45 - 54,Doctorate,Astronomy,Institute Space 9,Yes,0 - Mostly me,14.0,Other,,2.0,6.0,,2.0,2.0,6.0,,2.0,None,Yes,,1.0,3.0,1.0,1.0,1.0,1.0,2.0,Yes,,1.0,1.0,3.0,,3.0,2.0,3.0,Yes,Name;#Link;#DOI,No
+324,35 - 44,Master degree,Mechanical Engineering,Institute Aeronautics 14,Yes,2,10.0,Other,,4.0,3.0,2.0,1.0,7.0,3.0,0.0,0.0,Subversion,Yes,,1.0,3.0,1.0,1.0,3.0,1.0,1.0,Yes,,1.0,2.0,3.0,,3.0,3.0,3.0,Yes,Other,No
+325,55 or older,Doctorate,Chemistry,Institute Space 1,Yes,1,1.0,Visual Basic,,1.0,0.0,9.0,0.0,1.0,0.0,9.0,0.0,None,No,,1.0,3.0,1.0,1.0,1.0,1.0,1.0,Yes,,1.0,1.0,3.0,,3.0,3.0,3.0,No,,No
+326,25 - 34,Master degree,Computer Science,Institute Transport 1,Yes,1,10.0,Python;#C++;#SQL;#MATLAB;#R,,4.0,1.0,1.0,4.0,5.0,5.0,0.0,0.0,Subversion;#Git,Yes,,2.0,3.0,1.0,2.0,2.0,2.0,2.0,Yes,,1.0,1.0,2.0,,2.0,2.0,2.0,No,,No
+327,45 - 54,Undergraduate degree,Mechanical Engineering,Institute Aeronautics 3,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+328,25 - 34,Master degree,Aeronautical & Manufacturing Engineering,Institute Space 16,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+329,35 - 44,Master degree,Computer Science,,Yes,2,10.0,Java;#Python;#SQL;#Visual Basic,,1.0,3.0,5.0,1.0,2.0,4.0,3.0,1.0,Subversion;#Git,Yes,,1.0,3.0,2.0,2.0,3.0,2.0,2.0,Yes,,2.0,3.0,3.0,,3.0,3.0,3.0,No,,No
+330,25 - 34,Master degree,Electrical & Electronic Engineering,Institute Space 4,Yes,1,7.0,C;#C++,,6.0,2.0,1.0,1.0,4.0,3.0,2.0,1.0,Subversion;#Git,Yes,,1.0,3.0,1.0,3.0,2.0,3.0,3.0,Yes,,,2.0,,,,,3.0,No,Other,Yes
+331,25 - 34,Master degree,Electrical & Electronic Engineering,Institute Space 13,Yes,1,5.0,C;#C++;#MATLAB,,4.0,2.0,2.0,2.0,5.0,2.0,1.0,2.0,Subversion,Yes,,1.0,3.0,2.0,2.0,1.0,2.0,2.0,Yes,,1.0,1.0,3.0,,1.0,2.0,2.0,Yes,Name;#Link,No
+332,35 - 44,Master degree,Chemistry,,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes,Name,
+333,35 - 44,Master degree,Electrical & Electronic Engineering,Institute Space 4,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+334,55 or older,,Electrical & Electronic Engineering,Institute Aeronautics 6,Yes,3,38.0,Java;#C;#C++;#C#;#PHP;#JavaScript;#SQL;#Assembly language;#Fortran;#Lisp;#Prolog,,6.0,2.0,1.0,1.0,7.0,3.0,0.0,0.0,Subversion;#Git,Yes,,2.0,3.0,2.0,2.0,2.0,2.0,2.0,Yes,,3.0,,2.0,,3.0,3.0,3.0,Yes,Name;#Other,No
+335,35 - 44,Master degree,Computer Science,Institute Space 2,Yes,2,10.0,Python;#C#;#SQL;#Other,,5.0,2.0,2.0,1.0,4.0,3.0,1.0,2.0,Subversion,Yes,,2.0,3.0,1.0,2.0,2.0,2.0,3.0,Yes,,1.0,1.0,3.0,,2.0,3.0,3.0,No,,No
+336,35 - 44,Doctorate,Geography & Environmental Sciences,Institute Space 6,Yes,4,1.0,Python;#R,,5.0,2.0,1.0,2.0,3.0,6.0,0.0,1.0,Subversion,Yes,,1.0,3.0,1.0,2.0,2.0,1.0,2.0,Yes,,2.0,2.0,3.0,,3.0,3.0,3.0,Yes,Name;#Link;#DOI;#Other,No
+337,35 - 44,Master degree,Mechanical Engineering,Institute Aeronautics 2,Yes,1,15.0,C;#Python;#MATLAB,,3.0,5.0,2.0,0.0,3.0,7.0,0.0,0.0,"Other DVCS (e.g. Bazaar, BitKeeper, GNU arch, Mercurial, Monotone)",Yes,,1.0,3.0,1.0,1.0,1.0,1.0,1.0,Yes,,1.0,2.0,3.0,,3.0,3.0,3.0,No,,No
+338,45 - 54,Doctorate,Geography & Environmental Sciences,Institute Space 3,Yes,2,24.0,Python;#C++;#Other,,2.0,2.0,2.0,4.0,3.0,6.0,0.0,1.0,Subversion;#Git;#CVS,Yes,,1.0,3.0,1.0,2.0,2.0,2.0,2.0,Yes,,1.0,2.0,3.0,,3.0,3.0,3.0,Yes,Name,No
+339,45 - 54,Doctorate,Medicine,Institute Space 2,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+340,25 - 34,Master degree,Chemical Engineering,Institute Energy 4,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes,Name;#DOI,
+341,25 - 34,Master degree,Communication & Media Studies,,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+342,55 or older,Doctorate,Aeronautical & Manufacturing Engineering,Institute Aeronautics 8,Yes,2,33.0,Visual Basic;#Fortran,,1.0,3.0,3.0,3.0,3.0,3.0,1.0,3.0,None,Yes,,1.0,3.0,1.0,2.0,1.0,1.0,2.0,Yes,,2.0,2.0,3.0,,3.0,3.0,3.0,Yes,Name,No
+343,18 - 24,general qualification for university entrance,Other,Institute Space 18,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,Name;#Link,
+344,55 or older,Doctorate,Psychology,Institute Space 2,Yes,4,35.0,Python;#Visual Basic .NET;#R;#Visual Basic;#Other,,1.0,6.0,1.0,2.0,2.0,6.0,2.0,0.0,None,Yes,,2.0,3.0,2.0,3.0,3.0,1.0,1.0,Yes,,1.0,1.0,3.0,,3.0,3.0,3.0,Yes,Name,Yes
+345,35 - 44,Doctorate,Physics,Institute Energy 4,Yes,2,10.0,C++;#MATLAB,,2.0,3.0,4.0,1.0,2.0,4.0,3.0,1.0,Subversion,Yes,,1.0,3.0,2.0,1.0,3.0,3.0,2.0,Yes,,3.0,1.0,2.0,,3.0,3.0,3.0,Yes,Name;#Link;#DOI,Yes
+346,35 - 44,Doctorate,Mechanical Engineering,Institute Energy 3,Yes,1,20.0,MATLAB;#Fortran,,1.0,5.0,3.0,1.0,0.0,8.0,1.0,1.0,Other,Yes,,1.0,3.0,2.0,2.0,2.0,2.0,2.0,Yes,,1.0,1.0,3.0,,3.0,3.0,3.0,Yes,Name;#Other,No
+347,35 - 44,Doctorate,Mechanical Engineering,Institute Energy 3,Yes,3,5.0,Visual Basic .NET;#Other,,3.0,2.0,6.0,8.0,6.0,6.0,3.0,2.0,None,Yes,,1.0,3.0,2.0,3.0,3.0,1.0,2.0,Yes,,1.0,1.0,3.0,,3.0,3.0,3.0,Yes,Other,No
+348,35 - 44,Master degree,Mechanical Engineering,Institute Aeronautics 1,Yes,2,6.0,C;#Python;#MATLAB,,4.0,3.0,2.0,1.0,3.0,4.0,2.0,1.0,Subversion,Yes,,2.0,3.0,1.0,3.0,2.0,1.0,1.0,Yes,,1.0,1.0,3.0,,1.0,1.0,3.0,Yes,Name,No
+349,25 - 34,Undergraduate degree,Other,Institute Space 10,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+350,35 - 44,Doctorate,Physics,Institute Aeronautics 1,Yes,1,10.0,C;#C++;#MATLAB,,3.0,3.0,2.0,2.0,2.0,4.0,1.0,3.0,None,Yes,,1.0,3.0,1.0,2.0,1.0,1.0,1.0,Yes,,1.0,3.0,2.0,,3.0,3.0,3.0,No,,No
+351,45 - 54,Doctorate,Geography & Environmental Sciences,Institute Aeronautics 6,Yes,2,4.0,Java;#Python;#C++,,1.0,3.0,3.0,3.0,3.0,5.0,,2.0,Git,Yes,,1.0,3.0,1.0,2.0,1.0,1.0,2.0,Yes,,2.0,3.0,3.0,,3.0,2.0,3.0,Yes,Name;#Other,Yes
+352,45 - 54,Master degree,Mechanical Engineering,,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+353,35 - 44,Doctorate,Civil Engineering,Institute Transport 3,Yes,0 - Mostly me,8.0,R,,1.0,3.0,5.0,4.0,1.0,3.0,4.0,4.0,None,Yes,,1.0,3.0,1.0,1.0,1.0,1.0,1.0,Yes,,2.0,2.0,2.0,,3.0,3.0,3.0,Yes,Name,No
+354,25 - 34,Master degree,General Engineering,Institute Transport 2,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes,Name,
+355,25 - 34,Master degree,Psychology,Institute Space 2,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes,Other,
+356,35 - 44,Doctorate,Aeronautical & Manufacturing Engineering,,Yes,3,5.0,Python;#MATLAB,,2.0,2.0,6.0,1.0,2.0,3.0,4.0,1.0,Git,No,,1.0,3.0,1.0,1.0,1.0,1.0,1.0,No,,,,,,,,,No,,No
+357,18 - 24,Master degree,Aeronautical & Manufacturing Engineering,Institute Aeronautics 15,Yes,1,4.0,MATLAB;#Visual Basic,,0.0,2.0,3.0,5.0,2.0,7.0,1.0,0.0,None,No,,,,,,,,,Yes,,,,2.0,,,,2.0,No,,No
+358,25 - 34,Doctorate,Physics,,Yes,0 - Mostly me,10.0,Fortran;#Other,,5.0,4.0,0.0,1.0,4.0,5.0,0.0,1.0,None,Yes,,1.0,3.0,1.0,1.0,1.0,1.0,1.0,Yes,,1.0,1.0,3.0,,2.0,2.0,3.0,Yes,DOI,No
+359,25 - 34,Master degree,Electrical & Electronic Engineering,,Yes,1,3.0,Python;#MATLAB;#Other,,1.0,2.0,4.0,4.0,2.0,3.0,3.0,2.0,Subversion,Yes,,1.0,3.0,1.0,2.0,1.0,1.0,2.0,Yes,,1.0,1.0,3.0,,,2.0,3.0,No,,No
+360,35 - 44,Master degree,Mechanical Engineering,Institute Space 11,Yes,2,11.0,Python;#C++;#Fortran,,4.0,4.0,1.0,1.0,,,,,Subversion,Yes,,2.0,3.0,,3.0,2.0,2.0,2.0,Yes,,3.0,2.0,2.0,,3.0,3.0,3.0,Yes,Name;#Link,No
+361,35 - 44,Doctorate,Physics,Institute Space 4,Yes,2,20.0,Python;#C++,,1.0,1.0,6.0,2.0,1.0,3.0,5.0,1.0,Subversion,Yes,,1.0,3.0,1.0,1.0,1.0,1.0,1.0,Yes,,1.0,1.0,2.0,,2.0,2.0,3.0,No,,No
+362,25 - 34,Master degree,Mechanical Engineering,Institute Space 10,Yes,2,7.0,Python;#MATLAB,,0.0,3.0,7.0,,0.0,5.0,5.0,,None,No,,1.0,3.0,1.0,1.0,1.0,1.0,2.0,Yes,,1.0,1.0,3.0,,3.0,2.0,3.0,Yes,Name,No
+363,45 - 54,Other,Computer Science,Institute Space 18,Yes,2,29.0,C;#Python;#C++;#SQL;#Perl;#Other,,5.0,2.0,0.0,3.0,7.0,2.0,0.0,1.0,Git;#CVS,Yes,,1.0,3.0,1.0,2.0,1.0,2.0,1.0,Yes,,1.0,2.0,3.0,,3.0,3.0,3.0,Yes,Name;#Link,No
+364,45 - 54,Master degree,Aeronautical & Manufacturing Engineering,,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+365,35 - 44,Master degree,Other,Institute Space 7,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes,Name,
+366,45 - 54,general qualification for university entrance,,,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+367,25 - 34,Master degree,Psychology,Institute Aeronautics 6,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes,Name;#Link,
+368,35 - 44,Doctorate,Physics,Institute Space 17,Yes,5 - Mostly other people,15.0,C;#Python;#C++;#JavaScript;#MATLAB,,4.0,2.0,3.0,1.0,4.0,4.0,2.0,,Git,Yes,,2.0,3.0,2.0,3.0,3.0,2.0,2.0,Yes,,3.0,2.0,2.0,,3.0,3.0,3.0,Yes,Name;#Link;#DOI,Yes
+369,35 - 44,Doctorate,Aeronautical & Manufacturing Engineering,Institute Space 11,Yes,2,3.0,C;#Python;#C++;#MATLAB,,2.0,5.0,1.0,2.0,3.0,5.0,0.0,2.0,Subversion;#Git,Yes,,1.0,3.0,1.0,2.0,1.0,1.0,2.0,Yes,,2.0,2.0,3.0,,1.0,2.0,3.0,No,,No
+370,45 - 54,Doctorate,Physics,Institute Space 16,Yes,4,18.0,C++;#Perl;#Other,,1.0,0.0,7.0,2.0,3.0,1.0,5.0,1.0,Git;#CVS,Yes,,3.0,3.0,2.0,2.0,3.0,3.0,2.0,Yes,,3.0,3.0,3.0,,3.0,3.0,3.0,Yes,Name;#Link;#Other,No
+371,35 - 44,Doctorate,Electrical & Electronic Engineering,Institute Space 4,Yes,2,18.0,Java;#MATLAB,,1.0,2.0,6.0,2.0,2.0,7.0,1.0,0.0,Subversion,Yes,,1.0,3.0,1.0,2.0,2.0,2.0,2.0,Yes,,1.0,2.0,3.0,,,3.0,3.0,Yes,Link,Yes
+372,35 - 44,Doctorate,Physics,Institute Aeronautics 12,Yes,2,12.0,Python,,4.0,2.0,3.0,1.0,3.0,4.0,1.0,2.0,Subversion,Yes,,2.0,3.0,1.0,3.0,2.0,3.0,3.0,Yes,,1.0,1.0,3.0,,1.0,1.0,3.0,Yes,Name;#Other,Yes
+373,35 - 44,Doctorate,Aeronautical & Manufacturing Engineering,Institute Aeronautics 6,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes,Name;#Link,
+374,25 - 34,Master degree,Physics,Institute Aeronautics 15,Yes,2,10.0,Python;#Other,,3.0,3.0,3.0,1.0,3.0,3.0,3.0,1.0,Subversion;#Git,Yes,,2.0,3.0,2.0,3.0,2.0,3.0,3.0,Yes,,1.0,1.0,3.0,,3.0,3.0,3.0,Yes,Name;#Link;#Other,No
+375,45 - 54,Doctorate,Chemistry,Other 1,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+376,45 - 54,Doctorate,Aeronautical & Manufacturing Engineering,Institute Aeronautics 3,Yes,3,30.0,C;#Python;#C++,,2.0,2.0,4.0,2.0,3.0,3.0,2.0,2.0,Subversion,Yes,,2.0,3.0,,2.0,2.0,2.0,3.0,Yes,,1.0,2.0,3.0,,3.0,3.0,3.0,Yes,Name;#Link;#DOI,No
+377,35 - 44,Final secondary-school examination,Electrical & Electronic Engineering,Institute Aeronautics 14,Yes,0 - Mostly me,30.0,C;#Python,,2.0,2.0,1.0,5.0,2.0,2.0,0.0,6.0,None,No,,1.0,1.0,1.0,,1.0,1.0,1.0,Yes,,1.0,1.0,3.0,,2.0,2.0,2.0,No,,No
+378,35 - 44,Doctorate,Physics,Institute Space 11,Yes,1,15.0,MATLAB;#Fortran,,3.0,3.0,3.0,1.0,5.0,3.0,1.0,1.0,Subversion,Yes,,1.0,3.0,1.0,2.0,3.0,2.0,3.0,Yes,,1.0,2.0,3.0,,3.0,3.0,3.0,Yes,Name,No
+379,45 - 54,Master degree,Computer Science,Institute Aeronautics 6,Yes,4,35.0,Java;#Python;#C++;#MATLAB;#Other,,3.0,4.0,1.0,1.0,3.0,4.0,1.0,1.0,Subversion;#Git,Yes,,2.0,2.0,2.0,2.0,2.0,2.0,2.0,Yes,,2.0,3.0,3.0,,3.0,3.0,3.0,Yes,Name;#Link;#Other,Yes
+380,25 - 34,Master degree,Aeronautical & Manufacturing Engineering,Institute Aeronautics 6,Yes,0 - Mostly me,4.0,C;#C++;#C#;#MATLAB;#R,,3.0,3.0,1.0,3.0,4.0,4.0,0.0,2.0,Subversion,Yes,,1.0,3.0,1.0,2.0,1.0,1.0,1.0,Yes,,1.0,1.0,3.0,,3.0,3.0,3.0,Yes,Name;#Link,No
+381,45 - 54,Doctorate,Computer Science,Institute Aeronautics 6,Yes,2,20.0,Java;#C++;#SQL,,2.0,2.0,4.0,2.0,4.0,4.0,1.0,1.0,Subversion,Yes,,1.0,3.0,2.0,2.0,3.0,2.0,3.0,Yes,,1.0,1.0,3.0,,3.0,3.0,2.0,Yes,Name;#Other,No
+382,35 - 44,Master degree,Mechanical Engineering,Other,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+383,45 - 54,Master degree,Computer Science,Institute Space 19,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes,Name;#Other,
+384,25 - 34,Master degree,Computer Science,Institute Aeronautics 10,Yes,5 - Mostly other people,16.0,Python,,5.0,2.0,0.0,3.0,4.0,3.0,,3.0,Git,Yes,,2.0,2.0,1.0,3.0,3.0,3.0,3.0,Yes,,3.0,1.0,2.0,,3.0,3.0,3.0,Yes,Name,Yes
+385,55 or older,Master degree,Mathematics,Institute Space 9,Yes,4,33.0,C;#SQL;#Perl;#Other,,7.0,2.0,0.0,1.0,6.0,3.0,,1.0,Subversion;#None,Yes,,1.0,3.0,1.0,3.0,2.0,1.0,2.0,Yes,,1.0,1.0,3.0,,2.0,3.0,3.0,Yes,Name,No
+386,25 - 34,Doctorate,Mechanical Engineering,Institute Aeronautics 10,Yes,4,7.0,C;#Python;#C++;#Fortran,,9.0,1.0,0.0,0.0,7.0,0.0,3.0,,Git,Yes,,1.0,3.0,1.0,3.0,1.0,1.0,2.0,Yes,,,3.0,1.0,,3.0,3.0,3.0,Yes,Name,No
+387,45 - 54,Doctorate,Physics,,Yes,2,25.0,C;#Python;#C++;#Visual Basic;#Other,,1.0,1.0,3.0,5.0,4.0,4.0,2.0,0.0,Git;#Other,Yes,,1.0,3.0,1.0,2.0,1.0,1.0,2.0,Yes,,1.0,2.0,3.0,,3.0,3.0,3.0,Yes,Name;#Link;#DOI;#Other,No
+388,25 - 34,Doctorate,Mechanical Engineering,Other,Yes,3,8.0,Python;#MATLAB;#Fortran,,3.0,6.0,2.0,,3.0,4.0,3.0,,None,Yes,,,3.0,,,,3.0,2.0,Yes,,1.0,2.0,,,3.0,3.0,3.0,Yes,Link;#DOI,No
+389,25 - 34,Master degree,Computer Science,Institute Aeronautics 10,Yes,4,14.0,C++,,2.0,1.0,3.0,4.0,3.0,3.0,1.0,3.0,Git,Yes,,1.0,3.0,1.0,2.0,3.0,3.0,3.0,Yes,,3.0,2.0,2.0,,3.0,3.0,3.0,No,,No
+390,25 - 34,Master degree,Aeronautical & Manufacturing Engineering,Institute Aeronautics 6,Yes,1,1.0,C;#C++,,2.0,4.0,4.0,0.0,3.0,5.0,1.0,1.0,Git,Yes,,1.0,3.0,1.0,2.0,2.0,1.0,2.0,Yes,,1.0,2.0,3.0,,3.0,2.0,2.0,No,,No
+391,35 - 44,Doctorate,Mechanical Engineering,Institute Energy 3,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes,Name;#Link;#DOI;#Other,
+392,25 - 34,Master degree,Aeronautical & Manufacturing Engineering,Institute Aeronautics 1,Yes,1,10.0,C;#Python;#C++;#Visual Basic .NET;#C#;#PHP;#SQL;#MATLAB;#Fortran,,1.0,5.0,4.0,0.0,3.0,7.0,0.0,0.0,None,Yes,,1.0,3.0,1.0,3.0,3.0,1.0,3.0,Yes,,1.0,1.0,3.0,,3.0,3.0,3.0,Yes,Name;#DOI;#Other,Yes
+393,25 - 34,Doctorate,Electrical & Electronic Engineering,Institute Space 12,Yes,0 - Mostly me,8.0,MATLAB,,5.0,5.0,,,4.0,6.0,,,Git,Yes,,1.0,3.0,1.0,2.0,1.0,1.0,1.0,Yes,,1.0,2.0,3.0,,3.0,3.0,3.0,Yes,Name;#Link,No
+394,35 - 44,Doctorate,Psychology,Other 1,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+395,25 - 34,Doctorate,Mathematics,Institute Energy 1,Yes,1,5.0,Python;#R;#Julia,,2.0,4.0,2.0,2.0,3.0,5.0,1.0,1.0,Git,No,,1.0,2.0,1.0,2.0,1.0,1.0,1.0,Yes,,1.0,1.0,3.0,,3.0,2.0,2.0,No,,Yes
+396,25 - 34,Doctorate,Physics,Institute Energy 1,Yes,1,8.0,Python;#MATLAB;#R,,4.0,4.0,1.0,1.0,4.0,4.0,1.0,1.0,Git;#CVS,Yes,,,2.0,,,,,,Yes,,3.0,2.0,1.0,,3.0,3.0,3.0,No,Name;#Link;#DOI;#Other,Yes
+397,25 - 34,Undergraduate degree,Electrical & Electronic Engineering,,Yes,0 - Mostly me,1.0,MATLAB;#Julia,,2.0,4.0,1.0,3.0,2.0,4.0,2.0,2.0,None,Yes,,1.0,3.0,2.0,2.0,2.0,2.0,2.0,Yes,,3.0,3.0,3.0,,3.0,3.0,2.0,No,Name,No
+398,55 or older,Doctorate,Medicine,Institute Space 2,Yes,0 - Mostly me,30.0,Other,,1.0,4.0,2.0,3.0,2.0,5.0,1.0,2.0,None,Yes,,1.0,3.0,1.0,2.0,1.0,1.0,2.0,Yes,,1.0,3.0,2.0,,3.0,,3.0,Yes,Name;#Link,No
+399,35 - 44,Undergraduate degree,Computer Science,Institute Space 16,Yes,0 - Mostly me,10.0,Other,,1.0,0.0,4.0,5.0,0.0,3.0,3.0,4.0,None,Yes,,1.0,3.0,1.0,2.0,1.0,2.0,1.0,Yes,,1.0,1.0,3.0,,1.0,3.0,3.0,No,Name,No
+400,35 - 44,Doctorate,Astronomy,Institute Space 16,Yes,3,15.0,C#;#Other,,5.0,1.0,3.0,1.0,6.0,2.0,1.0,1.0,Git,Yes,,2.0,3.0,2.0,2.0,3.0,3.0,2.0,Yes,,3.0,3.0,1.0,,3.0,3.0,3.0,No,,No
+401,35 - 44,Master degree,Mechanical Engineering,Institute Space 9,Yes,1,5.0,Python;#C++;#JavaScript,,2.0,2.0,1.0,5.0,4.0,3.0,,3.0,Subversion;#Git,Yes,,1.0,3.0,1.0,2.0,2.0,1.0,2.0,Yes,,1.0,2.0,3.0,,3.0,2.0,3.0,Yes,Name;#Link;#DOI,No
+402,35 - 44,Doctorate,Mechanical Engineering,Institute Aeronautics 1,Yes,2,20.0,C;#Python;#C++,,2.0,4.0,3.0,1.0,5.0,5.0,1.0,1.0,Subversion;#Git,Yes,,1.0,3.0,1.0,2.0,2.0,2.0,3.0,Yes,,2.0,2.0,3.0,,3.0,3.0,3.0,Yes,Name;#DOI,No
+403,25 - 34,Master degree,Aeronautical & Manufacturing Engineering,Institute Aeronautics 4,Yes,0 - Mostly me,4.0,Python;#MATLAB,,3.0,3.0,2.0,2.0,4.0,4.0,1.0,1.0,Subversion,Yes,,1.0,3.0,2.0,1.0,1.0,1.0,1.0,Yes,,2.0,2.0,3.0,,3.0,3.0,3.0,No,,No
+404,25 - 34,Master degree,Chemical Engineering,Institute Energy 3,Yes,1,1.0,C;#Python;#MATLAB;#Visual Basic,,1.0,3.0,0.0,6.0,3.0,6.0,0.0,1.0,None,Yes,,1.0,3.0,2.0,2.0,1.0,1.0,1.0,Yes,,1.0,2.0,3.0,,3.0,2.0,3.0,No,Name;#DOI;#Other,No
+405,35 - 44,Doctorate,Aeronautical & Manufacturing Engineering,Institute Aeronautics 8,Yes,1,10.0,MATLAB,,2.0,5.0,1.0,2.0,1.0,5.0,2.0,2.0,Subversion,No,,1.0,3.0,1.0,1.0,1.0,1.0,2.0,Yes,,1.0,2.0,3.0,,1.0,3.0,3.0,Yes,Name,No
+406,35 - 44,Doctorate,Electrical & Electronic Engineering,Institute Space 3,Yes,2,10.0,Python;#IDL,,3.0,2.0,3.0,2.0,3.0,3.0,2.0,2.0,Subversion,Yes,,1.0,2.0,1.0,3.0,2.0,2.0,2.0,Yes,,1.0,2.0,3.0,,2.0,2.0,3.0,Yes,Name,No
+407,45 - 54,Undergraduate degree,,Institute Aeronautics 8,Yes,4,30.0,C;#C++;#SQL;#MATLAB;#Fortran,,8.0,,,2.0,5.0,,,5.0,Subversion,Yes,,1.0,3.0,2.0,2.0,3.0,2.0,3.0,Yes,,1.0,2.0,3.0,,3.0,3.0,3.0,Yes,Name,No
+408,35 - 44,Master degree,Mechanical Engineering,Institute Energy 3,Yes,2,5.0,C++;#MATLAB,,1.0,2.0,7.0,0.0,2.0,4.0,4.0,,Subversion;#Git,Yes,,2.0,2.0,2.0,2.0,2.0,2.0,2.0,Yes,,1.0,2.0,3.0,,3.0,3.0,3.0,Yes,Name,No
+409,25 - 34,Master degree,Mathematics,Other,Yes,2,2.0,C;#Python,,6.0,2.0,1.0,1.0,4.0,4.0,1.0,1.0,Subversion;#Git,Yes,,2.0,2.0,1.0,1.0,1.0,1.0,2.0,Yes,,2.0,3.0,3.0,,3.0,3.0,3.0,No,,No
+410,25 - 34,Master degree,Computer Science,Institute Space 17,Yes,5 - Mostly other people,10.0,Java;#JavaScript,,6.0,2.0,0.0,2.0,6.0,4.0,0.0,0.0,Subversion;#Git,Yes,,3.0,2.0,3.0,2.0,3.0,3.0,3.0,Yes,,2.0,2.0,3.0,,3.0,3.0,3.0,Yes,Name;#Link,Yes
+411,25 - 34,Master degree,Physics,Institute Space 10,Yes,2,7.0,Python;#MATLAB,,2.0,3.0,3.0,2.0,1.0,5.0,3.0,1.0,Subversion;#CVS,Yes,,1.0,3.0,2.0,2.0,1.0,1.0,1.0,Yes,,2.0,3.0,2.0,,3.0,3.0,3.0,Yes,Name;#Link;#DOI,No
+412,25 - 34,Doctorate,Computer Science,Institute Transport 1,Yes,2,10.0,Python;#C++,,4.0,2.0,2.0,2.0,2.0,6.0,1.0,1.0,Git,Yes,,2.0,3.0,2.0,3.0,1.0,3.0,3.0,Yes,,3.0,,3.0,,2.0,2.0,2.0,Yes,Name;#Other,Yes
+413,25 - 34,Master degree,Aeronautical & Manufacturing Engineering,Institute Aeronautics 8,Yes,4,7.0,C;#C++;#MATLAB,,4.0,3.0,0.0,3.0,5.0,4.0,,1.0,Subversion,No,,1.0,3.0,1.0,1.0,1.0,2.0,2.0,Yes,,2.0,2.0,2.0,,3.0,3.0,3.0,No,Name,No
+414,25 - 34,Master degree,Aeronautical & Manufacturing Engineering,Institute Transport 2,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes,Name;#Other,
+415,55 or older,Master degree,Mathematics,Institute Aeronautics 8,Yes,3,25.0,MATLAB,,4.0,4.0,1.0,1.0,4.0,6.0,0.0,0.0,Other,Yes,,1.0,3.0,1.0,3.0,2.0,2.0,3.0,Yes,,1.0,2.0,3.0,,2.0,3.0,3.0,Yes,Name;#Other,Yes
+416,25 - 34,Master degree,Aeronautical & Manufacturing Engineering,Institute Aeronautics 8,Yes,1,2.0,MATLAB,,4.0,3.0,2.0,1.0,1.0,7.0,1.0,1.0,Subversion,Yes,,1.0,3.0,1.0,1.0,1.0,1.0,1.0,Yes,,1.0,1.0,3.0,,3.0,3.0,3.0,No,Other,No
+417,55 or older,Master degree,Electrical & Electronic Engineering,Institute Space 17,Yes,5 - Mostly other people,30.0,Java;#Python,,3.0,4.0,1.0,2.0,3.0,3.0,1.0,3.0,Git,Yes,,1.0,3.0,1.0,2.0,1.0,2.0,3.0,Yes,,2.0,2.0,3.0,,,3.0,3.0,No,,Yes
+418,45 - 54,Doctorate,Physics,Institute Space 16,Yes,3,18.0,Java;#Python;#C++;#C#;#SQL,,1.0,,6.0,3.0,2.0,,7.0,1.0,Git,Yes,,2.0,3.0,1.0,1.0,3.0,3.0,2.0,Yes,,2.0,2.0,3.0,,3.0,3.0,3.0,No,,No
+419,45 - 54,Doctorate,Biological Sciences,Institute Space 2,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+420,45 - 54,Doctorate,Geology,Institute Space 15,Yes,3,20.0,Java;#C;#Python;#SQL;#IDL,,3.0,5.0,0.0,2.0,2.0,7.0,,1.0,Subversion;#Git,Yes,,2.0,3.0,1.0,2.0,1.0,2.0,3.0,Yes,,1.0,2.0,1.0,,3.0,3.0,2.0,No,,Yes
+421,55 or older,Doctorate,Mechanical Engineering,Institute Energy 3,Yes,3,30.0,Java;#C++;#Visual Basic;#Fortran,,1.0,2.0,6.0,1.0,2.0,3.0,3.0,2.0,Subversion,Yes,,1.0,2.0,1.0,3.0,3.0,2.0,2.0,Yes,,1.0,1.0,2.0,,2.0,2.0,2.0,Yes,Name;#Other,No
+422,45 - 54,Doctorate,Computer Science,Institute Space 17,Yes,5 - Mostly other people,33.0,C;#Python;#C++;#Assembly language,,4.0,2.0,3.0,1.0,4.0,4.0,1.0,1.0,Subversion;#Git,Yes,,2.0,3.0,1.0,3.0,2.0,1.0,2.0,Yes,,3.0,2.0,3.0,,2.0,2.0,3.0,No,,No
+423,25 - 34,Master degree,General Engineering,Institute Energy 1,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes,Name;#Link;#DOI,
+424,25 - 34,Master degree,Aeronautical & Manufacturing Engineering,Institute Space 19,Yes,4,1.5,Perl;#Fortran,,7.0,0.0,0.0,3.0,8.0,0.0,0.0,2.0,Git,Yes,,1.0,3.0,1.0,1.0,1.0,1.0,1.0,Yes,,1.0,1.0,3.0,,3.0,3.0,3.0,No,,No
+425,45 - 54,Doctorate,Aeronautical & Manufacturing Engineering,Institute Space 2,Yes,1,3.0,MATLAB;#R,,2.0,4.0,1.0,3.0,2.0,5.0,1.0,2.0,Subversion,Yes,,1.0,3.0,2.0,2.0,2.0,1.0,2.0,Yes,,2.0,2.0,3.0,,3.0,2.0,3.0,No,Other,No
+426,25 - 34,Master degree,Mechanical Engineering,Institute Aeronautics 5,Yes,0 - Mostly me,3.0,MATLAB;#Other,,3.0,8.0,0.0,4.0,4.0,9.0,0.0,2.0,None,Yes,,1.0,3.0,1.0,1.0,1.0,1.0,1.0,Yes,,1.0,1.0,3.0,,3.0,3.0,3.0,No,,No
+427,35 - 44,Doctorate,Physics,Institute Transport 1,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+428,35 - 44,Master degree,Aeronautical & Manufacturing Engineering,Institute Aeronautics 8,Yes,3,12.0,Python;#C++;#SQL;#MATLAB;#Other,,5.0,8.0,2.0,3.0,4.0,8.0,2.0,3.0,Subversion,Yes,,1.0,3.0,2.0,2.0,,2.0,2.0,Yes,,1.0,1.0,3.0,,2.0,2.0,3.0,No,,No
+429,25 - 34,Master degree,Electrical & Electronic Engineering,Institute Energy 4,Yes,3,5.0,Python;#JavaScript;#Visual Basic;#Other,,2.0,3.0,1.0,4.0,5.0,3.0,1.0,1.0,Subversion,Yes,,2.0,3.0,2.0,2.0,3.0,2.0,2.0,No,,1.0,1.0,3.0,,1.0,1.0,3.0,No,Name,No
+430,25 - 34,Master degree,Physics,Institute Energy 4,Yes,2,2.0,Python,,2.0,5.0,1.0,2.0,3.0,7.0,0.0,0.0,Subversion;#Git,Yes,,1.0,3.0,1.0,2.0,2.0,2.0,2.0,Yes,,1.0,2.0,3.0,,3.0,2.0,2.0,No,,No
+431,25 - 34,Master degree,Aeronautical & Manufacturing Engineering,Institute Aeronautics 2,Yes,2,13.0,Python;#C++,,5.0,6.0,3.0,5.0,4.0,8.0,1.0,1.0,"Other DVCS (e.g. Bazaar, BitKeeper, GNU arch, Mercurial, Monotone)",Yes,,2.0,3.0,2.0,2.0,1.0,1.0,3.0,Yes,,3.0,2.0,3.0,,2.0,2.0,3.0,Yes,Name,Yes
+432,55 or older,Doctorate,Geography & Environmental Sciences,Other 1,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes,Name,
+433,55 or older,Other,Geography & Environmental Sciences,Institute Space 6,Yes,0 - Mostly me,30.0,Python;#Fortran;#IDL,,3.0,3.0,3.0,1.0,4.0,5.0,1.0,,Subversion,Yes,,1.0,3.0,1.0,2.0,1.0,2.0,3.0,Yes,,1.0,1.0,3.0,,3.0,3.0,3.0,Yes,Name;#Link;#DOI;#Other,No
+434,55 or older,Doctorate,Mechanical Engineering,Institute Energy 3,Yes,5 - Mostly other people,30.0,Python;#Delphi/Object Pascal,,1.0,4.0,4.0,1.0,4.0,4.0,1.0,1.0,Subversion,Yes,,,3.0,,3.0,,,2.0,Yes,,1.0,1.0,3.0,,2.0,2.0,2.0,Yes,Name;#Link,Yes
+435,35 - 44,Doctorate,Mathematics,Institute Space 16,Yes,2,8.0,C++,,4.0,3.0,2.0,1.0,4.0,4.0,1.0,1.0,Git,Yes,,1.0,3.0,1.0,2.0,2.0,2.0,2.0,Yes,,2.0,3.0,2.0,,3.0,3.0,3.0,Yes,Name;#Link,No
+436,45 - 54,Master degree,Electrical & Electronic Engineering,Institute Energy 4,Yes,1,20.0,MATLAB;#Other,,1.0,5.0,2.0,2.0,1.0,6.0,2.0,1.0,Subversion,Yes,,1.0,3.0,1.0,2.0,1.0,1.0,2.0,Yes,,2.0,2.0,3.0,,3.0,3.0,3.0,No,,No
+437,55 or older,Doctorate,Electrical & Electronic Engineering,Institute Space 6,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes,Name;#Link,
+438,25 - 34,Master degree,General Engineering,Institute Transport 1,Yes,1,2.0,Python;#C++;#C#,,2.0,3.0,2.0,3.0,3.0,4.0,1.0,2.0,Subversion;#Git,Yes,,1.0,3.0,2.0,2.0,1.0,1.0,2.0,No,,1.0,1.0,1.0,,1.0,1.0,1.0,Yes,Name;#Link,No
+439,25 - 34,Master degree,Mechanical Engineering,Institute Energy 4,Yes,0 - Mostly me,4.0,Java;#MATLAB,,1.0,6.0,1.0,2.0,1.0,6.0,,2.0,None,No,,1.0,3.0,1.0,1.0,1.0,1.0,,Yes,,1.0,2.0,3.0,,2.0,2.0,3.0,No,Name,No
+440,35 - 44,Master degree,,,Yes,1,10.0,Python;#MATLAB;#Fortran,,3.0,2.0,4.0,1.0,4.0,6.0,,,"Other DVCS (e.g. Bazaar, BitKeeper, GNU arch, Mercurial, Monotone)",Yes,,,3.0,,,,,,Yes,,,,3.0,,,3.0,3.0,Yes,Name,No
+441,25 - 34,Master degree,Mechanical Engineering,Institute Energy 3,Yes,1,3.0,Python,,6.0,3.0,0.0,1.0,5.0,4.0,,1.0,Git,Yes,,1.0,3.0,1.0,1.0,1.0,1.0,2.0,Yes,,2.0,2.0,2.0,,2.0,2.0,2.0,Yes,Name;#DOI,No
+442,35 - 44,Master degree,Computer Science,Institute Space 17,Yes,4,20.0,Java;#Python;#JavaScript;#SQL,,4.0,1.0,2.0,3.0,3.0,3.0,2.0,2.0,Subversion;#Git,Yes,,3.0,3.0,3.0,2.0,2.0,3.0,3.0,Yes,,3.0,3.0,2.0,,3.0,2.0,3.0,Yes,Name;#Link;#DOI,Yes
+443,35 - 44,Master degree,Aeronautical & Manufacturing Engineering,Institute Space 16,Yes,3,5.0,C;#JavaScript,,5.0,3.0,1.0,1.0,3.0,3.0,2.0,2.0,Git,Yes,,1.0,3.0,2.0,2.0,2.0,3.0,3.0,Yes,,3.0,3.0,3.0,,3.0,3.0,3.0,No,,No
+444,35 - 44,Master degree,Computer Science,Institute Space 17,Yes,4,17.0,Python;#C++;#Rust,,3.0,1.0,2.0,4.0,4.0,6.0,0.0,0.0,Git,Yes,,1.0,3.0,1.0,1.0,1.0,2.0,3.0,Yes,,3.0,2.0,2.0,,3.0,1.0,2.0,Yes,Name,No
+445,25 - 34,Master degree,Computer Science,Institute Space 17,Yes,1,8.0,Python;#C++;#C#;#Other,,3.0,1.0,5.0,1.0,6.0,2.0,1.0,1.0,Subversion;#Git,Yes,,1.0,2.0,1.0,1.0,1.0,2.0,2.0,Yes,,1.0,1.0,3.0,,1.0,2.0,3.0,No,,No
+446,25 - 34,Master degree,Aeronautical & Manufacturing Engineering,Institute Aeronautics 8,Yes,2,4.0,MATLAB;#Fortran,,1.0,2.0,3.0,4.0,3.0,6.0,0.0,1.0,Subversion;#Git,Yes,,1.0,3.0,1.0,2.0,1.0,1.0,1.0,Yes,,3.0,,2.0,,3.0,2.0,3.0,Yes,Name,No
+447,25 - 34,Master degree,Computer Science,Institute Space 17,Yes,1,3.0,Python;#C++;#JavaScript,,4.0,2.0,2.0,2.0,4.0,4.0,1.0,1.0,Git,Yes,,2.0,3.0,2.0,1.0,2.0,2.0,2.0,Yes,,2.0,2.0,2.0,,3.0,3.0,3.0,Yes,Name,No
+448,35 - 44,Master degree,Aeronautical & Manufacturing Engineering,Institute Aeronautics 1,Yes,4,12.0,Python;#C++,,3.0,1.0,5.0,1.0,4.0,3.0,2.0,1.0,Subversion;#Git,Yes,,3.0,3.0,2.0,2.0,2.0,2.0,3.0,Yes,,3.0,3.0,3.0,,3.0,3.0,3.0,Yes,Name;#Link;#Other,Yes
+449,45 - 54,Doctorate,Biological Sciences,Institute Space 9,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes,Name,
+450,25 - 34,Master degree,Other,Institute Space 12,Yes,3,5.0,Java;#C;#Python;#C++;#JavaScript,,4.0,2.0,3.0,1.0,4.0,4.0,1.0,1.0,Git,Yes,,1.0,2.0,1.0,1.0,2.0,3.0,2.0,Yes,,2.0,3.0,2.0,,3.0,3.0,3.0,Yes,Name;#Link;#Other,Yes
+451,55 or older,Doctorate,Chemical Engineering,Institute Energy 3,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,Name,
+452,25 - 34,Master degree,Electrical & Electronic Engineering,,Yes,1,3.0,Python;#C++;#MATLAB;#Lisp,,6.0,2.0,1.0,1.0,5.0,3.0,1.0,1.0,Subversion;#Git,Yes,,1.0,3.0,2.0,1.0,1.0,2.0,3.0,Yes,,2.0,1.0,3.0,,3.0,3.0,3.0,No,,No
+453,18 - 24,Undergraduate degree,Information Management,Institute Aeronautics 8,Yes,0 - Mostly me,3.0,Java;#C;#MATLAB,,2.0,0.0,2.0,6.0,1.0,4.0,1.0,4.0,Subversion,Yes,,1.0,2.0,2.0,3.0,1.0,1.0,2.0,Yes,,1.0,2.0,3.0,,3.0,3.0,3.0,Yes,Link,Yes
+454,25 - 34,Master degree,Mathematics,Institute Space 16,Yes,5 - Mostly other people,6.0,Python;#C++;#MATLAB;#Perl;#Fortran,,8.0,0.0,0.0,2.0,7.0,2.0,,1.0,Git;#CVS,Yes,,1.0,3.0,1.0,1.0,1.0,2.0,1.0,Yes,,1.0,3.0,1.0,,3.0,3.0,2.0,No,,No
+455,,Doctorate,Aeronautical & Manufacturing Engineering,Institute Aeronautics 1,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes,Name;#Link;#DOI,
+456,45 - 54,Doctorate,Other,Institute Space 9,Yes,2,30.0,MATLAB,,3.0,3.0,3.0,1.0,4.0,6.0,0.0,0.0,None,Yes,,,3.0,2.0,3.0,2.0,2.0,1.0,Yes,,3.0,2.0,3.0,,3.0,3.0,3.0,Yes,Name;#DOI;#Other,Yes
+457,35 - 44,Undergraduate degree,Geography & Environmental Sciences,Institute Space 18,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes,Name;#Link,
+458,25 - 34,Master degree,Aeronautical & Manufacturing Engineering,Institute Aeronautics 1,Yes,0 - Mostly me,2.0,C;#C++;#Fortran,,5.0,4.0,0.0,1.0,3.0,3.0,3.0,1.0,None,Yes,,1.0,3.0,1.0,1.0,1.0,2.0,2.0,Yes,,1.0,2.0,3.0,,2.0,3.0,3.0,No,Name,No
+459,35 - 44,Doctorate,Physics,Institute Space 8,Yes,4,15.0,Python;#Fortran;#Other,,5.0,2.0,2.0,1.0,4.0,4.0,1.0,1.0,Git,Yes,,2.0,3.0,2.0,2.0,2.0,2.0,2.0,Yes,,2.0,2.0,3.0,,3.0,3.0,3.0,Yes,Link;#DOI,Yes
+460,55 or older,Master degree,Mechanical Engineering,Institute Space 9,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+461,35 - 44,Doctorate,Physics,Institute Energy 1,Yes,0 - Mostly me,1.0,C,,4.0,4.0,1.0,1.0,3.0,6.0,1.0,0.0,None,Yes,,1.0,3.0,2.0,2.0,1.0,1.0,1.0,Yes,,1.0,2.0,2.0,,3.0,1.0,3.0,No,Name,No
+462,25 - 34,Master degree,Mathematics,Institute Space 13,Yes,2,2.0,Julia,,5.0,5.0,0.0,0.0,4.0,6.0,0.0,0.0,Git,Yes,,2.0,3.0,1.0,2.0,2.0,3.0,3.0,Yes,,2.0,3.0,3.0,,3.0,3.0,3.0,No,Name;#Link;#DOI,Yes
+463,25 - 34,Doctorate,Mathematics,Institute Space 16,Yes,5 - Mostly other people,3.0,Java;#Python;#C#;#SQL;#Other,,5.0,1.0,1.0,3.0,6.0,3.0,0.0,1.0,Git,Yes,,2.0,3.0,2.0,3.0,3.0,2.0,2.0,Yes,,3.0,3.0,3.0,,3.0,3.0,3.0,Yes,Name;#Link,No
+464,25 - 34,Doctorate,Physics,Institute Space 8,Yes,2,4.0,Python;#Fortran;#Other,,3.0,4.0,1.0,2.0,3.0,5.0,1.0,1.0,Subversion;#Git,Yes,,1.0,3.0,2.0,2.0,2.0,1.0,2.0,Yes,,2.0,2.0,2.0,,3.0,2.0,3.0,Yes,Name;#Link;#DOI,Yes
+465,25 - 34,Doctorate,Mechanical Engineering,Institute Aeronautics 1,Yes,2,3.0,MATLAB;#Perl,,1.0,5.0,2.0,2.0,2.0,6.0,1.0,1.0,None,Yes,,1.0,3.0,1.0,1.0,1.0,1.0,2.0,Yes,,1.0,1.0,3.0,,3.0,3.0,3.0,Yes,Name,No
+466,35 - 44,Master degree,Electrical & Electronic Engineering,Institute Aeronautics 8,Yes,3,12.0,C;#Python;#C++;#MATLAB,,2.0,2.0,6.0,2.0,5.0,3.0,2.0,1.0,Subversion;#Git,Yes,,3.0,3.0,2.0,2.0,1.0,1.0,1.0,Yes,,3.0,3.0,3.0,,3.0,3.0,3.0,Yes,Name;#Link;#DOI,Yes
+467,45 - 54,Doctorate,Computer Science,Other 1,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+468,35 - 44,Doctorate,Aeronautical & Manufacturing Engineering,Other,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes,Name;#Link;#Other,
+469,35 - 44,Doctorate,Computer Science,Institute Aeronautics 10,Yes,2,10.0,Java;#Python;#C++,,4.0,2.0,2.0,2.0,7.0,3.0,1.0,2.0,Subversion;#Git,Yes,,2.0,2.0,2.0,2.0,2.0,2.0,2.0,Yes,,3.0,3.0,3.0,,3.0,3.0,3.0,No,,No
+470,35 - 44,Doctorate,Psychology,Institute Aeronautics 6,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes,Name,
+471,35 - 44,Master degree,Computer Science,,Yes,0 - Mostly me,10.0,Java;#Python;#JavaScript;#SQL,,3.0,3.0,4.0,,10.0,,,,Subversion,Yes,,3.0,3.0,1.0,2.0,2.0,3.0,2.0,Yes,,,2.0,3.0,,3.0,3.0,3.0,Yes,Name,No
+472,25 - 34,Master degree,Mechanical Engineering,Institute Aeronautics 8,Yes,4,2.0,Python;#C++,,6.0,2.0,1.0,1.0,3.0,5.0,1.0,1.0,Subversion,Yes,,2.0,3.0,2.0,1.0,1.0,1.0,1.0,Yes,,2.0,2.0,3.0,,3.0,3.0,2.0,Yes,Name,No
+473,35 - 44,Master degree,Aeronautical & Manufacturing Engineering,Institute Space 19,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+474,35 - 44,Doctorate,Computer Science,Institute Space 19,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes,Name;#Link;#Other,
+475,35 - 44,Master degree,Aeronautical & Manufacturing Engineering,Institute Space 10,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes,Name;#Other,
+476,35 - 44,Doctorate,Aeronautical & Manufacturing Engineering,Institute Space 8,Yes,2,10.0,Python;#MATLAB;#IDL;#Other,,4.0,3.0,1.0,2.0,5.0,3.0,1.0,1.0,None,Yes,,1.0,3.0,1.0,2.0,1.0,1.0,1.0,Yes,,1.0,1.0,3.0,,2.0,2.0,3.0,No,,No
+477,35 - 44,Doctorate,Computer Science,Institute Aeronautics 10,Yes,0 - Mostly me,10.0,C;#Python;#C++;#Assembly language,,0.0,1.0,8.0,1.0,3.0,5.0,1.0,1.0,Subversion;#Git,No,,1.0,3.0,1.0,1.0,1.0,2.0,2.0,Yes,,1.0,1.0,3.0,,1.0,1.0,3.0,Yes,Name;#Link,No
+478,25 - 34,Master degree,Computer Science,Institute Space 12,Yes,2,3.0,Python;#C++,,4.0,3.0,0.0,2.0,3.0,6.0,,1.0,Subversion;#Git,Yes,,1.0,3.0,1.0,1.0,1.0,1.0,2.0,Yes,,1.0,2.0,3.0,,3.0,2.0,3.0,Yes,Name;#Link,No
+479,25 - 34,Doctorate,Chemistry,Institute Aeronautics 12,Yes,2,3.0,Python;#Other,,1.0,4.0,4.0,1.0,0.0,8.0,0.0,2.0,None,Yes,,2.0,3.0,1.0,2.0,1.0,1.0,1.0,Yes,,1.0,1.0,3.0,,2.0,2.0,3.0,No,,No
+480,55 or older,Doctorate,Aeronautical & Manufacturing Engineering,Institute Aeronautics 1,Yes,0 - Mostly me,35.0,C;#Python;#C++;#Delphi/Object Pascal;#Visual Basic;#Fortran,,1.0,5.0,3.0,1.0,2.0,7.0,1.0,0.0,None,Yes,,1.0,2.0,1.0,1.0,1.0,1.0,2.0,Yes,,1.0,1.0,3.0,,1.0,3.0,3.0,Yes,Name;#DOI,No
+481,35 - 44,Master degree,Mathematics,Institute Aeronautics 1,Yes,4,20.0,C;#Python;#C++,,5.0,2.0,2.0,1.0,7.0,3.0,0.0,0.0,Subversion;#Git,Yes,,3.0,3.0,2.0,1.0,2.0,2.0,2.0,Yes,,3.0,3.0,2.0,,3.0,3.0,3.0,Yes,Name;#Link,No
+482,35 - 44,Doctorate,Aeronautical & Manufacturing Engineering,Institute Aeronautics 5,Yes,3,3.0,Java;#Python;#Fortran,,4.0,2.0,4.0,2.0,2.0,3.0,3.0,2.0,Subversion;#Git,Yes,,2.0,3.0,1.0,2.0,2.0,3.0,2.0,Yes,,3.0,2.0,2.0,,3.0,3.0,2.0,No,Name;#Link,Yes
+483,25 - 34,Master degree,Computer Science,Institute Transport 1,Yes,1,3.0,Python;#C++,,2.0,5.0,1.0,2.0,4.0,4.0,1.0,1.0,Subversion;#Git,Yes,,2.0,3.0,2.0,3.0,3.0,1.0,1.0,Yes,,3.0,2.0,2.0,,3.0,3.0,3.0,Yes,Name;#Link;#Other,Yes
+484,35 - 44,Doctorate,Physics,Institute Space 5,Yes,1,25.0,C;#Python;#C++;#Other,,2.0,4.0,3.0,1.0,2.0,7.0,1.0,1.0,"Subversion;#Git;#Other DVCS (e.g. Bazaar, BitKeeper, GNU arch, Mercurial, Monotone)",Yes,,2.0,3.0,1.0,1.0,2.0,2.0,3.0,Yes,,1.0,1.0,3.0,,3.0,3.0,3.0,Yes,Name;#DOI,Yes
+485,25 - 34,Master degree,Chemistry,Institute Energy 1,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes,Name,
+486,45 - 54,Master degree,Mechanical Engineering,,Yes,1,20.0,MATLAB,,1.0,0.0,9.0,0.0,2.0,2.0,6.0,0.0,None,Yes,,1.0,2.0,2.0,2.0,1.0,1.0,1.0,Yes,,1.0,3.0,3.0,,3.0,3.0,3.0,Yes,Name,Yes
+487,35 - 44,Master degree,Politics,Other,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+488,45 - 54,Undergraduate degree,Mechanical Engineering,Institute Energy 3,Yes,3,20.0,Python;#Other,,1.0,3.0,5.0,1.0,3.0,4.0,2.0,1.0,None,Yes,,1.0,3.0,1.0,2.0,2.0,2.0,2.0,Yes,,1.0,2.0,2.0,,3.0,3.0,3.0,Yes,Name,No
+489,18 - 24,Undergraduate degree,Computer Science,Institute Space 9,Yes,4,5.0,Python;#C++;#C#,,6.0,2.0,1.0,1.0,6.0,3.0,1.0,0.0,Subversion;#Git;#None,Yes,,1.0,3.0,1.0,2.0,1.0,2.0,1.0,No,,1.0,1.0,1.0,,1.0,1.0,1.0,No,,Yes
+490,25 - 34,Master degree,Aeronautical & Manufacturing Engineering,Institute Aeronautics 8,Yes,1,5.0,C;#C++;#MATLAB,,5.0,3.0,1.0,1.0,5.0,4.0,0.0,1.0,Subversion,Yes,,2.0,3.0,1.0,2.0,2.0,2.0,3.0,Yes,,1.0,2.0,3.0,,3.0,3.0,3.0,No,Name,No
+491,25 - 34,Master degree,Physics,Institute Space 8,Yes,0 - Mostly me,1.0,Python,,3.0,5.0,1.0,1.0,4.0,4.0,1.0,1.0,Git,No,,1.0,1.0,1.0,1.0,1.0,1.0,1.0,Yes,,1.0,1.0,3.0,,1.0,1.0,3.0,No,,No
+492,25 - 34,Undergraduate degree,Computer Science,Institute Space 17,Yes,5 - Mostly other people,3.0,Java;#Python;#C++;#SQL,,6.0,3.0,0.0,1.0,6.0,3.0,0.0,1.0,Git,Yes,,3.0,3.0,3.0,,,,3.0,Yes,,3.0,2.0,3.0,,3.0,2.0,3.0,No,Name;#Link;#DOI;#Other,Yes
+493,25 - 34,Master degree,Electrical & Electronic Engineering,Institute Space 4,Yes,1,3.0,Python;#C++,,4.0,3.0,3.0,0.0,4.0,5.0,1.0,0.0,Subversion;#Git;#Other,Yes,,1.0,3.0,1.0,1.0,1.0,1.0,2.0,Yes,,1.0,2.0,3.0,,3.0,2.0,3.0,No,,No
+494,35 - 44,Master degree,Other,Institute Space 2,Yes,0 - Mostly me,10.0,R;#SAS;#Other,,2.0,2.0,4.0,2.0,3.0,5.0,1.0,1.0,Subversion;#Git,Yes,,2.0,3.0,1.0,1.0,2.0,2.0,3.0,Yes,,1.0,2.0,3.0,,3.0,3.0,3.0,Yes,Name;#Other,Yes
+495,45 - 54,Master degree,Computer Science,Institute Aeronautics 6,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes,Name;#Link;#DOI,
+496,45 - 54,Master degree,Mechanical Engineering,Institute Energy 4,Yes,1,15.0,MATLAB;#Other,,3.0,3.0,2.0,2.0,5.0,5.0,,,Subversion,Yes,,1.0,3.0,1.0,3.0,1.0,1.0,1.0,Yes,,1.0,1.0,3.0,,2.0,2.0,3.0,Yes,Name,No
+497,25 - 34,Master degree,Psychology,Institute Space 2,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes,Name;#Link;#DOI;#Other,
+498,45 - 54,Doctorate,Physics,Institute Space 7,Yes,2,15.0,Python;#C++;#Assembly language;#Other,,4.0,2.0,3.0,1.0,1.0,7.0,2.0,,None,Yes,,1.0,3.0,2.0,2.0,3.0,2.0,,Yes,,1.0,2.0,3.0,,3.0,3.0,3.0,No,DOI;#Other,No
+499,25 - 34,Master degree,Mechanical Engineering,Institute Transport 2,Yes,3,6.0,Python;#MATLAB,,2.0,4.0,2.0,2.0,3.0,5.0,1.0,1.0,Subversion,Yes,,1.0,3.0,2.0,1.0,2.0,1.0,2.0,Yes,,1.0,2.0,2.0,,,2.0,1.0,Yes,Other,No
+500,55 or older,Master degree,Physics,Other 1,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+501,35 - 44,Doctorate,Mechanical Engineering,Institute Aeronautics 5,Yes,1,6.0,Python,,3.0,3.0,2.0,2.0,5.0,5.0,,,Subversion,Yes,,1.0,3.0,1.0,2.0,1.0,1.0,2.0,Yes,,1.0,1.0,3.0,,2.0,2.0,3.0,Yes,Name;#Link;#DOI,No
+502,55 or older,Doctorate,Other,Other,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes,Name;#Link;#DOI,
+503,35 - 44,Doctorate,Computer Science,Institute Aeronautics 10,Yes,5 - Mostly other people,19.0,C;#Python;#C++;#MATLAB,,3.0,5.0,1.0,1.0,2.0,8.0,0.0,0.0,Subversion;#Git,Yes,,1.0,3.0,1.0,1.0,1.0,2.0,2.0,Yes,,1.0,1.0,3.0,,3.0,2.0,2.0,No,,Yes
+504,35 - 44,general qualification for university entrance,Economics,Other,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,Name,
+505,35 - 44,Master degree,Computer Science,Institute Aeronautics 8,Yes,3,20.0,C;#C++,,3.0,1.0,1.0,5.0,5.0,3.0,1.0,1.0,Subversion;#Git,Yes,,3.0,3.0,2.0,2.0,2.0,2.0,2.0,Yes,,2.0,2.0,3.0,,3.0,3.0,3.0,No,,No
+506,25 - 34,Doctorate,Geography & Environmental Sciences,Institute Space 8,Yes,0 - Mostly me,6.0,Python;#MATLAB;#Fortran,,3.0,5.0,1.0,1.0,2.0,6.0,0.0,2.0,None,Yes,,1.0,3.0,1.0,1.0,2.0,1.0,2.0,No,,,,,,,,,Yes,Name;#Link,Yes
+507,18 - 24,Undergraduate degree,Aeronautical & Manufacturing Engineering,Institute Aeronautics 10,Yes,1,5.0,Python;#C++,,3.0,4.0,0.0,3.0,4.0,4.0,,2.0,Git,No,,1.0,3.0,1.0,2.0,1.0,1.0,2.0,Yes,,1.0,1.0,3.0,,3.0,2.0,3.0,Yes,Name,No
+508,25 - 34,Doctorate,Politics,Institute Aeronautics 12,Yes,0 - Mostly me,7.0,MATLAB;#Other,,4.0,5.0,7.0,5.0,5.0,8.0,3.0,5.0,Subversion,Yes,,1.0,3.0,3.0,1.0,1.0,2.0,1.0,Yes,,1.0,2.0,3.0,,3.0,3.0,3.0,No,,No
+509,35 - 44,Doctorate,Mechanical Engineering,Institute Energy 4,Yes,0 - Mostly me,20.0,MATLAB,,1.0,3.0,5.0,1.0,3.0,4.0,2.0,1.0,None,No,,1.0,3.0,1.0,1.0,1.0,1.0,1.0,Yes,,1.0,1.0,3.0,,1.0,1.0,3.0,No,Name,No
+510,25 - 34,Master degree,Aeronautical & Manufacturing Engineering,Institute Aeronautics 3,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes,Name,
+511,25 - 34,Master degree,Biological Sciences,Institute Space 12,Yes,3,3.0,Java;#Python;#MATLAB,,7.0,1.0,1.0,1.0,7.0,1.0,1.0,1.0,Git,Yes,,1.0,2.0,1.0,1.0,1.0,1.0,1.0,Yes,,1.0,1.0,3.0,,3.0,2.0,3.0,No,Name;#Link;#Other,Yes
+512,45 - 54,Doctorate,Computer Science,Institute Space 16,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes,Name;#Link,
+513,25 - 34,Doctorate,Mechanical Engineering,Institute Aeronautics 5,Yes,2,6.0,Python;#MATLAB,,1.0,2.0,6.0,1.0,2.0,6.0,1.0,1.0,Subversion;#None,Yes,,1.0,3.0,1.0,2.0,1.0,1.0,2.0,Yes,,1.0,2.0,3.0,,3.0,2.0,3.0,No,,No
+514,25 - 34,Doctorate,Mathematics,Institute Aeronautics 1,Yes,2,8.0,C;#Python;#MATLAB,,3.0,4.0,2.0,1.0,2.0,5.0,2.0,1.0,Subversion;#Git,Yes,,2.0,3.0,1.0,2.0,1.0,1.0,2.0,Yes,,1.0,2.0,3.0,,3.0,3.0,3.0,Yes,Name;#Link;#Other,No
+515,45 - 54,Master degree,Physics,Institute Space 10,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes,Name;#Other,
+516,55 or older,Doctorate,Physics,Other,Yes,2,18.0,Python;#JavaScript;#R,,3.0,3.0,3.0,1.0,3.0,5.0,1.0,1.0,Subversion;#Git,Yes,,1.0,3.0,1.0,2.0,1.0,2.0,2.0,Yes,,1.0,2.0,3.0,,3.0,3.0,2.0,No,,No
+517,18 - 24,Undergraduate degree,Computer Science,Institute Transport 1,Yes,4,1.0,C#,,3.0,3.0,3.0,1.0,6.0,2.0,2.0,0.0,Subversion,Yes,,2.0,3.0,2.0,2.0,2.0,2.0,2.0,Yes,,2.0,2.0,2.0,,2.0,2.0,2.0,Yes,Name;#Link,Yes
+518,35 - 44,Doctorate,Physics,Institute Space 8,Yes,3,10.0,Python;#R;#Fortran;#Other,,5.0,3.0,2.0,,5.0,5.0,0.0,,Git,Yes,,3.0,,,3.0,,,,Yes,,2.0,2.0,3.0,,3.0,3.0,3.0,No,,No
+519,45 - 54,Doctorate,Physics,Institute Space 16,Yes,0 - Mostly me,20.0,MATLAB;#Fortran,,2.0,2.0,5.0,1.0,2.0,5.0,2.0,1.0,None,No,,,3.0,,,,,,Yes,,,,3.0,,3.0,3.0,3.0,No,Other,No
+520,35 - 44,Doctorate,Aeronautical & Manufacturing Engineering,Institute Aeronautics 1,Yes,1,13.0,Python;#Fortran,,2.0,4.0,2.0,2.0,2.0,4.0,4.0,0.0,None,Yes,,1.0,3.0,2.0,1.0,1.0,1.0,3.0,Yes,,1.0,1.0,3.0,,3.0,2.0,3.0,Yes,Name,No
+521,35 - 44,Master degree,Computer Science,,Yes,4,32.0,Java;#C;#Python;#C++;#C#;#Fortran;#Other,,6.0,1.0,1.0,2.0,8.0,1.0,0.0,1.0,Subversion,Yes,,2.0,3.0,2.0,3.0,1.0,2.0,2.0,Yes,,1.0,1.0,3.0,,,3.0,2.0,Yes,Name;#Link,No
+522,25 - 34,Doctorate,Physics,Institute Space 4,Yes,2,9.0,C;#Python;#C++;#MATLAB,,2.0,2.0,4.0,2.0,4.0,4.0,1.0,1.0,Git,Yes,,2.0,3.0,2.0,2.0,2.0,2.0,2.0,Yes,,2.0,2.0,2.0,,3.0,3.0,3.0,Yes,Name;#Other,Yes
+523,35 - 44,Master degree,Computer Science,Other,Yes,2,25.0,Python;#C#;#JavaScript;#SQL;#Go;#R,,2.0,1.0,2.0,5.0,3.0,3.0,1.0,3.0,Git,Yes,,2.0,3.0,1.0,2.0,3.0,2.0,3.0,Yes,,2.0,3.0,3.0,,3.0,3.0,3.0,Yes,Name;#Link;#DOI,Yes
+524,35 - 44,Doctorate,Computer Science,Institute Transport 1,Yes,3,20.0,Java;#C;#C++;#C#;#SQL,,3.0,1.0,3.0,3.0,2.0,3.0,2.0,3.0,Subversion;#Git,Yes,,1.0,3.0,1.0,2.0,2.0,1.0,2.0,Yes,,2.0,2.0,3.0,,3.0,2.0,3.0,No,,No
+525,35 - 44,Doctorate,General Engineering,Institute Energy 3,Yes,0 - Mostly me,12.0,MATLAB;#Other,,2.0,2.0,3.0,3.0,3.0,3.0,2.0,2.0,None,Yes,,2.0,3.0,1.0,2.0,1.0,2.0,2.0,Yes,,1.0,1.0,3.0,,2.0,1.0,3.0,No,,No
+526,45 - 54,Other,Computer Science,Institute Transport 2,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,Name;#Link;#DOI;#Other,
+527,35 - 44,Master degree,Aeronautical & Manufacturing Engineering,Institute Aeronautics 1,Yes,1,24.0,C;#Python;#C++,,2.0,5.0,2.0,1.0,3.0,5.0,1.0,1.0,Subversion;#Git,Yes,,1.0,2.0,1.0,1.0,1.0,2.0,2.0,Yes,,1.0,2.0,3.0,,3.0,3.0,3.0,Yes,Name;#DOI,No
+528,55 or older,Doctorate,Physics,Institute Space 3,Yes,2,32.0,C;#C++,,7.0,1.0,0.0,2.0,7.0,1.0,0.0,2.0,Git,Yes,,1.0,2.0,1.0,2.0,2.0,2.0,2.0,Yes,,1.0,1.0,3.0,,3.0,3.0,3.0,Yes,Name;#Link,No
+529,25 - 34,Master degree,Mechanical Engineering,,Yes,3,2.0,C++;#MATLAB,,5.0,1.0,0.0,4.0,6.0,2.0,0.0,2.0,Other,Yes,,1.0,3.0,1.0,1.0,1.0,1.0,1.0,Yes,,1.0,1.0,3.0,,3.0,3.0,3.0,No,,No
+530,35 - 44,Doctorate,General Engineering,Institute Energy 1,Yes,1,20.0,Java;#Python;#C#;#SQL;#Julia,,1.0,2.0,5.0,2.0,4.0,4.0,1.0,1.0,Git,Yes,,1.0,3.0,1.0,1.0,1.0,1.0,3.0,Yes,,3.0,3.0,3.0,,2.0,2.0,3.0,Yes,Name;#Link;#Other,Yes
+531,25 - 34,Master degree,Mechanical Engineering,Institute Aeronautics 1,Yes,0 - Mostly me,3.0,C;#Python,,2.0,7.0,0.0,1.0,4.0,6.0,0.0,0.0,Git,Yes,,1.0,3.0,1.0,2.0,1.0,2.0,2.0,Yes,,1.0,2.0,3.0,,3.0,2.0,3.0,Yes,Name;#Other,No
+532,25 - 34,Master degree,Mechanical Engineering,Institute Space 11,Yes,1,4.0,Python;#MATLAB,,4.0,4.0,1.0,1.0,3.0,6.0,0.0,1.0,Subversion;#Git,Yes,,2.0,3.0,1.0,2.0,2.0,3.0,3.0,Yes,,2.0,3.0,2.0,,1.0,2.0,3.0,Yes,Name,No
+533,25 - 34,Master degree,Aeronautical & Manufacturing Engineering,Institute Space 11,Yes,4,2.0,C;#Python;#C++;#MATLAB;#Fortran,,2.0,6.0,1.0,1.0,2.0,7.0,0.0,1.0,Subversion;#Git,Yes,,1.0,3.0,2.0,2.0,1.0,2.0,2.0,Yes,,1.0,2.0,3.0,,2.0,3.0,3.0,Yes,Name,Yes
+534,25 - 34,Master degree,Mechanical Engineering,Institute Space 11,Yes,3,4.0,Python;#C++;#Fortran,,3.0,5.0,2.0,0.0,4.0,3.0,3.0,0.0,Subversion;#Git,Yes,,2.0,2.0,1.0,2.0,1.0,2.0,1.0,Yes,,1.0,1.0,3.0,,3.0,3.0,2.0,Yes,Name;#Link,No
+535,35 - 44,general qualification for university entrance,,Other,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,Name,
+536,25 - 34,Undergraduate degree,Computer Science,Other,Yes,3,3.0,Python;#SQL;#Other,,0.0,9.0,0.0,5.0,6.0,9.0,6.0,8.0,Subversion,No,,1.0,3.0,1.0,1.0,1.0,1.0,2.0,Yes,,1.0,1.0,3.0,,1.0,3.0,3.0,No,,Yes
+537,35 - 44,Master degree,Other,Other 1,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes,Name;#Link,
+538,35 - 44,Master degree,Mechanical Engineering,Institute Space 11,Yes,3,4.0,C;#C++;#MATLAB;#Fortran,,2.0,6.0,1.0,1.0,3.0,7.0,,,Subversion,Yes,,1.0,3.0,1.0,2.0,1.0,1.0,2.0,Yes,,1.0,1.0,3.0,,2.0,2.0,3.0,Yes,Name,No
+539,35 - 44,Master degree,Mathematics,Institute Aeronautics 1,Yes,3,15.0,C;#Python,,2.0,0.0,0.0,8.0,2.0,0.0,0.0,8.0,None,Yes,,1.0,3.0,2.0,3.0,1.0,1.0,2.0,Yes,,1.0,1.0,3.0,,3.0,3.0,3.0,No,,No
+540,25 - 34,Master degree,General Engineering,Institute Space 12,Yes,5 - Mostly other people,2.0,C;#Python;#C++;#MATLAB,,3.0,3.0,2.0,2.0,4.0,3.0,1.0,2.0,Git,Yes,,1.0,3.0,1.0,1.0,1.0,1.0,3.0,Yes,,1.0,3.0,3.0,,3.0,3.0,2.0,No,,Yes
+541,35 - 44,Doctorate,Aeronautical & Manufacturing Engineering,Institute Aeronautics 8,Yes,0 - Mostly me,10.0,MATLAB,,1.0,3.0,5.0,1.0,1.0,6.0,2.0,1.0,Subversion,Yes,,1.0,3.0,1.0,1.0,2.0,1.0,1.0,Yes,,1.0,2.0,3.0,,3.0,3.0,3.0,No,Name,No
+542,45 - 54,Doctorate,Physics,Institute Space 5,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes,Link;#DOI;#Other,
+543,35 - 44,Doctorate,Physics,Institute Space 8,Yes,0 - Mostly me,14.0,Python;#R;#Fortran,,4.0,3.0,1.0,2.0,2.0,5.0,1.0,2.0,Git,Yes,,,1.0,,,,,1.0,Yes,,,,1.0,,,,1.0,No,,Yes
+544,25 - 34,Master degree,Mechanical Engineering,Institute Aeronautics 1,Yes,1,8.0,Python;#C++;#Visual Basic,,3.0,5.0,1.0,1.0,2.0,6.0,1.0,1.0,Subversion;#Git,Yes,,1.0,3.0,2.0,2.0,3.0,2.0,2.0,Yes,,1.0,1.0,3.0,,2.0,2.0,3.0,Yes,Name,No
+545,45 - 54,Master degree,Computer Science,Institute Aeronautics 8,Yes,2,30.0,Java;#Python;#JavaScript,,1.0,2.0,7.0,,1.0,5.0,4.0,,Subversion,Yes,,2.0,2.0,2.0,2.0,3.0,2.0,2.0,Yes,,3.0,3.0,,,3.0,3.0,3.0,Yes,Name,No
+546,25 - 34,Doctorate,Physics,Institute Space 8,Yes,2,5.0,C;#Python;#Fortran;#IDL,,5.0,3.0,0.0,2.0,5.0,2.0,2.0,1.0,None,Yes,,1.0,3.0,1.0,1.0,1.0,1.0,2.0,Yes,,2.0,2.0,3.0,,3.0,3.0,3.0,Yes,Name;#Link,No
+547,35 - 44,Doctorate,Physics,Institute Space 5,Yes,2,12.0,Python;#PHP;#SQL;#Other,,2.0,2.0,5.0,1.0,2.0,4.0,2.0,2.0,Git;#Other,Yes,,1.0,3.0,1.0,2.0,2.0,1.0,2.0,Yes,,1.0,2.0,3.0,,3.0,3.0,3.0,Yes,Name;#Link,No
+548,25 - 34,Master degree,Mechanical Engineering,Institute Transport 2,Yes,1,0.0,Python,,1.0,6.0,2.0,1.0,2.0,5.0,2.0,1.0,None,Yes,,1.0,3.0,1.0,1.0,1.0,1.0,3.0,Yes,,1.0,1.0,3.0,,3.0,3.0,3.0,No,,Yes
+549,35 - 44,Master degree,Aeronautical & Manufacturing Engineering,Institute Aeronautics 8,Yes,2,13.0,Python;#MATLAB,,1.0,6.0,2.0,1.0,2.0,6.0,1.0,1.0,None,Yes,,1.0,3.0,1.0,1.0,1.0,1.0,1.0,Yes,,1.0,1.0,3.0,,3.0,3.0,3.0,No,Name,No
+550,35 - 44,Doctorate,Physics,Institute Space 4,Yes,1,8.0,Python;#MATLAB;#Other,,3.0,4.0,2.0,1.0,4.0,5.0,1.0,0.0,Subversion,No,,,,,,,,,Yes,,2.0,2.0,3.0,,3.0,2.0,2.0,No,,No
+551,18 - 24,Master degree,Computer Science,Institute Space 12,Yes,2,2.0,Python,,,,0.0,,5.0,5.0,,,Git,Yes,,1.0,3.0,1.0,2.0,1.0,1.0,3.0,Yes,,1.0,1.0,3.0,,1.0,3.0,3.0,Yes,Name,No
+552,55 or older,Doctorate,Electrical & Electronic Engineering,Institute Space 12,Yes,0 - Mostly me,35.0,C;#Python;#C++;#MATLAB,,3.0,4.0,1.0,2.0,3.0,4.0,1.0,2.0,None,Yes,,,3.0,,,1.0,1.0,3.0,Yes,,1.0,1.0,3.0,,3.0,3.0,3.0,No,,No
+553,35 - 44,Doctorate,Physics,Institute Energy 1,Yes,1,1.0,Java;#Python;#Perl;#R,,1.0,2.0,6.0,1.0,2.0,4.0,3.0,1.0,Git,Yes,,1.0,2.0,1.0,1.0,1.0,2.0,1.0,Yes,,1.0,2.0,3.0,,2.0,2.0,3.0,No,Name,No
+554,35 - 44,Master degree,Electrical & Electronic Engineering,Institute Energy 1,Yes,3,10.0,Python,,3.0,4.0,3.0,0.0,2.0,5.0,3.0,0.0,Git,Yes,,2.0,3.0,3.0,1.0,1.0,1.0,1.0,Yes,,1.0,2.0,3.0,,3.0,3.0,2.0,Yes,Name;#Link,Yes
+555,25 - 34,Doctorate,Physics,Institute Energy 1,Yes,3,8.0,Python,,4.0,3.0,2.0,1.0,4.0,4.0,1.0,1.0,Git,Yes,,2.0,3.0,2.0,3.0,1.0,2.0,2.0,Yes,,3.0,1.0,2.0,,1.0,2.0,3.0,Yes,Name;#Link;#DOI;#Other,Yes
+556,25 - 34,Master degree,Electrical & Electronic Engineering,Institute Energy 1,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,Name;#Link;#DOI;#Other,
+557,35 - 44,Undergraduate degree,Economics,Other 1,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+558,35 - 44,Master degree,Civil Engineering,Institute Space 9,Yes,0 - Mostly me,10.0,Python;#C++;#IDL,,2.0,4.0,2.0,7.0,4.0,4.0,0.0,5.0,None,No,,1.0,3.0,1.0,1.0,1.0,1.0,1.0,Yes,,1.0,1.0,3.0,,3.0,3.0,3.0,No,,No
+559,35 - 44,Doctorate,Mechanical Engineering,Other,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes,Name;#Link;#DOI;#Other,
+560,25 - 34,Doctorate,Physics,Institute Space 9,Yes,2,20.0,C;#Python;#Fortran;#IDL,,3.0,3.0,3.0,1.0,4.0,5.0,1.0,,Git,Yes,,1.0,3.0,1.0,2.0,2.0,2.0,2.0,Yes,,1.0,1.0,3.0,,3.0,3.0,3.0,Yes,Name;#Link;#DOI,Yes
+561,25 - 34,Master degree,Aeronautical & Manufacturing Engineering,Institute Aeronautics 2,Yes,3,6.0,MATLAB,,4.0,5.0,,1.0,2.0,8.0,,,"Other DVCS (e.g. Bazaar, BitKeeper, GNU arch, Mercurial, Monotone)",Yes,,3.0,3.0,1.0,3.0,1.0,1.0,2.0,Yes,,2.0,2.0,3.0,,3.0,2.0,3.0,Yes,Name;#Link,Yes
+562,25 - 34,Master degree,Other,Institute Space 12,Yes,2,1.0,Python;#MATLAB,,2.0,5.0,3.0,0.0,2.0,6.0,2.0,,Git,Yes,,1.0,3.0,2.0,2.0,1.0,1.0,1.0,Yes,,2.0,2.0,2.0,,3.0,3.0,3.0,No,Other,No
+563,25 - 34,Other,Electrical & Electronic Engineering,Institute Space 11,Yes,0 - Mostly me,10.0,C;#Python;#MATLAB,,1.0,4.0,4.0,1.0,1.0,6.0,2.0,1.0,None,Yes,,1.0,3.0,1.0,2.0,2.0,1.0,1.0,Yes,,1.0,2.0,3.0,,3.0,3.0,3.0,No,,No
+564,18 - 24,Master degree,Mathematics,Institute Space 17,Yes,3,1.0,C;#Python;#C++;#MATLAB;#Fortran,,6.0,2.0,0.0,2.0,8.0,1.0,0.0,1.0,Git,Yes,,,,,,,,,Yes,,3.0,1.0,2.0,,3.0,3.0,3.0,No,,No
+565,35 - 44,Master degree,Mechanical Engineering,Institute Aeronautics 6,Yes,1,2.0,Python;#SQL;#R,,1.0,8.0,8.0,4.0,2.0,10.0,0.0,7.0,None,No,,,,,,,,,Yes,,1.0,1.0,3.0,,3.0,3.0,3.0,Yes,Other,No
+566,35 - 44,Master degree,Other,Other 1,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+567,35 - 44,Master degree,Aeronautical & Manufacturing Engineering,Institute Space 10,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes,Name;#Link;#DOI,
+568,18 - 24,Final secondary-school examination,,Institute Space 3,Yes,5 - Mostly other people,2.0,Python;#C++,,7.0,0.0,0.0,3.0,8.0,1.0,0.0,1.0,Git,Yes,,1.0,3.0,1.0,2.0,1.0,3.0,3.0,Yes,,1.0,1.0,3.0,,2.0,3.0,3.0,Yes,Name,No
+569,25 - 34,Doctorate,Aeronautical & Manufacturing Engineering,Institute Energy 4,Yes,1,6.0,Python;#MATLAB,,3.0,5.0,1.0,1.0,4.0,4.0,1.0,1.0,Git,No,,1.0,3.0,1.0,1.0,2.0,1.0,2.0,Yes,,1.0,1.0,3.0,,3.0,3.0,3.0,No,Name,No
+570,25 - 34,Master degree,Electrical & Electronic Engineering,Institute Space 12,Yes,3,3.0,Python;#C++;#MATLAB,,4.0,4.0,1.0,1.0,2.0,6.0,1.0,1.0,Git,Yes,,2.0,3.0,2.0,2.0,2.0,1.0,2.0,Yes,,1.0,2.0,3.0,,3.0,3.0,3.0,No,,No
+571,25 - 34,Master degree,Computer Science,Institute Aeronautics 1,Yes,5 - Mostly other people,11.0,Python;#C++;#SQL;#MATLAB;#Other,,8.0,0.0,0.0,2.0,8.0,1.0,0.0,1.0,"Subversion;#Git;#Other DVCS (e.g. Bazaar, BitKeeper, GNU arch, Mercurial, Monotone)",Yes,,1.0,3.0,1.0,1.0,2.0,2.0,2.0,Yes,,1.0,2.0,3.0,,3.0,3.0,3.0,No,,No
+572,55 or older,Doctorate,Biological Sciences,Institute Space 2,Yes,1,20.0,R,,2.0,5.0,2.0,1.0,2.0,5.0,2.0,1.0,Other,Yes,,2.0,2.0,1.0,2.0,1.0,1.0,1.0,Yes,,1.0,2.0,3.0,,3.0,3.0,3.0,No,,No
+573,35 - 44,Doctorate,Geography & Environmental Sciences,Institute Space 15,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes,Name,
+574,,Doctorate,Mechanical Engineering,Institute Aeronautics 15,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes,Name;#Link;#Other,
+575,25 - 34,Master degree,Geography & Environmental Sciences,Institute Space 15,Yes,3,3.0,Perl;#R,,5.0,1.0,0.0,6.0,7.0,1.0,0.0,4.0,Subversion,No,,1.0,1.0,1.0,1.0,1.0,1.0,1.0,Yes,,1.0,1.0,3.0,,2.0,3.0,3.0,No,,No
+576,25 - 34,Doctorate,Physics,Institute Aeronautics 12,Yes,0 - Mostly me,20.0,Python,,3.0,4.0,1.0,2.0,3.0,5.0,1.0,1.0,Subversion,Yes,,1.0,3.0,2.0,1.0,1.0,1.0,3.0,Yes,,3.0,2.0,2.0,,3.0,3.0,3.0,No,,No
+577,25 - 34,Master degree,Chemical Engineering,Institute Energy 3,Yes,1,1.0,Python;#MATLAB,,2.0,3.0,4.0,1.0,3.0,5.0,2.0,,None,Yes,,3.0,3.0,1.0,2.0,1.0,1.0,2.0,Yes,,2.0,2.0,3.0,,3.0,3.0,3.0,No,,No
+578,25 - 34,Master degree,Geography & Environmental Sciences,Institute Space 15,Yes,1,5.0,Python;#R,,2.0,3.0,2.0,3.0,3.0,5.0,1.0,1.0,None,Yes,,1.0,3.0,2.0,1.0,1.0,1.0,2.0,Yes,,2.0,2.0,3.0,,3.0,2.0,3.0,No,,No
+579,25 - 34,Master degree,Civil Engineering,Institute Transport 1,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes,Name,
+580,,,Biological Sciences,Institute Space 2,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes,Name;#DOI;#Other,
+581,35 - 44,Doctorate,Aeronautical & Manufacturing Engineering,Institute Aeronautics 1,Yes,2,10.0,Python;#C++;#MATLAB,,3.0,4.0,1.0,2.0,3.0,4.0,1.0,2.0,Git,Yes,,1.0,3.0,2.0,2.0,1.0,1.0,2.0,Yes,,1.0,2.0,3.0,,3.0,3.0,3.0,Yes,Other,Yes
+582,25 - 34,Doctorate,,,Yes,2,10.0,C;#Fortran;#Other,,5.0,3.0,1.0,1.0,4.0,4.0,1.0,1.0,Git,Yes,,2.0,3.0,1.0,3.0,1.0,1.0,2.0,Yes,,1.0,1.0,3.0,,3.0,2.0,3.0,Yes,Name;#Link,Yes
+583,25 - 34,Master degree,Computer Science,Institute Space 6,Yes,1,10.0,Python;#C++;#JavaScript,,4.0,4.0,,2.0,4.0,4.0,,2.0,Git,Yes,,1.0,3.0,2.0,1.0,1.0,1.0,2.0,Yes,,1.0,2.0,3.0,,2.0,2.0,2.0,No,Link,Yes
+584,25 - 34,Master degree,Mechanical Engineering,Institute Aeronautics 8,Yes,2,4.0,C++;#MATLAB,,4.0,2.0,3.0,1.0,2.0,5.0,2.0,1.0,Subversion,Yes,,1.0,3.0,1.0,2.0,2.0,,2.0,Yes,,1.0,1.0,3.0,,2.0,3.0,3.0,No,Name,No
+585,18 - 24,Final secondary-school examination,Other,Institute Aeronautics 8,Yes,3,5.0,Java;#C#,,5.0,2.0,2.0,1.0,5.0,2.0,2.0,1.0,Subversion,Yes,,2.0,3.0,1.0,2.0,1.0,2.0,1.0,Yes,,1.0,3.0,3.0,,3.0,3.0,3.0,No,,Yes
+586,35 - 44,Doctorate,Other,Institute Aeronautics 1,Yes,5 - Mostly other people,10.0,Python;#Fortran,,1.0,5.0,2.0,3.0,1.0,7.0,,3.0,None,No,,1.0,1.0,1.0,1.0,1.0,1.0,2.0,Yes,,1.0,1.0,3.0,,3.0,3.0,3.0,Yes,Other,Yes
+587,25 - 34,Master degree,Electrical & Electronic Engineering,Institute Space 7,Yes,0 - Mostly me,4.0,MATLAB,,5.0,5.0,0.0,0.0,8.0,2.0,,,None,No,,1.0,2.0,2.0,1.0,1.0,1.0,2.0,No,,,,3.0,,3.0,3.0,3.0,No,Link,No
+588,25 - 34,Master degree,Aeronautical & Manufacturing Engineering,Institute Aeronautics 8,Yes,2,2.0,C++;#JavaScript;#MATLAB,,1.0,2.0,2.0,5.0,3.0,4.0,2.0,1.0,Other,Yes,,1.0,3.0,2.0,3.0,2.0,2.0,1.0,Yes,,2.0,3.0,2.0,,3.0,2.0,2.0,Yes,Name,No
+589,35 - 44,Doctorate,Physics,Institute Space 6,Yes,1,11.0,Python;#C++;#Fortran;#IDL,,1.0,5.0,3.0,1.0,1.0,7.0,1.0,1.0,Subversion,Yes,,1.0,1.0,2.0,2.0,1.0,1.0,2.0,Yes,,1.0,2.0,3.0,,3.0,3.0,3.0,Yes,Name,No
+590,25 - 34,Master degree,Mechanical Engineering,Institute Aeronautics 5,Yes,3,2.0,MATLAB;#Other,,3.0,3.0,1.0,3.0,2.0,5.0,1.0,2.0,Git,No,,1.0,3.0,1.0,2.0,1.0,3.0,3.0,Yes,,1.0,2.0,3.0,,3.0,2.0,3.0,No,Name;#Link,Yes
+591,45 - 54,Master degree,Other,Institute Space 12,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+592,35 - 44,Master degree,Mechanical Engineering,Institute Energy 4,Yes,1,1.0,Other,,1.0,3.0,6.0,0.0,2.0,5.0,3.0,0.0,Subversion,Yes,,1.0,3.0,1.0,1.0,1.0,1.0,1.0,Yes,,1.0,1.0,2.0,,2.0,2.0,2.0,Yes,Name,No
+593,35 - 44,Master degree,Geography & Environmental Sciences,Institute Transport 3,Yes,0 - Mostly me,15.0,Python;#R,,5.0,3.0,1.0,1.0,4.0,2.0,3.0,1.0,None,Yes,,1.0,3.0,1.0,2.0,2.0,1.0,3.0,Yes,,1.0,1.0,3.0,,3.0,3.0,3.0,Yes,Name,No
+594,25 - 34,Doctorate,Mechanical Engineering,Institute Transport 2,Yes,1,5.0,Python,,2.0,2.0,2.0,4.0,4.0,4.0,1.0,1.0,None,Yes,,,3.0,,2.0,,2.0,,Yes,,1.0,2.0,3.0,,3.0,3.0,3.0,No,Other,No
+595,25 - 34,Master degree,Electrical & Electronic Engineering,Institute Space 4,Yes,4,10.0,C;#Python;#C++;#SQL;#MATLAB;#Other,,3.0,6.0,1.0,0.0,1.0,8.0,1.0,0.0,Git,Yes,,2.0,3.0,2.0,2.0,2.0,2.0,2.0,Yes,,2.0,2.0,3.0,,3.0,3.0,2.0,No,,No
+596,25 - 34,Master degree,Physics,Institute Space 8,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+597,25 - 34,Master degree,,Institute Space 4,Yes,2,5.0,C;#C++;#MATLAB,,1.0,7.0,1.0,1.0,1.0,7.0,1.0,1.0,Subversion,Yes,,2.0,3.0,2.0,3.0,1.0,3.0,2.0,Yes,,,3.0,,,3.0,3.0,3.0,No,,Yes
+598,25 - 34,Master degree,Aeronautical & Manufacturing Engineering,Institute Energy 2,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes,Name;#Other,
+599,25 - 34,Master degree,Electrical & Electronic Engineering,Institute Space 4,Yes,4,6.0,C;#Python;#C++;#MATLAB,,6.0,2.0,1.0,1.0,5.0,2.0,1.0,2.0,Subversion;#Git,Yes,,1.0,3.0,1.0,2.0,1.0,2.0,3.0,Yes,,2.0,2.0,2.0,,1.0,3.0,3.0,No,,No
+600,25 - 34,Master degree,Chemistry,Institute Aeronautics 14,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes,Name,
+601,25 - 34,Master degree,Aeronautical & Manufacturing Engineering,Institute Aeronautics 1,Yes,0 - Mostly me,0.0,Python;#MATLAB;#Visual Basic,,3.0,4.0,2.0,1.0,3.0,5.0,1.0,1.0,None,No,,1.0,3.0,1.0,2.0,1.0,1.0,3.0,Yes,,3.0,3.0,3.0,,3.0,2.0,3.0,No,Other,No
+602,25 - 34,Master degree,Other,Institute Aeronautics 14,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes,Name,
+603,45 - 54,Doctorate,Mechanical Engineering,Institute Aeronautics 3,Yes,0 - Mostly me,20.0,C;#Python;#MATLAB,,3.0,3.0,2.0,2.0,5.0,5.0,,,Subversion,No,,1.0,3.0,1.0,1.0,1.0,2.0,2.0,Yes,,1.0,2.0,3.0,,3.0,3.0,3.0,No,,No
+604,25 - 34,Master degree,Mechanical Engineering,Institute Aeronautics 3,Yes,2,3.0,Python;#C++,,5.0,3.0,1.0,1.0,1.0,7.0,2.0,1.0,Subversion,Yes,,1.0,3.0,1.0,1.0,1.0,1.0,1.0,Yes,,1.0,3.0,3.0,,1.0,1.0,3.0,No,,No
+605,25 - 34,Master degree,Mechanical Engineering,Institute Aeronautics 8,Yes,5 - Mostly other people,6.0,C++;#MATLAB,,0.0,0.0,0.0,0.0,4.0,3.0,1.0,2.0,Git,Yes,,2.0,3.0,2.0,2.0,1.0,1.0,1.0,Yes,,3.0,3.0,2.0,,3.0,3.0,2.0,Yes,Name,Yes
+606,25 - 34,Master degree,Economics,Institute Transport 3,Yes,1,2.0,Python;#R,,2.0,3.0,2.0,3.0,3.0,4.0,1.0,2.0,None,Yes,,1.0,3.0,1.0,1.0,1.0,1.0,2.0,No,,,,,,,,,Yes,Name,No
+607,25 - 34,Master degree,Aeronautical & Manufacturing Engineering,Institute Space 16,Yes,2,3.0,C;#Python;#C++;#C#,,8.0,1.0,0.0,1.0,6.0,4.0,,,Git,Yes,,2.0,3.0,1.0,2.0,1.0,2.0,1.0,Yes,,2.0,3.0,2.0,,3.0,3.0,3.0,Yes,Name,Yes
+608,45 - 54,Master degree,General Engineering,,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,Name,
+609,35 - 44,Master degree,Computer Science,Institute Space 17,Yes,3,21.0,Java;#C;#C++;#MATLAB;#Assembly language,,1.0,2.0,6.0,1.0,2.0,4.0,4.0,,Subversion;#Git,Yes,,2.0,3.0,2.0,2.0,2.0,2.0,3.0,Yes,,3.0,2.0,2.0,,2.0,2.0,3.0,Yes,Name;#Link,Yes
+610,35 - 44,Doctorate,Physics,Institute Space 6,Yes,2,10.0,Python,,2.0,3.0,4.0,1.0,1.0,5.0,3.0,1.0,Subversion,Yes,,,3.0,,2.0,2.0,1.0,2.0,Yes,,1.0,2.0,3.0,,3.0,3.0,3.0,Yes,Name,No
+611,55 or older,Doctorate,Aeronautical & Manufacturing Engineering,Institute Aeronautics 1,Yes,0 - Mostly me,35.0,Python;#MATLAB;#Visual Basic;#Fortran,,1.0,5.0,3.0,1.0,1.0,5.0,3.0,1.0,None,Yes,,,3.0,,2.0,,,,Yes,,,,3.0,,3.0,3.0,3.0,Yes,Name,No
+612,55 or older,Doctorate,Economics,Other 1,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+613,25 - 34,Master degree,Aeronautical & Manufacturing Engineering,Institute Aeronautics 2,Yes,2,15.0,C;#Python;#C++;#SQL;#MATLAB;#Fortran,,7.0,3.0,0.0,0.0,4.0,4.0,2.0,,"Subversion;#Git;#Other DVCS (e.g. Bazaar, BitKeeper, GNU arch, Mercurial, Monotone)",Yes,,2.0,3.0,2.0,2.0,1.0,2.0,3.0,Yes,,3.0,3.0,3.0,,3.0,3.0,3.0,Yes,Name;#Link,No
+614,25 - 34,Master degree,Aeronautical & Manufacturing Engineering,Institute Aeronautics 5,Yes,1,5.0,Python;#MATLAB;#Fortran,,2.0,4.0,2.0,2.0,4.0,6.0,,,"Other DVCS (e.g. Bazaar, BitKeeper, GNU arch, Mercurial, Monotone)",Yes,,1.0,3.0,1.0,3.0,2.0,1.0,1.0,Yes,,1.0,2.0,3.0,,3.0,3.0,2.0,Yes,Name;#Link,No
+615,35 - 44,Doctorate,Other,Institute Aeronautics 5,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+616,25 - 34,Doctorate,Aeronautical & Manufacturing Engineering,Institute Aeronautics 8,Yes,2,5.0,C;#C++;#MATLAB,,3.0,3.0,2.0,2.0,3.0,5.0,1.0,1.0,Subversion,No,,1.0,1.0,1.0,1.0,1.0,2.0,3.0,Yes,,1.0,2.0,3.0,,2.0,2.0,3.0,No,,No
+617,35 - 44,Master degree,Aeronautical & Manufacturing Engineering,Institute Aeronautics 1,Yes,0 - Mostly me,10.0,MATLAB;#Fortran,,4.0,4.0,1.0,1.0,3.0,5.0,1.0,1.0,None,No,,1.0,3.0,1.0,1.0,1.0,2.0,3.0,Yes,,1.0,2.0,3.0,,2.0,1.0,3.0,Yes,Name,No
+618,45 - 54,Doctorate,Physics,Institute Space 5,Yes,2,20.0,C++,,1.0,8.0,1.0,0.0,1.0,9.0,0.0,0.0,None,Yes,,1.0,3.0,1.0,2.0,3.0,1.0,1.0,Yes,,1.0,1.0,3.0,,3.0,3.0,3.0,Yes,Other,No
+619,35 - 44,Other,Other,Other 1,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,Link,
+620,35 - 44,Doctorate,Computer Science,Institute Space 1,Yes,1,10.0,Java;#Python;#JavaScript,,3.0,4.0,2.0,1.0,4.0,4.0,1.0,1.0,Git,Yes,,2.0,3.0,1.0,2.0,2.0,2.0,2.0,Yes,,2.0,2.0,3.0,,3.0,3.0,3.0,Yes,Name;#Link,Yes
+621,25 - 34,Master degree,Mechanical Engineering,Institute Space 16,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,Name,
+622,55 or older,Doctorate,Chemistry,Institute Energy 4,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,Name,
+623,35 - 44,Doctorate,Mathematics,Institute Aeronautics 3,Yes,5 - Mostly other people,13.0,C;#Python;#C++,,3.0,2.0,3.0,2.0,4.0,6.0,,,Subversion;#Git,Yes,,2.0,3.0,2.0,3.0,2.0,1.0,1.0,Yes,,3.0,3.0,3.0,,3.0,3.0,3.0,Yes,Name;#Other,Yes
+624,25 - 34,Master degree,Mathematics,Institute Space 16,Yes,3,1.0,Python;#Fortran,,6.0,1.0,0.0,3.0,5.0,2.0,0.0,3.0,Git;#CVS,Yes,,2.0,3.0,2.0,3.0,2.0,3.0,1.0,Yes,,1.0,1.0,3.0,,3.0,3.0,3.0,Yes,Name;#Link,Yes
+625,35 - 44,Doctorate,Aeronautical & Manufacturing Engineering,Institute Aeronautics 5,Yes,1,2.0,Python;#Visual Basic,,3.0,4.0,2.0,1.0,4.0,4.0,1.0,1.0,Other,No,,1.0,3.0,1.0,2.0,1.0,1.0,1.0,Yes,,1.0,1.0,2.0,,,,2.0,No,,No
+626,35 - 44,Master degree,Mechanical Engineering,Institute Aeronautics 1,Yes,3,10.0,Python;#Fortran,,4.0,4.0,1.0,1.0,5.0,5.0,0.0,0.0,Subversion,Yes,,1.0,3.0,3.0,2.0,2.0,2.0,3.0,Yes,,,3.0,2.0,,3.0,3.0,2.0,Yes,Name;#Other,Yes
+627,35 - 44,Master degree,General Engineering,Institute Space 7,Yes,0 - Mostly me,15.0,Other,,1.0,1.0,3.0,6.0,1.0,3.0,0.0,6.0,None,Yes,,1.0,3.0,1.0,2.0,1.0,1.0,1.0,Yes,,1.0,1.0,3.0,,2.0,3.0,3.0,No,Other,No
+628,25 - 34,Master degree,Biological Sciences,Institute Space 2,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes,Name;#Other,
+629,35 - 44,Doctorate,General Engineering,Institute Space 6,Yes,2,10.0,Java;#Python;#MATLAB;#IDL,,2.0,3.0,2.0,3.0,1.0,3.0,2.0,4.0,Git,No,,1.0,3.0,1.0,1.0,1.0,1.0,2.0,No,,,,,,,,,No,,No
+630,25 - 34,Master degree,Electrical & Electronic Engineering,Institute Space 3,Yes,3,3.0,C;#Python;#C++,,6.0,2.0,1.0,1.0,3.0,5.0,1.0,1.0,Subversion;#Git,Yes,,2.0,3.0,1.0,2.0,2.0,2.0,2.0,Yes,,3.0,2.0,1.0,,3.0,3.0,2.0,No,,Yes
+631,35 - 44,Doctorate,Aeronautical & Manufacturing Engineering,Institute Transport 2,Yes,2,3.0,Python,,2.0,2.0,3.0,3.0,3.0,4.0,1.0,2.0,Subversion,No,,1.0,3.0,1.0,2.0,1.0,1.0,1.0,Yes,,,2.0,3.0,,2.0,3.0,3.0,Yes,Name,Yes
+632,25 - 34,Master degree,Electrical & Electronic Engineering,Institute Space 4,Yes,1,8.0,C;#Python;#C++;#MATLAB,,1.0,3.0,3.0,3.0,2.0,2.0,3.0,3.0,Subversion,Yes,,1.0,3.0,1.0,2.0,1.0,1.0,1.0,Yes,,1.0,1.0,3.0,,3.0,2.0,2.0,No,,No
+633,35 - 44,Final secondary-school examination,Mechanical Engineering,Other,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+634,25 - 34,Master degree,Physics,Institute Space 9,Yes,1,6.0,Python;#Fortran;#Julia,,5.0,3.0,2.0,0.0,4.0,5.0,1.0,0.0,Git,Yes,,1.0,3.0,1.0,1.0,1.0,1.0,3.0,No,,1.0,2.0,3.0,,3.0,2.0,3.0,Yes,Other,Yes
+635,35 - 44,Master degree,Physics,Institute Aeronautics 4,Yes,2,1.0,MATLAB,,6.0,3.0,1.0,0.0,7.0,3.0,0.0,0.0,Other,Yes,,1.0,2.0,1.0,3.0,3.0,1.0,1.0,Yes,,1.0,1.0,3.0,,3.0,3.0,3.0,Yes,Name;#Link,Yes
+636,55 or older,Master degree,Computer Science,Institute Space 9,Yes,3,15.0,C;#Python;#Visual Basic .NET;#C#;#MATLAB,,6.0,3.0,2.0,0.0,,,,,None,Yes,,,,,2.0,2.0,2.0,2.0,Yes,,,,3.0,,3.0,3.0,3.0,No,Other,No
+637,45 - 54,Master degree,Physics,Institute Space 2,Yes,0 - Mostly me,10.0,Visual Basic .NET;#Other,,1.0,4.0,4.0,1.0,2.0,5.0,1.0,2.0,Subversion,Yes,,1.0,3.0,1.0,2.0,1.0,2.0,3.0,Yes,,1.0,1.0,3.0,,3.0,3.0,3.0,No,Link,No
+638,35 - 44,Master degree,Aeronautical & Manufacturing Engineering,Institute Space 13,Yes,1,10.0,C;#Python;#MATLAB;#Other,,4.0,3.0,2.0,1.0,3.0,4.0,1.0,2.0,Subversion;#Git,Yes,,1.0,3.0,1.0,2.0,2.0,2.0,2.0,Yes,,1.0,2.0,3.0,,2.0,3.0,2.0,Yes,Name;#Link;#DOI,No
+639,25 - 34,Master degree,Mathematics,Institute Transport 3,Yes,0 - Mostly me,1.0,Python;#R,,2.0,4.0,2.0,2.0,3.0,4.0,1.0,2.0,Subversion;#Git;#None,Yes,,1.0,3.0,1.0,1.0,1.0,1.0,3.0,Yes,,1.0,1.0,3.0,,3.0,3.0,3.0,No,Name;#Link;#DOI,No
+640,35 - 44,Master degree,Computer Science,Institute Space 12,Yes,1,10.0,C;#C++;#MATLAB,,4.0,3.0,2.0,1.0,4.0,3.0,2.0,1.0,Subversion;#Git,Yes,,1.0,3.0,1.0,2.0,2.0,2.0,3.0,Yes,,1.0,2.0,3.0,,2.0,2.0,3.0,No,Name,No
+641,25 - 34,Master degree,Aeronautical & Manufacturing Engineering,Institute Energy 2,Yes,2,6.0,C;#Python;#C++;#MATLAB;#Fortran,,4.0,3.0,2.0,1.0,2.0,4.0,1.0,1.0,Subversion,Yes,,2.0,3.0,2.0,1.0,1.0,2.0,2.0,Yes,,1.0,1.0,3.0,,3.0,2.0,3.0,No,,No
+642,35 - 44,Doctorate,Other,Other 1,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+643,25 - 34,Master degree,Mechanical Engineering,Institute Aeronautics 1,Yes,2,2.0,MATLAB;#Other,,2.0,4.0,2.0,2.0,3.0,5.0,1.0,1.0,None,Yes,,1.0,3.0,1.0,2.0,2.0,1.0,1.0,Yes,,1.0,1.0,3.0,,2.0,3.0,3.0,Yes,Name,No
+644,35 - 44,Doctorate,Other,Institute Space 19,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes,Name;#DOI,
+645,35 - 44,Doctorate,Aeronautical & Manufacturing Engineering,Institute Aeronautics 1,Yes,3,10.0,Python;#Fortran,,3.0,5.0,1.0,1.0,1.0,8.0,0.0,1.0,Subversion;#Git,Yes,,2.0,3.0,1.0,2.0,3.0,1.0,3.0,Yes,,1.0,1.0,3.0,,3.0,2.0,2.0,Yes,Name,No
+646,25 - 34,Other,Mechanical Engineering,Institute Energy 2,Yes,5 - Mostly other people,2.0,Other,,4.0,1.0,2.0,3.0,3.0,2.0,1.0,4.0,Subversion,Yes,,1.0,3.0,2.0,2.0,1.0,1.0,1.0,Yes,,1.0,1.0,3.0,,1.0,3.0,3.0,No,,No
+647,25 - 34,Master degree,Mathematics,Institute Space 1,Yes,1,32.0,Python;#Julia,,2.0,7.0,0.0,1.0,3.0,7.0,0.0,0.0,Git,Yes,,2.0,2.0,1.0,1.0,1.0,1.0,3.0,Yes,,2.0,3.0,2.0,,2.0,2.0,2.0,Yes,Link;#DOI,Yes
+648,25 - 34,Master degree,Geography & Environmental Sciences,Institute Space 1,Yes,2,6.0,Python;#R,,6.0,3.0,1.0,0.0,5.0,4.0,1.0,0.0,Git,Yes,,1.0,3.0,1.0,2.0,3.0,2.0,2.0,Yes,,3.0,2.0,2.0,,3.0,3.0,3.0,Yes,Link;#DOI,Yes
+649,35 - 44,Master degree,Aeronautical & Manufacturing Engineering,Institute Aeronautics 6,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes,Name;#Link,
+650,25 - 34,Doctorate,Civil Engineering,Institute Transport 3,Yes,2,5.0,R,,0.0,6.0,3.0,1.0,0.0,7.0,2.0,1.0,None,Yes,,1.0,3.0,1.0,1.0,1.0,1.0,2.0,Yes,,1.0,2.0,3.0,,3.0,3.0,3.0,Yes,Name,No
+651,45 - 54,Doctorate,Electrical & Electronic Engineering,Institute Space 4,Yes,0 - Mostly me,5.0,Java;#MATLAB,,2.0,4.0,3.0,1.0,3.0,5.0,1.0,1.0,Subversion,Yes,,3.0,3.0,,,,2.0,2.0,Yes,,1.0,1.0,3.0,,3.0,3.0,3.0,No,Other,No
+652,35 - 44,Master degree,Computer Science,Institute Space 7,Yes,2,26.0,C;#Python;#C++;#Assembly language;#Other,,5.0,2.0,1.0,2.0,8.0,1.0,0.0,1.0,Subversion;#Git,Yes,,2.0,3.0,2.0,1.0,1.0,1.0,2.0,Yes,,2.0,2.0,3.0,,2.0,2.0,3.0,Yes,Name;#Link,No
+653,25 - 34,Master degree,Aeronautical & Manufacturing Engineering,Institute Aeronautics 11,Yes,2,2.0,Python;#C#;#MATLAB,,4.0,3.0,2.0,1.0,3.0,4.0,2.0,1.0,Git,Yes,,1.0,3.0,2.0,2.0,2.0,1.0,1.0,Yes,,2.0,2.0,2.0,,3.0,3.0,2.0,Yes,Name,Yes
+654,45 - 54,Master degree,Aeronautical & Manufacturing Engineering,Institute Aeronautics 8,Yes,1,35.0,C;#C++;#Visual Basic .NET;#PHP;#SQL;#MATLAB;#Visual Basic,,5.0,2.0,2.0,1.0,5.0,2.0,2.0,1.0,Subversion,No,,1.0,2.0,1.0,2.0,2.0,2.0,2.0,Yes,,2.0,2.0,3.0,,2.0,2.0,3.0,No,,No
+655,35 - 44,Doctorate,Chemistry,Other,Yes,0 - Mostly me,20.0,C++;#Other,,1.0,4.0,4.0,1.0,2.0,8.0,1.0,0.0,Other,No,,,3.0,1.0,1.0,1.0,1.0,1.0,Yes,,1.0,1.0,3.0,,1.0,1.0,3.0,No,Name,No
+656,18 - 24,general qualification for university entrance,Other,Institute Aeronautics 3,Yes,5 - Mostly other people,2.0,C++;#Fortran,,9.0,0.0,0.0,2.0,8.0,2.0,0.0,2.0,Subversion,No,,1.0,2.0,1.0,1.0,1.0,1.0,1.0,Yes,,1.0,1.0,3.0,,3.0,3.0,3.0,Yes,Name,Yes
+657,45 - 54,Master degree,Computer Science,,Yes,3,20.0,C;#C++,,7.0,1.0,1.0,1.0,7.0,1.0,1.0,1.0,Subversion,No,,1.0,2.0,1.0,2.0,1.0,2.0,2.0,Yes,,1.0,2.0,3.0,,3.0,3.0,3.0,Yes,Name,No
+658,45 - 54,Master degree,Mechanical Engineering,Institute Aeronautics 3,Yes,5 - Mostly other people,18.0,Python;#C++,,3.0,4.0,3.0,,2.0,6.0,2.0,,Subversion,Yes,,3.0,3.0,,3.0,3.0,2.0,2.0,Yes,,3.0,3.0,2.0,,3.0,3.0,3.0,Yes,Name;#Link,Yes
+659,25 - 34,Master degree,Mechanical Engineering,Institute Space 10,Yes,0 - Mostly me,10.0,Python;#C++;#Visual Basic .NET;#MATLAB,,3.0,4.0,2.0,1.0,3.0,4.0,2.0,1.0,None,No,,1.0,2.0,1.0,1.0,1.0,1.0,1.0,Yes,,1.0,2.0,3.0,,3.0,3.0,3.0,No,,No
+660,,Final secondary-school examination,Information Management,Institute Aeronautics 1,Yes,5 - Mostly other people,,Java;#C;#Python;#C++;#MATLAB,,6.0,1.0,3.0,0.0,6.0,3.0,1.0,0.0,Git,Yes,,2.0,3.0,2.0,3.0,1.0,2.0,3.0,Yes,,2.0,3.0,2.0,,3.0,3.0,2.0,Yes,Name,No
+661,35 - 44,general qualification for university entrance,,Institute Space 16,Yes,3,10.0,C++;#C#;#JavaScript,,3.0,2.0,2.0,3.0,5.0,5.0,,,Git,Yes,,1.0,3.0,1.0,2.0,2.0,2.0,1.0,Yes,,1.0,2.0,3.0,,3.0,3.0,3.0,No,Other,No
+662,35 - 44,Master degree,Other,Institute Space 10,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes,Name;#DOI;#Other,
+663,55 or older,Other,,Institute Space 3,Yes,5 - Mostly other people,10.0,C;#C++;#C#,,8.0,0.0,0.0,2.0,8.0,0.0,0.0,2.0,Git,Yes,,1.0,3.0,1.0,1.0,1.0,1.0,1.0,Yes,,,,3.0,,1.0,2.0,2.0,No,,No
+664,25 - 34,Master degree,Mechanical Engineering,Institute Aeronautics 3,Yes,2,4.0,Python;#Visual Basic,,2.0,2.0,2.0,4.0,4.0,4.0,1.0,1.0,Subversion,No,,1.0,3.0,1.0,1.0,1.0,1.0,1.0,Yes,,1.0,1.0,3.0,,3.0,3.0,2.0,No,,Yes
+665,35 - 44,Master degree,Mathematics,Other,Yes,3,11.0,C;#Python;#MATLAB,,3.0,3.0,1.0,3.0,4.0,4.0,1.0,1.0,Git,Yes,,1.0,3.0,1.0,2.0,1.0,1.0,2.0,Yes,,3.0,3.0,2.0,,3.0,3.0,3.0,No,,No
+666,25 - 34,Undergraduate degree,Computer Science,Other 1,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes,Link,
+667,25 - 34,Master degree,Mechanical Engineering,Institute Aeronautics 15,Yes,1,1.0,Visual Basic;#Other,,1.0,0.0,3.0,6.0,1.0,2.0,3.0,4.0,None,Yes,,1.0,2.0,1.0,3.0,2.0,1.0,2.0,Yes,,2.0,2.0,3.0,,3.0,3.0,3.0,No,,No
+668,25 - 34,Master degree,Psychology,Institute Space 2,Yes,1,5.0,Python;#C++;#R,,2.0,5.0,2.0,7.0,6.0,6.0,2.0,6.0,None,No,,1.0,1.0,1.0,1.0,1.0,1.0,1.0,Yes,,1.0,2.0,2.0,,2.0,2.0,2.0,Yes,Name,No
+669,25 - 34,Doctorate,Physics,Institute Space 5,Yes,0 - Mostly me,3.0,Python;#C++,,2.0,7.0,1.0,0.0,3.0,6.0,1.0,0.0,Git,No,,1.0,2.0,1.0,2.0,1.0,1.0,1.0,Yes,,1.0,2.0,3.0,,3.0,3.0,3.0,Yes,Name;#Link,No
+670,35 - 44,Master degree,Geography & Environmental Sciences,Other 1,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes,Name;#Link,
+671,25 - 34,Master degree,Mechanical Engineering,Institute Space 11,Yes,1,6.0,C;#Python;#C++;#MATLAB,,3.0,1.0,0.0,6.0,3.0,4.0,2.0,1.0,Subversion;#Git,Yes,,1.0,3.0,1.0,2.0,1.0,2.0,2.0,Yes,,1.0,2.0,3.0,,3.0,3.0,3.0,No,,No
+672,35 - 44,Doctorate,Electrical & Electronic Engineering,Institute Space 12,Yes,3,18.0,Python;#C++;#MATLAB;#IDL,,2.0,4.0,3.0,1.0,4.0,4.0,1.0,1.0,Git,Yes,,1.0,3.0,1.0,2.0,3.0,2.0,3.0,Yes,,1.0,1.0,3.0,,3.0,3.0,1.0,Yes,Name;#Link,Yes
+673,55 or older,Doctorate,Physics,Institute Space 4,Yes,1,20.0,MATLAB,,2.0,3.0,5.0,2.0,2.0,5.0,3.0,2.0,Subversion,No,,1.0,2.0,1.0,2.0,1.0,1.0,2.0,Yes,,1.0,1.0,3.0,,1.0,1.0,3.0,No,Name,No
+674,35 - 44,Master degree,General Engineering,Institute Aeronautics 3,Yes,5 - Mostly other people,10.0,C;#Python;#C++,,4.0,3.0,1.0,2.0,3.0,4.0,,3.0,Subversion;#Git,Yes,,2.0,3.0,2.0,2.0,2.0,2.0,2.0,Yes,,3.0,3.0,2.0,,3.0,3.0,3.0,Yes,Name;#Link,No
+675,18 - 24,general qualification for university entrance,,Institute Space 15,Yes,2,4.0,Python;#C++;#R,,7.0,3.0,0.0,0.0,7.0,3.0,0.0,0.0,None,Yes,,2.0,3.0,2.0,2.0,2.0,2.0,2.0,Yes,,1.0,2.0,3.0,,3.0,2.0,3.0,No,,Yes
+676,55 or older,Doctorate,Physics,Institute Space 6,Yes,2,15.0,Python;#MATLAB;#Fortran,,4.0,4.0,,2.0,4.0,,6.0,,None,Yes,,,2.0,,2.0,,,,Yes,,,,3.0,,3.0,3.0,3.0,Yes,Other,Yes
+677,35 - 44,Master degree,Chemical Engineering,Institute Energy 4,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+678,25 - 34,Master degree,Other,Other,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+679,55 or older,Master degree,Economics,Institute Space 19,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+680,25 - 34,Master degree,Computer Science,Institute Aeronautics 8,Yes,4,4.0,Java;#C++;#MATLAB,,5.0,2.0,1.0,2.0,3.0,2.0,4.0,2.0,Subversion,Yes,,1.0,3.0,2.0,2.0,3.0,2.0,2.0,Yes,,1.0,1.0,3.0,,3.0,3.0,3.0,Yes,Name,No
+681,25 - 34,Doctorate,Psychology,Institute Space 19,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,Name,
+682,35 - 44,Doctorate,Computer Science,Institute Energy 1,Yes,3,10.0,C;#Python;#C++;#JavaScript;#Lisp;#Other,,5.0,2.0,2.0,1.0,5.0,4.0,1.0,0.0,"Git;#Other DVCS (e.g. Bazaar, BitKeeper, GNU arch, Mercurial, Monotone)",Yes,,1.0,3.0,1.0,2.0,2.0,3.0,3.0,Yes,,3.0,3.0,3.0,,3.0,3.0,3.0,Yes,Name;#Link;#DOI,Yes
+683,45 - 54,Master degree,Computer Science,Institute Space 16,Yes,3,30.0,C;#Python;#C++;#JavaScript;#Assembly language;#Other,,5.0,0.0,0.0,5.0,5.0,,,5.0,Subversion;#Git,Yes,,1.0,3.0,1.0,2.0,3.0,2.0,3.0,Yes,,1.0,1.0,3.0,,3.0,3.0,3.0,No,,No
+684,35 - 44,Doctorate,Aeronautical & Manufacturing Engineering,Institute Space 3,Yes,3,9.0,C++;#C#;#PHP;#JavaScript;#SQL;#Visual Basic,,3.0,3.0,4.0,3.0,,6.0,6.0,1.0,Git,Yes,,1.0,2.0,1.0,2.0,2.0,2.0,2.0,Yes,,1.0,2.0,3.0,,3.0,3.0,3.0,Yes,Name,Yes
+685,45 - 54,Doctorate,Aeronautical & Manufacturing Engineering,Institute Aeronautics 3,Yes,0 - Mostly me,5.0,Delphi/Object Pascal;#MATLAB;#Other,,1.0,2.0,5.0,2.0,2.0,4.0,2.0,2.0,None,Yes,,,3.0,,,,2.0,2.0,Yes,,1.0,1.0,3.0,,3.0,3.0,3.0,No,Other,No
+686,25 - 34,Master degree,Computer Science,Institute Space 4,Yes,0 - Mostly me,7.0,Python;#MATLAB,,4.0,5.0,0.0,1.0,4.0,4.0,,2.0,Subversion;#Git,Yes,,2.0,3.0,2.0,1.0,,1.0,2.0,Yes,,,,3.0,,2.0,2.0,2.0,No,,No
+687,35 - 44,Master degree,Physics,Institute Space 16,Yes,0 - Mostly me,10.0,IDL;#Other,,2.0,0.0,0.0,8.0,2.0,0.0,0.0,8.0,None,Yes,,,3.0,,3.0,,,,Yes,,1.0,1.0,3.0,,3.0,1.0,3.0,No,,No
+688,35 - 44,Doctorate,Electrical & Electronic Engineering,Institute Aeronautics 2,Yes,2,10.0,C;#Python;#Fortran,,3.0,2.0,3.0,2.0,3.0,4.0,2.0,1.0,"Subversion;#Git;#Other DVCS (e.g. Bazaar, BitKeeper, GNU arch, Mercurial, Monotone)",Yes,,1.0,3.0,2.0,2.0,1.0,3.0,3.0,Yes,,2.0,2.0,2.0,,2.0,2.0,2.0,No,,No
+689,25 - 34,Master degree,Mechanical Engineering,Institute Energy 3,Yes,0 - Mostly me,2.0,Python;#MATLAB,,3.0,4.0,1.0,2.0,4.0,4.0,1.0,1.0,Git,Yes,,1.0,3.0,1.0,1.0,1.0,1.0,2.0,Yes,,1.0,1.0,3.0,,2.0,2.0,3.0,Yes,Name,No
+690,45 - 54,Doctorate,Physics,Institute Space 8,Yes,1,15.0,C;#Python,,3.0,5.0,2.0,1.0,3.0,6.0,1.0,1.0,Subversion,Yes,,2.0,3.0,1.0,1.0,1.0,1.0,2.0,Yes,,1.0,1.0,3.0,,3.0,2.0,3.0,Yes,Name;#DOI,Yes
+691,45 - 54,Doctorate,Physics,Institute Space 9,Yes,1,16.0,Other,,2.0,5.0,2.0,1.0,2.0,6.0,1.0,1.0,None,No,,1.0,1.0,2.0,1.0,1.0,1.0,1.0,Yes,,1.0,1.0,3.0,,1.0,3.0,3.0,Yes,Name,No
+692,55 or older,Other,Other,,Yes,4,37.0,Fortran,,8.0,2.0,0.0,0.0,,,,,Subversion,Yes,,2.0,3.0,2.0,2.0,2.0,2.0,2.0,Yes,,1.0,1.0,3.0,,1.0,2.0,3.0,Yes,Name,Yes
+693,25 - 34,Master degree,General Engineering,Institute Space 13,Yes,1,0.0,Python;#MATLAB,,0.0,7.0,3.0,,,7.0,3.0,,Git,Yes,,1.0,3.0,2.0,2.0,1.0,1.0,1.0,No,,1.0,1.0,3.0,,1.0,3.0,3.0,No,,No
+694,25 - 34,Master degree,Mechanical Engineering,Institute Energy 3,Yes,4,6.0,C;#Python;#C++;#Delphi/Object Pascal,,5.0,3.0,0.0,2.0,5.0,5.0,0.0,0.0,Subversion,Yes,,2.0,3.0,1.0,3.0,3.0,1.0,3.0,Yes,,1.0,1.0,3.0,,3.0,3.0,3.0,Yes,Name;#Link,Yes
+695,45 - 54,Doctorate,Mechanical Engineering,Institute Aeronautics 8,Yes,0 - Mostly me,32.0,C;#Python;#C++;#MATLAB,,2.0,3.0,5.0,,4.0,4.0,2.0,,Subversion,No,,1.0,1.0,1.0,1.0,1.0,1.0,2.0,Yes,,1.0,1.0,2.0,,2.0,2.0,2.0,Yes,Name;#Link,No
+696,45 - 54,Doctorate,Mechanical Engineering,Institute Energy 3,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,Name,
+697,55 or older,Other,Other,Institute Aeronautics 5,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+698,35 - 44,Doctorate,Biological Sciences,Institute Space 2,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes,Name,
+699,35 - 44,Doctorate,Aeronautical & Manufacturing Engineering,Institute Transport 1,Yes,2,15.0,Python;#C++;#MATLAB,,2.0,1.0,4.0,3.0,2.0,3.0,3.0,2.0,Subversion;#Git,Yes,,2.0,3.0,2.0,1.0,1.0,2.0,3.0,Yes,,1.0,2.0,2.0,,1.0,2.0,2.0,Yes,Name;#Link;#DOI,No
+700,25 - 34,Master degree,Aeronautical & Manufacturing Engineering,Other,Yes,4,1.0,Python;#MATLAB,,3.0,4.0,1.0,2.0,2.0,5.0,1.0,3.0,None,Yes,,2.0,3.0,2.0,2.0,1.0,1.0,2.0,Yes,,1.0,2.0,3.0,,3.0,3.0,3.0,Yes,Name,Yes
+701,55 or older,Master degree,Physics,Institute Space 8,Yes,1,35.0,C;#Python;#Other,,7.0,3.0,,,7.0,3.0,,,None,Yes,,1.0,3.0,1.0,2.0,3.0,1.0,2.0,Yes,,1.0,1.0,3.0,,3.0,3.0,3.0,Yes,Other,No
+702,45 - 54,Master degree,Computer Science,Institute Aeronautics 6,Yes,4,20.0,Java;#C;#Python;#C++;#JavaScript;#Other,,3.0,4.0,1.0,2.0,5.0,5.0,,,"Subversion;#Other DVCS (e.g. Bazaar, BitKeeper, GNU arch, Mercurial, Monotone)",Yes,,2.0,3.0,2.0,2.0,1.0,2.0,2.0,Yes,,2.0,2.0,3.0,,3.0,3.0,2.0,Yes,Name;#Link,No
+703,25 - 34,Master degree,Computer Science,Institute Transport 1,Yes,5 - Mostly other people,2.0,Python;#C++,,7.0,,3.0,,4.0,4.0,2.0,,Git,Yes,,,,,,,,2.0,Yes,,3.0,,,,3.0,3.0,,No,,Yes
+704,35 - 44,Doctorate,Mechanical Engineering,Institute Space 16,Yes,1,10.0,C;#C++;#MATLAB,,3.0,4.0,2.0,1.0,3.0,4.0,2.0,1.0,Subversion;#Git,Yes,,1.0,3.0,1.0,2.0,1.0,1.0,1.0,Yes,,1.0,2.0,3.0,,3.0,3.0,2.0,No,,No
+705,45 - 54,Master degree,Physics,Institute Energy 1,Yes,1,25.0,C;#Python;#MATLAB,,5.0,4.0,,1.0,2.0,8.0,,,Git;#CVS,Yes,,,3.0,,,,,2.0,Yes,,,,3.0,,3.0,,3.0,Yes,Name;#Link;#DOI,Yes
+706,35 - 44,Master degree,Mechanical Engineering,Institute Aeronautics 5,Yes,2,4.0,MATLAB,,1.0,3.0,4.0,2.0,3.0,5.0,2.0,0.0,Subversion,No,,,,,,,,,No,,,,,,,,,No,,No
+707,35 - 44,Master degree,Mathematics,Institute Aeronautics 1,Yes,4,10.0,C;#Python;#C++;#Other,,4.0,3.0,1.0,2.0,6.0,2.0,0.0,2.0,Subversion;#Git,Yes,,2.0,3.0,2.0,2.0,2.0,2.0,2.0,Yes,,3.0,2.0,3.0,,3.0,3.0,3.0,Yes,Name;#Link;#DOI;#Other,No
+708,45 - 54,Doctorate,Physics,Institute Energy 1,Yes,1,20.0,Python;#Fortran;#IDL,,2.0,3.0,4.0,1.0,3.0,4.0,2.0,1.0,Git,Yes,,1.0,3.0,1.0,1.0,1.0,2.0,2.0,Yes,,1.0,2.0,3.0,,3.0,2.0,3.0,Yes,Name,No
+709,35 - 44,Doctorate,Psychology,Institute Space 2,Yes,0 - Mostly me,3.0,Visual Basic;#Other,,1.0,5.0,3.0,1.0,1.0,4.0,3.0,1.0,None,Yes,,1.0,2.0,1.0,1.0,1.0,1.0,2.0,Yes,,1.0,1.0,3.0,,3.0,3.0,3.0,No,Other,No
+710,35 - 44,Master degree,Computer Science,Institute Transport 1,Yes,4,7.0,Python;#C++,,3.0,2.0,4.0,1.0,2.0,4.0,2.0,2.0,Subversion;#Git,Yes,,2.0,3.0,2.0,3.0,2.0,2.0,2.0,Yes,,2.0,3.0,3.0,,3.0,3.0,3.0,Yes,Name;#Link,No
+711,25 - 34,Undergraduate degree,Other,Other 1,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes,Link;#Other,
+712,18 - 24,Undergraduate degree,Computer Science,Institute Aeronautics 8,Yes,2,5.0,C;#Python;#C++;#MATLAB,,6.0,2.0,1.0,1.0,6.0,3.0,0.0,1.0,Subversion;#Git,Yes,,2.0,2.0,1.0,2.0,1.0,1.0,2.0,Yes,,1.0,2.0,3.0,,3.0,3.0,3.0,No,,Yes
+713,25 - 34,Master degree,Physics,Institute Space 7,Yes,1,0.0,Python;#IDL;#Other,,0.0,5.0,2.0,3.0,0.0,10.0,0.0,0.0,None,Yes,,1.0,3.0,1.0,1.0,1.0,1.0,2.0,Yes,,1.0,2.0,3.0,,3.0,2.0,3.0,Yes,Name;#Link;#Other,No
+714,45 - 54,Doctorate,Other,Other 1,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+715,25 - 34,Master degree,Electrical & Electronic Engineering,Institute Space 11,Yes,3,3.0,C;#Other,,4.0,4.0,,2.0,3.0,5.0,,2.0,Subversion;#Git,Yes,,2.0,3.0,2.0,3.0,2.0,2.0,3.0,Yes,,2.0,3.0,3.0,,3.0,3.0,3.0,Yes,Name;#Link,Yes
+716,35 - 44,Doctorate,Physics,Institute Space 15,Yes,3,12.0,MATLAB;#Fortran;#IDL,,4.0,1.0,3.0,1.0,4.0,4.0,1.0,1.0,None,Yes,,2.0,3.0,3.0,3.0,1.0,1.0,2.0,Yes,,1.0,2.0,3.0,,3.0,3.0,3.0,Yes,Name;#Link,Yes
+717,25 - 34,Master degree,Other,Institute Space 10,Yes,0 - Mostly me,3.0,Python;#MATLAB,,4.0,5.0,0.0,3.0,4.0,5.0,0.0,3.0,Git,No,,1.0,3.0,1.0,1.0,1.0,1.0,1.0,Yes,,1.0,2.0,3.0,,3.0,2.0,3.0,No,Name,No
+718,35 - 44,Doctorate,Mechanical Engineering,Institute Space 16,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes,Name,
+719,,Master degree,Computer Science,Institute Space 15,Yes,3,,Java;#Python;#JavaScript;#Other,,6.0,0.0,4.0,0.0,8.0,0.0,2.0,0.0,Git,Yes,,2.0,3.0,2.0,3.0,3.0,3.0,3.0,Yes,,3.0,3.0,3.0,,3.0,3.0,2.0,Yes,Name;#Link,No
+720,35 - 44,Doctorate,Electrical & Electronic Engineering,Institute Space 4,Yes,3,10.0,C++;#MATLAB;#Other,,1.0,3.0,5.0,1.0,3.0,3.0,3.0,1.0,Subversion,Yes,,1.0,3.0,1.0,3.0,2.0,2.0,3.0,Yes,,1.0,3.0,3.0,,3.0,3.0,3.0,Yes,Name;#Link;#DOI,No
+721,35 - 44,Doctorate,Aeronautical & Manufacturing Engineering,Other,Yes,1,8.0,MATLAB,,1.0,3.0,2.0,4.0,2.0,6.0,1.0,1.0,Other,Yes,,1.0,3.0,1.0,1.0,1.0,1.0,2.0,Yes,,1.0,1.0,3.0,,3.0,3.0,3.0,Yes,Other,No
+722,25 - 34,Master degree,Geography & Environmental Sciences,Institute Space 16,Yes,4,2.0,Java;#C;#Python;#PHP;#SQL;#Go;#Other,,4.0,5.0,1.0,2.0,3.0,4.0,2.0,3.0,Subversion;#Git,Yes,,2.0,3.0,2.0,2.0,1.0,2.0,3.0,Yes,,3.0,3.0,2.0,,3.0,3.0,3.0,No,Name;#Link;#Other,No
+723,35 - 44,Master degree,Electrical & Electronic Engineering,Institute Space 4,Yes,0 - Mostly me,5.0,Java;#C;#C++;#MATLAB,,2.0,2.0,3.0,3.0,3.0,3.0,2.0,2.0,Subversion,No,,1.0,2.0,1.0,1.0,1.0,1.0,1.0,Yes,,1.0,1.0,3.0,,3.0,3.0,3.0,No,,No
+724,35 - 44,Master degree,Computer Science,Institute Aeronautics 4,Yes,1,12.0,Java;#C;#Python;#C++;#JavaScript;#Visual Basic;#Prolog,,2.0,2.0,5.0,1.0,5.0,5.0,,,Git,Yes,,1.0,3.0,1.0,1.0,2.0,2.0,2.0,Yes,,1.0,2.0,2.0,,2.0,2.0,2.0,Yes,Name;#Link;#DOI,Yes
+725,55 or older,Final secondary-school examination,,,Yes,3,35.0,C;#C++;#Visual Basic;#F#;#Fortran;#Other,,8.0,2.0,0.0,0.0,7.0,3.0,0.0,0.0,None,Yes,,1.0,3.0,1.0,2.0,2.0,1.0,2.0,Yes,,1.0,1.0,3.0,,3.0,3.0,3.0,No,,No
+726,18 - 24,Final secondary-school examination,Mechanical Engineering,Institute Aeronautics 8,Yes,5 - Mostly other people,10.0,Python,,6.0,4.0,1.0,1.0,6.0,4.0,1.0,1.0,None,Yes,,1.0,3.0,2.0,3.0,2.0,1.0,3.0,Yes,,1.0,1.0,3.0,,3.0,3.0,3.0,No,Name;#Link,No
+727,35 - 44,Master degree,Geography & Environmental Sciences,Institute Space 15,Yes,3,16.0,C;#C++;#R,,5.0,4.0,0.0,1.0,4.0,6.0,0.0,0.0,CVS,Yes,,1.0,3.0,2.0,3.0,1.0,1.0,1.0,Yes,,1.0,1.0,3.0,,2.0,1.0,3.0,No,Name,No
+728,35 - 44,Master degree,Mechanical Engineering,Institute Space 12,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes,Name;#Other,
+729,25 - 34,Master degree,Mechanical Engineering,Institute Aeronautics 3,Yes,3,10.0,Python;#C++,,4.0,4.0,1.0,1.0,6.0,4.0,0.0,0.0,Subversion,Yes,,1.0,1.0,1.0,2.0,1.0,3.0,3.0,Yes,,2.0,2.0,3.0,,3.0,3.0,2.0,Yes,Name;#Other,Yes
+730,35 - 44,Doctorate,Physics,Institute Space 15,Yes,0 - Mostly me,15.0,C++;#C#;#IDL;#Other,,1.0,2.0,4.0,3.0,2.0,5.0,1.0,2.0,None,Yes,,1.0,3.0,1.0,2.0,1.0,1.0,2.0,Yes,,1.0,1.0,3.0,,3.0,2.0,3.0,No,,No
+731,18 - 24,Undergraduate degree,Computer Science,Institute Aeronautics 2,Yes,5 - Mostly other people,4.0,Python;#MATLAB,,6.0,1.0,1.0,2.0,4.0,4.0,1.0,1.0,"Other DVCS (e.g. Bazaar, BitKeeper, GNU arch, Mercurial, Monotone)",Yes,,2.0,3.0,2.0,2.0,1.0,2.0,3.0,Yes,,3.0,2.0,2.0,,3.0,3.0,3.0,Yes,Name;#Link,No
+732,25 - 34,Master degree,Mechanical Engineering,Institute Aeronautics 1,Yes,1,6.0,Python;#Fortran,,4.0,1.0,0.0,5.0,2.0,2.0,0.0,6.0,Subversion,Yes,,2.0,2.0,2.0,1.0,3.0,1.0,2.0,Yes,,1.0,2.0,3.0,,3.0,3.0,3.0,Yes,Name,Yes
+733,25 - 34,general qualification for university entrance,Other,Institute Aeronautics 5,Yes,0 - Mostly me,0.0,Python,,0.0,4.0,3.0,3.0,0.0,4.0,4.0,2.0,None,Yes,,1.0,3.0,1.0,2.0,1.0,1.0,2.0,Yes,,1.0,2.0,3.0,,3.0,3.0,3.0,No,Name;#Link,Yes
+734,35 - 44,Master degree,Other,Other,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes,Name;#Link;#Other,
+735,35 - 44,Master degree,Electrical & Electronic Engineering,Institute Aeronautics 6,Yes,1,12.0,C;#C++;#JavaScript,,6.0,2.0,1.0,1.0,6.0,2.0,1.0,1.0,Subversion;#Git,Yes,,2.0,3.0,1.0,1.0,2.0,2.0,3.0,Yes,,1.0,2.0,3.0,,3.0,3.0,3.0,Yes,Name,No
+736,45 - 54,Doctorate,Geography & Environmental Sciences,Other 1,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes,Name,
+737,55 or older,Doctorate,Mechanical Engineering,Institute Aeronautics 1,Yes,0 - Mostly me,10.0,MATLAB,,2.0,5.0,3.0,0.0,2.0,5.0,3.0,,Other,Yes,,2.0,3.0,1.0,2.0,1.0,1.0,3.0,Yes,,,2.0,3.0,,3.0,3.0,3.0,No,,No
+738,25 - 34,Other,Mechanical Engineering,Institute Aeronautics 8,Yes,3,7.0,C;#Python;#C++;#SQL;#MATLAB,,4.0,5.0,0.0,1.0,4.0,5.0,0.0,1.0,Subversion,Yes,,2.0,3.0,1.0,1.0,2.0,2.0,2.0,Yes,,1.0,1.0,3.0,,3.0,3.0,3.0,Yes,Name;#Link,No
+739,18 - 24,Final secondary-school examination,,Institute Aeronautics 1,Yes,2,2.0,Python;#Fortran,,5.0,3.0,1.0,1.0,8.0,2.0,1.0,2.0,Git,Yes,,2.0,3.0,1.0,3.0,2.0,2.0,3.0,Yes,,1.0,2.0,3.0,,3.0,3.0,3.0,Yes,Name;#Link,No
+740,35 - 44,Master degree,Electrical & Electronic Engineering,Institute Transport 2,Yes,1,5.0,Python;#MATLAB;#Other,,4.0,3.0,3.0,0.0,3.0,5.0,1.0,1.0,Subversion;#Git,Yes,,2.0,3.0,3.0,2.0,1.0,2.0,3.0,Yes,,1.0,2.0,3.0,,3.0,3.0,3.0,Yes,Name,No
+741,18 - 24,general qualification for university entrance,Economics,Other 1,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+742,25 - 34,Master degree,Electrical & Electronic Engineering,Institute Space 4,Yes,1,5.0,Python;#MATLAB,,4.0,5.0,0.0,1.0,3.0,5.0,1.0,1.0,Git,Yes,,1.0,2.0,1.0,2.0,2.0,1.0,2.0,Yes,,1.0,1.0,3.0,,3.0,3.0,3.0,Yes,Name,Yes
+743,45 - 54,Doctorate,Astronomy,Institute Space 6,Yes,3,25.0,Python;#C++,,3.0,3.0,2.0,2.0,3.0,5.0,1.0,1.0,Subversion;#Git,Yes,,1.0,3.0,1.0,2.0,2.0,2.0,3.0,Yes,,2.0,2.0,3.0,,3.0,3.0,3.0,No,,No
+744,25 - 34,Doctorate,Electrical & Electronic Engineering,Institute Space 3,Yes,2,6.0,Python;#C++;#MATLAB;#IDL,,3.0,4.0,2.0,1.0,4.0,5.0,1.0,0.0,Git,Yes,,2.0,3.0,2.0,2.0,2.0,2.0,3.0,Yes,,1.0,2.0,3.0,,3.0,3.0,3.0,Yes,Name;#Link;#DOI,Yes
+745,25 - 34,Master degree,Sociology,Institute Transport 3,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes,Name,
+746,35 - 44,Master degree,Mechanical Engineering,Institute Aeronautics 3,Yes,2,10.0,MATLAB;#Other,,2.0,6.0,1.0,1.0,,,,,Subversion,Yes,,1.0,3.0,1.0,1.0,3.0,1.0,2.0,Yes,,1.0,1.0,3.0,,3.0,2.0,2.0,Yes,Name,No
+747,25 - 34,Master degree,Computer Science,Institute Space 1,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+748,25 - 34,Master degree,Physics,Institute Space 8,Yes,1,4.0,Python;#C++;#Other,,1.0,6.0,0.0,3.0,1.0,7.0,1.0,1.0,None,Yes,,,3.0,1.0,1.0,1.0,1.0,2.0,Yes,,1.0,1.0,3.0,,1.0,2.0,3.0,No,,No
+749,45 - 54,Other,Other,Other,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes,Name;#Link,
+750,25 - 34,Master degree,Electrical & Electronic Engineering,Institute Space 4,Yes,1,1.0,MATLAB,,2.0,2.0,4.0,2.0,2.0,3.0,3.0,2.0,Git,Yes,,1.0,2.0,2.0,2.0,1.0,1.0,2.0,Yes,,1.0,1.0,3.0,,3.0,3.0,3.0,No,,Yes
+751,55 or older,general qualification for university entrance,Other,Other 1,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,Link,
+752,35 - 44,Doctorate,Physics,Institute Energy 1,Yes,5 - Mostly other people,10.0,Python;#SQL,,1.0,2.0,7.0,0.0,4.0,4.0,1.0,0.0,Git,Yes,,1.0,1.0,1.0,3.0,3.0,3.0,3.0,Yes,,1.0,1.0,3.0,,3.0,2.0,3.0,Yes,Name;#Link;#DOI,Yes
+753,35 - 44,Doctorate,Economics,Other,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes,Name,
+754,35 - 44,Doctorate,Electrical & Electronic Engineering,Institute Space 4,Yes,2,15.0,Python;#MATLAB,,2.0,5.0,2.0,1.0,0.0,9.0,1.0,0.0,Subversion,Yes,,1.0,3.0,1.0,1.0,1.0,1.0,1.0,Yes,,1.0,1.0,3.0,,3.0,2.0,3.0,Yes,Name;#Link,Yes
+755,35 - 44,Master degree,Mechanical Engineering,Institute Aeronautics 5,Yes,2,6.0,Python,,4.0,3.0,1.0,2.0,4.0,4.0,1.0,1.0,Subversion,Yes,,1.0,3.0,1.0,2.0,1.0,1.0,1.0,Yes,,3.0,3.0,2.0,,3.0,2.0,3.0,Yes,Name,No
+756,25 - 34,Master degree,Aeronautical & Manufacturing Engineering,Institute Aeronautics 8,Yes,2,5.0,C;#Python;#C++;#JavaScript,,5.0,3.0,1.0,1.0,3.0,7.0,0.0,0.0,Subversion;#Git,Yes,,3.0,3.0,1.0,1.0,1.0,2.0,2.0,Yes,,3.0,3.0,3.0,,3.0,3.0,3.0,Yes,Name;#Link,Yes
+757,25 - 34,Master degree,Mechanical Engineering,Other,Yes,5 - Mostly other people,3.0,Java;#C;#Visual Basic;#Other,,3.0,2.0,2.0,3.0,2.0,3.0,3.0,2.0,Git,Yes,,2.0,3.0,3.0,2.0,2.0,2.0,2.0,Yes,,3.0,3.0,3.0,,3.0,3.0,3.0,No,,Yes
+758,45 - 54,Master degree,Aeronautical & Manufacturing Engineering,Institute Aeronautics 1,Yes,3,20.0,C++;#Fortran,,3.0,3.0,2.0,2.0,4.0,4.0,1.0,1.0,Subversion,Yes,,2.0,3.0,1.0,2.0,3.0,1.0,3.0,Yes,,1.0,3.0,3.0,,3.0,3.0,3.0,Yes,Name;#Link,No
+759,25 - 34,Doctorate,Civil Engineering,Other,Yes,2,3.0,Python,,4.0,4.0,0.0,2.0,4.0,4.0,0.0,2.0,Git,Yes,,3.0,3.0,2.0,2.0,2.0,3.0,3.0,Yes,,1.0,2.0,2.0,,3.0,3.0,3.0,Yes,Name;#Other,Yes
+760,25 - 34,Master degree,Other,Institute Space 9,Yes,0 - Mostly me,8.0,C++,,4.0,4.0,0.0,2.0,4.0,4.0,0.0,2.0,Other,Yes,,1.0,3.0,1.0,2.0,1.0,1.0,2.0,Yes,,1.0,3.0,2.0,,3.0,3.0,3.0,Yes,Name,No
+761,35 - 44,Doctorate,Mechanical Engineering,,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes,Name;#Link;#Other,
+762,25 - 34,Master degree,Economics,Other,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes,Name;#Link;#DOI,
+763,35 - 44,Doctorate,Chemistry,,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes,Name;#Link,
+764,55 or older,Doctorate,Medicine,Institute Space 2,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+765,35 - 44,Doctorate,Computer Science,Institute Space 1,Yes,0 - Mostly me,10.0,Python;#C++,,2.0,6.0,1.0,1.0,3.0,6.0,0.0,1.0,Git,Yes,,1.0,3.0,1.0,1.0,1.0,2.0,3.0,No,,1.0,1.0,2.0,,1.0,1.0,1.0,Yes,Name;#Link,No
+766,35 - 44,Doctorate,Mathematics,Institute Energy 1,Yes,1,1.0,Python,,2.0,5.0,2.0,1.0,2.0,7.0,1.0,0.0,Git,Yes,,1.0,3.0,1.0,2.0,1.0,1.0,3.0,Yes,,3.0,3.0,3.0,,3.0,3.0,3.0,Yes,Name;#Link,No
+767,25 - 34,Master degree,Other,Institute Aeronautics 4,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes,Name,
+768,25 - 34,Master degree,Other,Institute Space 11,Yes,2,12.0,C;#MATLAB,,9.0,7.0,2.0,4.0,8.0,8.0,1.0,3.0,Subversion;#Git,Yes,,1.0,3.0,2.0,1.0,1.0,1.0,2.0,Yes,,1.0,2.0,3.0,,3.0,3.0,3.0,Yes,Name;#Link,No
+769,35 - 44,Master degree,General Engineering,Institute Space 15,Yes,5 - Mostly other people,3.0,Java;#Python;#PHP;#SQL;#Perl,,2.0,0.0,6.0,2.0,3.0,,4.0,3.0,Git,Yes,,1.0,3.0,1.0,3.0,3.0,3.0,3.0,Yes,,2.0,3.0,3.0,,3.0,3.0,3.0,No,,Yes
+770,25 - 34,Master degree,Psychology,Institute Aeronautics 6,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Yes,Name;#Link;#DOI;#Other,
+771,45 - 54,Other,Electrical & Electronic Engineering,Other,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No,,
+772,45 - 54,Doctorate,Physics,Institute Space 5,Yes,2,20.0,Python;#C++;#IDL,,3.0,3.0,2.0,2.0,3.0,4.0,2.0,1.0,Git,Yes,,2.0,3.0,1.0,2.0,1.0,1.0,2.0,Yes,,2.0,2.0,3.0,,3.0,3.0,3.0,Yes,DOI,No
