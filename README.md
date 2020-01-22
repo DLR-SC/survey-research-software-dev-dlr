@@ -38,7 +38,7 @@ in the [requirements.txt](requirements.txt) file.
 ## Citation
 If you use this work in a research publication, please cite the
 specific version that you used using the citation metadata on Zenodo
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3611307.svg)](https://doi.org/10.5281/zenodo.3611307).
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3611307.svg)](https://doi.org/10.5281/zenodo.3611306).
 
 You can find an overview about the different versions of the material
  in the [changelog](CHANGELOG.md).
